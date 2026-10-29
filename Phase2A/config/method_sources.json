@@ -1,0 +1,6 @@
+{
+  "OneHotEncoder": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html",
+  "CatBoost": "https://catboost.ai/docs/en/concepts/python-reference_catboostregressor",
+  "MixedLM": "https://www.statsmodels.org/stable/generated/statsmodels.regression.mixed_linear_model.MixedLM.predict.html",
+  "XGBoost": "https://xgboost.readthedocs.io/en/stable/python/python_api.html"
+}

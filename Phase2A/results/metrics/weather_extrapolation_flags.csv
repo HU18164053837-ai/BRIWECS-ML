@@ -1,0 +1,16 @@
+﻿site_year,weather_outside_training_range,outside_variables,outside_variable_count
+GGE_2015,False,,0
+GGE_2016,True,winter_temperature_mean,1
+GGE_2017,True,winter_temperature_sd|winter_radiation_sum,2
+HAN_2015,False,,0
+HAN_2016,False,,0
+HAN_2017,False,,0
+KAL_2015,False,,0
+KAL_2016,False,,0
+KAL_2017,False,,0
+KIE_2015,True,winter_temperature_sd|winter_precipitation_sum,2
+KIE_2016,True,winter_temperature_mean|winter_radiation_sum,2
+KIE_2017,False,,0
+QLB_2015,True,winter_precipitation_sum,1
+QLB_2016,False,,0
+QLB_2017,False,,0

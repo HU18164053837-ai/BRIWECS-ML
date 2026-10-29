@@ -1,0 +1,1827 @@
+
+
+
+
+
+ Stage-specific genotype-by-environment interactions determine yield components in wheat | Nature Plants
+ 
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ Skip to main content
+
+
+
+
+ 
+ 
+ Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+ the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+ Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+ and JavaScript.
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ Advertisement
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ View all journals
+ 
+ 
+ 
+ 
+ Saved research
+ 
+ 
+ 
+ 
+ Search
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Account
+
+
+ Log in
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Content
+ Explore content
+ 
+ 
+ 
+ 
+ 
+ 
+ About the journal
+ 
+ 
+ 
+ 
+ 
+ Publish with us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign up for alerts
+ 
+ 
+ 
+ 
+ 
+ 
+ RSS feed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ nature
+ 
+ 
+ 
+ nature plants
+ 
+ 
+ 
+ articles
+ 
+ 
+ 
+ 
+ article
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Article
+ 
+ 
+
+ Published: 21 September 2023
+ 
+
+ Stage-specific genotype-by-environment interactions determine yield components in wheat
+ Khadija Sabir1, Till Rose2, Benjamin Wittkop3, Andreas Stahl3,4, Rod J. Snowdon 
+ ORCID: orcid.org/0000-0001-5577-76163, Agim Ballvora5, Wolfgang Friedt 
+ ORCID: orcid.org/0000-0003-2928-22003, Henning Kage2, Jens Léon 
+ ORCID: orcid.org/0000-0002-6514-31125,6, Frank Ordon4, Hartmut Stützel 
+ ORCID: orcid.org/0000-0002-0015-55501, Holger Zetzsche4 & …Tsu-Wei Chen 
+ ORCID: orcid.org/0000-0001-6698-563X7 Show authors
+
+ 
+
+ 
+ Nature Plants
+ volume 9, pages 1688–1696 (2023) Cite this article
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Save article
+ 
+ 
+ 
+ 
+ 
+ View saved research
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5216 Accesses
+
+ 
+ 
+ 
+ 
+ 35 Citations
+
+ 
+ 
+ 
+ 
+ 
+ 53 Altmetric
+
+ 
+ 
+ 
+ 
+ 
+ Metrics details
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ Abstract
+In cereal crops, environmental fluctuations affect different physiological processes during various developmental phases associated with the formation of yield components. Because these effects are coupled with cultivar-specific phenology, studies investigating environmental responses in different cultivars can give contradictory results regarding key phases impacting yield performance. To dissect how genotype-by-environment interactions affect grain yield in winter wheat, we estimated the sensitivities of yield components to variation in global radiation, temperature and precipitation in 220 cultivars across 81 time-windows ranging from double ridge to seed desiccation. Environmental sensitivity responses were prominent in the short-term physiological subphases of spike and kernel development, causing phenologically dependent, stage-specific genotype-by-environment interactions. Here we reconcile contradicting findings from previous studies and show previously undetected effects; for example, the positive impact of global radiation on kernel weight during canopy senescence. This deep insight into the three-way interactions between phenology, yield formation and environmental fluctuations provides comprehensive new information for breeding and modelling cereal crops.
+
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ 
+ This is a preview of subscription content, access via your institution
+ 
+
+ 
+ 
+
+ Access options
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Access through your institution
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Access Nature and 54 other Nature Portfolio journals
+
+ Get Nature+, our best-value online-access subscription
+
+ 
+ 
+ $32.99 / 30 days
+ cancel any time
+ 
+ 
+ Learn more
+ 
+ 
+
+ 
+ 
+ 
+ Subscribe to this journal
+
+ Receive 12 digital issues and online access to articles
+
+ 
+ 
+ 
+ $119.00 per year
+ only $9.92 per issue
+ 
+ 
+ 
+ 
+ Learn more
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Buy this article
+Purchase on SpringerLinkInstant access to the full article PDF.USD 39.95
+
+ 
+ 
+ 
+
+ Prices may be subject to local taxes which are calculated during checkout
+
+ 
+
+ 
+ 
+
+ 
+ Additional access options:
+
+ 
+ 
+ Log in
+ 
+ 
+ Learn about institutional subscriptions
+ 
+ 
+ Read our FAQs
+ 
+ 
+ Contact customer support
+ 
+ 
+ 
+
+ 
+ Fig. 1: Effects of GR in 81 time-windows before and after heading (thermal time = 0 °Cd) on KpS.
+Fig. 2: Identification of time-windows of yield components (KpS, Sno and TKW) sensitive to variations in environmental variables (GR, Tmax, Tmean, Tmin and PR).
+Fig. 3: Time-windows of KpS that showed significant synergistic effects of two environmental variables on its formation.
+
+ 
+
+ 
+ 
+ 
+ Similar content being viewed by others
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Plasticity of source-sink dynamics contributes to wheat yield stability
+ 
+ 
+
+ 
+ Article
+ Open access
+ 24 April 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maintenance breeding and breeding for yield potential both contribute to genetic improvement in wheat yield
+ 
+ 
+
+ 
+ Article
+ Open access
+ 04 March 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Climate impacts on global agriculture emerge earlier in new generation of climate and crop models
+ 
+ 
+
+ 
+ Article
+ 
+ 01 November 2021
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore related subjects
+
+ Discover the latest articles and news in related subjects.
+ 
+ 
+ 
+ 
+ Agriculture
+ 
+ 
+ 
+ 
+ Plant physiology
+ 
+ 
+ 
+ 
+ Climate-Resilient Crop Production Systems
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ Data availability
+
+ 
+ The complete set of climate data and simulated soil data, yield components of all environments, and sensitivity and significance of yield components to all environmental variables of all genotypes and all time-windows are available in the Zenodo data repository54.
+
+ Code availability
+
+ 
+ No custom algorithm was used in this study. All code used to analyse the data is available from the authors. Please contact the first author or corresponding author (sabir@gem.uni-hannover.de or tsu-wei.chen@hu-berlin.de) in case of interest.
+
+ References
+Wang, E. et al. The uncertainty of crop yield projections is reduced by improved temperature response functions. Nat. Plants 3, 17102 (2017).
+Article 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Reynolds, M. et al. Raising yield potential in wheat. J. Exp. Bot. 60, 1899–1918 (2009).
+Article 
+ CAS 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Reynolds, M. et al. Achieving yield gains in wheat. Plant Cell Environ. 35, 1799–1823 (2012).
+Article 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Raza, A. et al. Impact of climate change on crops adaptation and strategies to tackle its outcome: a review. Plants 8, 34 (2019).
+Article 
+ CAS 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Liu, B. et al. Global wheat production with 1.5 and 2.0 °C above pre-industrial warming. Glob. Chang. Biol. 25, 1428–1444 (2018).
+Article 
+ 
+ Google Scholar 
+ 
+Bönecke, E. et al. Decoupling of impact factors reveals the response of German winter wheat yields to climatic changes. Glob. Chang. Biol. 26, 3601–3626 (2020).
+Article 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Mäkinen, H. et al. Sensitivity of European wheat to extreme weather. Field Crops Res. 222, 209–217 (2018).
+Article 
+ 
+ Google Scholar 
+ 
+Porter, J. R. & Semenov, M. A. Crop responses to climatic variation. Philos. Trans. R. Soc. Lond. B Biol. Sci. 360, 2021–2035 (2005).
+Article 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Zhang, X. et al. Contribution of cultivar, fertilizer and weather to yield variation of winter wheat over three decades: a case study in the North China Plain. Eur. J. Agron. 50, 52–59 (2013).
+Article 
+ 
+ Google Scholar 
+ 
+Xu, J., Henry, A. & Sreenivasulu, N. Rice yield formation under high day and night temperatures – a prerequisite to ensure future food security. Plant Cell Environ. 43, 1595–1608 (2020).
+Article 
+ CAS 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Abbate, P. E., Andrade, F. H., Culot, J. P. & Bindraban, P. S. Grain yield in wheat: effects of radiation during spike growth period. Field Crops Res. 54, 245–257 (1997).
+Article 
+ 
+ Google Scholar 
+ 
+Fischer, R. A. Number of kernels in wheat crops and the influence of solar radiation and temperature. J. Agric. Sci. 105, 447–461 (1985).
+Article 
+ 
+ Google Scholar 
+ 
+Cossani, C. M. & Reynolds, M. P. Physiological traits for improving heat tolerance in wheat. Plant Physiol. 160, 1710–1718 (2012).
+Article 
+ CAS 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Wang, X. et al. Pre-anthesis high temperature acclimation alleviates the negative effects of post-anthesis heat stress on stem stored carbohydrates remobilization and grain starch accumulation in wheat. J. Cereal Sci. 55, 331–336 (2012).
+Article 
+ CAS 
+ 
+ Google Scholar 
+ 
+Villegas, D. et al. Daylength, temperature and solar radiation effects on the phenology and yield formation of spring durum wheat. J. Agron. Crop Sci. 202, 203–216 (2016).
+Article 
+ 
+ Google Scholar 
+ 
+Guo, Z., Chen, D. & Schnurbusch, T. Plant and floret growth at distinct developmental stages during the stem elongation phase in wheat. Front. Plant Sci. 9, 330 (2018).
+Article 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Lichthardt, C., Chen, T.-W., Stahl, A. & Stützel, H. Co-evolution of sink and source in the recent breeding history of winter wheat in Germany. Front. Plant Sci. 10, 1771 (2020).
+Article 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Voss-Fels, K. P. et al. Breeding improves wheat productivity under contrasting agrochemical input levels. Nat. Plants 5, 706–714 (2019).
+Article 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Wu, X., Tang, Y., Li, C. & Wu, C. Characterization of the rate and duration of grain filling in wheat in Southwestern China. Plant Prod. Sci. 21, 358–369 (2018).
+Article 
+ 
+ Google Scholar 
+ 
+Ferreira, M. S. et al. Physicochemical control of durum wheat grain filling and glutenin polymer assembly under different temperature regimes. J. Cereal Sci. 56, 58–66 (2012).
+Article 
+ CAS 
+ 
+ Google Scholar 
+ 
+Guo, Z., Chen, D. & Schnurbusch, T. Variance components, heritability and correlation analysis of anther and ovary size during the floral development of bread wheat. J. Exp. Bot. 66, 3099–3111 (2015).
+Article 
+ CAS 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Guo, Z., Chen, D., Röder, M. S., Ganal, M. W. & Schnurbusch, T. Genetic dissection of pre-anthesis sub-phase durations during the reproductive spike development of wheat. Plant J. 95, 909–918 (2018).
+Article 
+ CAS 
+ 
+ Google Scholar 
+ 
+Tardieu, F., Simonneau, T. & Muller, B. The physiological basis of drought tolerance in crop plants: a scenario-dependent probabilistic approach. Annu. Rev. Plant Biol. 69, 733–759 (2018).
+Article 
+ CAS 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Ji, H. et al. Effects of jointing and booting low temperature stresses on grain yield and yield components in wheat. Agric. For. Meteorol. 243, 33–42 (2017).
+Article 
+ 
+ Google Scholar 
+ 
+Fernández-Gómez, J., Talle, B., Tidy, A. C. & Wilson, Z. A. Accurate staging of reproduction development in Cadenza wheat by non-destructive spike analysis. J. Exp. Bot. 71, 3475–3484 (2020).
+Article 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Fernández-Gómez, J., Talle, B. & Wilson, Z. A. Increased expression of the MALE STERILITY 1 transcription factor gene results in temperature-sensitive male sterility in barley. J. Exp. Bot. 71, 6328–6339 (2020).
+Article 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Allen, D. J. & Ort, D. R. Impacts of chilling temperatures on photosynthesis in warm-climate plants. Trends Plant Sci. 6, 36–42 (2001).
+Article 
+ CAS 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Valluru, R., Link, J. & Claupein, W. Consequences of early chilling stress in two Triticum species: plastic responses and adaptive significance. Plant Biol. (Stuttg.) 14, 641–651 (2012).
+Article 
+ CAS 
+ PubMed 
+ 
+ Google Scholar 
+ 
+González, F. G., Miralles, D. J. & Slafer, G. A. Wheat floret survival as related to pre-anthesis spike growth. J. Exp. Bot. 62, 4889–4901 (2011).
+Article 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Reynolds, M. P., Acevedo, E., Sayre, K. D. & Fischer, R. A. Yield potential in modern wheat varieties: its association with a less competitive ideotype. Field Crops Res. 37, 149–160 (1994).
+Article 
+ 
+ Google Scholar 
+ 
+Narayanan, S., Prasad, P. V. V., Fritz, A. K., Boyle, D. L. & Gill, B. S. Impact of high night-time and high daytime temperature stress on winter wheat. J. Agron. Crop Sci. 201, 206–218 (2015).
+Article 
+ CAS 
+ 
+ Google Scholar 
+ 
+Marcela, H. et al. Effect of heat stress at anthesis on yield formation in winter wheat. Plant Soil Environ. 63, 139–144 (2017).
+Article 
+ 
+ Google Scholar 
+ 
+Djanaguiraman, M., Narayanan, S., Erdayani, E. & Prasad, P. V. V. Effects of high temperature stress during anthesis and grain filling periods on photosynthesis, lipids and grain yield in wheat. BMC Plant Biol. 20, 268–280 (2020).
+Article 
+ CAS 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Wheeler, T. R. et al. The duration and rate of grain growth, and harvest index, of wheat (Triticum aestivum L.) in response to temperature and CO2. J. Exp. Bot. 47, 623–630 (1996).
+Article 
+ CAS 
+ 
+ Google Scholar 
+ 
+Distelfeld, A., Avni, R. & Fischer, A. M. Senescence, nutrient remobilization, and yield in wheat and barley. J. Exp. Bot. 65, 3783–3798 (2014).
+Article 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Fahy, B. et al. Final grain weight is not limited by the activity of key starch-synthesising enzymes during grain filling in wheat. J. Exp. Bot. 69, 5461–5475 (2018).
+CAS 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Ugarte, C., Calderini, D. F. & Slafer, G. A. Grain weight and grain number responsiveness to pre-anthesis temperature in wheat, barley and triticale. Field Crops Res. 100, 240–248 (2007).
+Article 
+ 
+ Google Scholar 
+ 
+Sinclair, T. R. & Jamieson, P. D. Grain number, wheat yield, and bottling beer: an analysis. Field Crops Res. 98, 60–67 (2006).
+Article 
+ 
+ Google Scholar 
+ 
+Ma, Y.-Z., MacKown, C. T. & van Sanford, D. A. Sink manipulation in wheat: compensatory changes in kernel size. Crop Sci. 30, 1099–1105 (1990).
+Article 
+ 
+ Google Scholar 
+ 
+Neukam, D., Ahrends, H., Luig, A., Manderscheid, R. & Kage, H. Integrating wheat canopy temperatures in crop system models. Agronomy 6, 7 (2016).
+Article 
+ 
+ Google Scholar 
+ 
+Kage, H. & Stützel, H. In Modelling Cropping Systems (eds Donatelli, M. et al.) 299–300 (European Society of Agronomy, 1999).
+Marti, J., Savin, R. & Slafer, G. A. Wheat yield as affected by length of exposure to waterlogging during stem elongation. J. Agron. Crop Sci. 201, 473–486 (2015).
+Article 
+ CAS 
+ 
+ Google Scholar 
+ 
+Xie, Q., Mayes, S. & Sparkes, D. L. Carpel size, grain filling, and morphology determine individual grain weight in wheat. J. Exp. Bot. 66, 6715–6730 (2015).
+Article 
+ CAS 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Tomás, D., Rodrigues, J. C., Viegas, W. & Silva, M. Assessment of high temperature effects on grain yield and composition in bread wheat commercial varieties. Agronomy 10, 499 (2020).
+Article 
+ 
+ Google Scholar 
+ 
+Fischer, R. A. & Maurer, O. R. Crop temperature modification and yield potential in a dwarf spring wheat. Crop Sci. 16, 855–859 (1976).
+Article 
+ 
+ Google Scholar 
+ 
+Hatfield, J. L. & Walthall, C. L. Meeting global food needs: realizing the potential via genetics × environment × management interactions. J. Agron. 107, 1215–1226 (2015).
+Article 
+ 
+ Google Scholar 
+ 
+Russell, K., Lee, C. & van Sanford, D. Interaction of genetics, environment, and management in determining soft red winter wheat yields. J. Agron. 109, 2463–2473 (2017).
+Article 
+ CAS 
+ 
+ Google Scholar 
+ 
+Millet, E. J. et al. Genomic prediction of maize yield across European environmental conditions. Nat. Genet. 51, 952–956 (2019).
+Article 
+ CAS 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Parent, B., Millet, E. J. & Tardieu, F. The use of thermal time in plant studies has a sound theoretical basis provided that confounding effects are avoided. J. Exp. Bot. 70, 2359–2370 (2019).
+Article 
+ CAS 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Arnold, P. A., Kruuk, L. E. B. & Nicotra, A. B. How to analyse plant phenotypic plasticity in response to a changing climate. New Phytol. 222, 1235–1241 (2019).
+Article 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Kahlen, K. & Stützel, H. Modelling photo-modulated internode elongation in growing glasshouse cucumber canopies. New Phytol. 190, 697–708 (2011).
+Article 
+ PubMed 
+ 
+ Google Scholar 
+ 
+Kahlen, K. & Chen, T.-W. Predicting plant performance under simultaneously changing environmental conditions – the interplay between temperature, light, and internode growth. Front. Plant Sci. 6, 1130 (2015).
+Article 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+R Core Team. R: A language and environment for statistical computing (R Foundation for Statistical Computing, 2014).
+Sabir, K. et al. Stage-specific genotype-by-environment interactions determine yield components in wheat [Data set]. Zenodo https://doi.org/10.5281/zenodo.8248543 (2023).
+Download references
+Acknowledgements
+Funding for this study was provided by the German Federal Ministry of Education and Research grant no. 031A354. T.-W.C. was funded by Deutsche Forschungsgemeinschaft (German Research Foundation) under project no. 442020478.
+Author information
+Authors and Affiliations
+Institute of Horticultural Production Systems, Leibniz University Hannover, Hannover, Germany
+Khadija Sabir & Hartmut Stützel
+Department of Agronomy and Crop Science, Christian Albrechts University of Kiel, Kiel, Germany
+Till Rose & Henning Kage
+Department of Plant Breeding, IFZ Research Centre for Biosystems, Land Use and Nutrition, Justus Liebig University, Giessen, Germany
+Benjamin Wittkop, Andreas Stahl, Rod J. Snowdon & Wolfgang Friedt
+Julius Kuehn Institute (JKI), Federal Research Centre for Cultivated Plants, Institute for Resistance Research and Stress Tolerance, Quedlinburg, Germany
+Andreas Stahl, Frank Ordon & Holger Zetzsche
+Institute of Crop Science and Resource Conservation, University of Bonn, Bonn, Germany
+Agim Ballvora & Jens Léon
+Field Lab Campus Klein-Altendorf, University of Bonn, Rheinbach, Germany
+Jens Léon
+Group of Intensive Plant Food Systems, Albrecht Daniel Thaer Institut of Agricultural and Horticultural Science, Humboldt University Berlin, Berlin, Germany
+Tsu-Wei Chen
+AuthorsKhadija SabirView author publicationsSearch author on:PubMed Google Scholar
+Till RoseView author publicationsSearch author on:PubMed Google Scholar
+Benjamin WittkopView author publicationsSearch author on:PubMed Google Scholar
+Andreas StahlView author publicationsSearch author on:PubMed Google Scholar
+Rod J. SnowdonView author publicationsSearch author on:PubMed Google Scholar
+Agim BallvoraView author publicationsSearch author on:PubMed Google Scholar
+Wolfgang FriedtView author publicationsSearch author on:PubMed Google Scholar
+Henning KageView author publicationsSearch author on:PubMed Google Scholar
+Jens LéonView author publicationsSearch author on:PubMed Google Scholar
+Frank OrdonView author publicationsSearch author on:PubMed Google Scholar
+Hartmut StützelView author publicationsSearch author on:PubMed Google Scholar
+Holger ZetzscheView author publicationsSearch author on:PubMed Google Scholar
+Tsu-Wei ChenView author publicationsSearch author on:PubMed Google Scholar
+Contributions
+T.-W.C. conceived the analyses. K.S. and T.-W.C. analysed the data. T.R. simulated the soil water content. B.W., A.S. and R.J.S. designed the experiments. T.-W.C., T.R., H.Z., A.B., F.O., J.L., H.K., H.S. and W.F. performed and supervised the experiments and provided data. K.S., H.S. and T.-W.C. wrote the paper.
+Corresponding author
+Correspondence to
+ Tsu-Wei Chen.
+Ethics declarations
+
+ 
+ Competing interests
+
+ The authors declare no competing interests.
+
+ 
+ Peer review
+
+ 
+ 
+ Peer review information
+
+ Nature Plants thanks Enli Wang, Juan Burgueño and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+
+ 
+ Additional information
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information (download PDF )
+Supplementary Figs. 1–11, Tables 1–6 and Method.
+Reporting Summary (download PDF )
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Sabir, K., Rose, T., Wittkop, B. et al. Stage-specific genotype-by-environment interactions determine yield components in wheat.
+ Nat. Plants 9, 1688–1696 (2023). https://doi.org/10.1038/s41477-023-01516-8
+Download citation
+Received: 29 April 2022
+Accepted: 18 August 2023
+Published: 21 September 2023
+Version of record: 21 September 2023
+Issue date: October 2023
+DOI: https://doi.org/10.1038/s41477-023-01516-8
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable linkSorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+ Provided by the Springer Nature SharedIt content-sharing initiative
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Access through your institution
+ 
+ 
+ 
+ 
+ 
+ Buy or subscribe
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+ 
+ 
+ 
+ Explore content
+
+ 
+ 
+ 
+ 
+ 
+ Research articles
+ 
+ 
+ 
+ 
+ 
+ Reviews & Analysis
+ 
+ 
+ 
+ 
+ 
+ News & Comment
+ 
+ 
+ 
+ 
+ 
+ Current issue
+ 
+ 
+ 
+ 
+ 
+ Collections
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Follow us on Facebook
+ 
+ 
+ 
+ 
+ 
+ 
+ Follow us on X
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ Sign up for alerts
+ 
+ 
+ 
+ 
+ 
+ 
+ RSS feed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About the journal
+
+ 
+ 
+ 
+ 
+ Aims & Scope
+ 
+ 
+ 
+ 
+ 
+ Journal Information
+ 
+ 
+ 
+ 
+ 
+ Editors
+ 
+ 
+ 
+ 
+ 
+ Journal Metrics
+ 
+ 
+ 
+ 
+ 
+ Research Cross-Journal Editorial Team
+ 
+ 
+ 
+ 
+ 
+ Reviews Cross-Journal Editorial Team
+ 
+ 
+ 
+ 
+ 
+ Our publishing models
+ 
+ 
+ 
+ 
+ 
+ Editorial Values Statement
+ 
+ 
+ 
+ 
+ 
+ Editorial Policies
+ 
+ 
+ 
+ 
+ 
+ Content Types
+ 
+ 
+ 
+ 
+ 
+ Advisory Panel
+ 
+ 
+ 
+ 
+ 
+ Contact
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Publish with us
+
+ 
+ 
+ 
+ 
+ Submission Guidelines
+ 
+ 
+ 
+ 
+ 
+ For Reviewers
+ 
+ 
+ 
+ 
+ 
+ 
+ Language editing services
+ 
+ 
+ 
+ 
+ 
+ Open access funding
+ 
+ 
+ 
+ 
+ Submit manuscript
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ Search
+
+ 
+ Search articles by subject, keyword or author
+ 
+ 
+ 
+ 
+ 
+ 
+ Show results from
+ 
+ 
+ 
+ All journals
+ This journal
+ 
+ 
+ 
+ 
+ 
+ Search
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ Advanced search
+ 
+ 
+
+ Quick links
+
+ 
+ Explore articles by subject
+ Find a job
+ Guide to authors
+ Editorial policies
+ 
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Nature Plants
+ 
+ (Nat. Plants)
+ 
+
+ 
+ 
+ 
+ ISSN 2055-0278 (online)
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+
+ 
+ 
+ nature.com footer links
+
+ 
+ 
+ 
+ About Nature Portfolio
+
+ 
+ About us
+ Press releases
+ Press office
+ Contact us
+ 
+ 
+
+ 
+ Discover content
+
+ 
+ Journals A-Z
+ Articles by subject
+ protocols.io
+ Nature Index
+ 
+ 
+ 
+
+ 
+ Publishing policies
+
+ 
+ Nature portfolio policies
+ Open access
+ 
+ 
+
+ 
+ Author & Researcher services
+
+ 
+ Reprints & permissions
+ Research data
+ Language editing
+ Scientific editing
+ Nature Masterclasses
+ Research Solutions
+ 
+ 
+
+ 
+ Libraries & institutions
+
+ 
+ Librarian service & tools
+ Librarian portal
+ Open research
+ Recommend to library
+ 
+ 
+
+ 
+ Advertising & partnerships
+
+ 
+ Advertising
+ Partnerships & Services
+ Media kits
+ 
+ Branded
+ content
+ 
+ 
+
+ 
+ Professional development
+
+ 
+ Nature Awards
+ Nature Careers
+ Nature 
+ Conferences
+ 
+ 
+
+ 
+ Regional websites
+
+ 
+ Nature Africa
+ Nature China
+ Nature India
+ Nature Japan
+ Nature Middle East
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Privacy
+ Policy
+ Use
+ of cookies
+ 
+ Your privacy choices/Manage cookies
+ 
+ 
+ Legal
+ notice
+ Accessibility
+ statement
+ Terms & Conditions
+ Your US state privacy rights
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ © 2026 Springer Nature Limited
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+ 
+ Close banner
+ 
+ 
+ 
+ 
+ 
+ 
+ Close
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ Sign up for the Nature Briefing: Anthropocene newsletter — what matters in anthropocene research, free to your inbox weekly.
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ Email address
+
+ 
+ 
+ 
+ 
+ Sign up
+ 
+
+ 
+ 
+ I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ Close banner
+ 
+ 
+ 
+ 
+ 
+ 
+ Close
+ 
+
+
+
+ 
+ Get the most important science stories of the day, free in your inbox.
+ Sign up for Nature Briefing: Anthropocene
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+

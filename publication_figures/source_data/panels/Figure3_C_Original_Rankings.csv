@@ -1,0 +1,53 @@
+"scope","model_name","context","site_year","level","n","cultivars","spearman","replicate_support","replicated_cultivars","low_quartile_MAE","high_quartile_MAE"
+"FULL","CatBoost","M0","GGE_2015","PLOT",439,220,0.776284255995098,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","GGE_2015","CULTIVAR_MEAN",220,220,0.805636089364635,"Descriptive cultivar means; unequal management composition, not BLUEs",219,5.7441349750065,8.92276432859819
+"FULL","CatBoost","M0","GGE_2016","PLOT",660,220,0.74861645344784,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","GGE_2016","CULTIVAR_MEAN",220,220,0.847451939569653,"Descriptive cultivar means; unequal management composition, not BLUEs",220,18.7489383783771,12.7326658112369
+"FULL","CatBoost","M0","GGE_2017","PLOT",660,220,0.532783353596232,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","GGE_2017","CULTIVAR_MEAN",220,220,0.692950148741542,"Descriptive cultivar means; unequal management composition, not BLUEs",220,8.76693889038128,14.9161964387475
+"FULL","CatBoost","M0","HAN_2015","PLOT",439,220,0.797116652593489,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","HAN_2015","CULTIVAR_MEAN",220,220,0.849617721841914,"Descriptive cultivar means; unequal management composition, not BLUEs",219,6.7597126274359,20.5922032931273
+"FULL","CatBoost","M0","HAN_2016","PLOT",439,220,0.759127585641045,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","HAN_2016","CULTIVAR_MEAN",220,220,0.820439811228245,"Descriptive cultivar means; unequal management composition, not BLUEs",219,5.21792389554201,4.39854611494096
+"FULL","CatBoost","M0","HAN_2017","PLOT",439,220,0.70428797132397,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","HAN_2017","CULTIVAR_MEAN",220,220,0.791192375392016,"Descriptive cultivar means; unequal management composition, not BLUEs",219,5.51354085000933,3.00689659899393
+"FULL","CatBoost","M0","KAL_2015","PLOT",1316,220,0.786640210337176,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","KAL_2015","CULTIVAR_MEAN",220,220,0.81947666171041,"Descriptive cultivar means; unequal management composition, not BLUEs",220,18.3899009997564,28.9319398856494
+"FULL","CatBoost","M0","KAL_2016","PLOT",1320,220,0.883756279568775,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","KAL_2016","CULTIVAR_MEAN",220,220,0.89590702261098,"Descriptive cultivar means; unequal management composition, not BLUEs",220,6.41775160371425,5.19103896730177
+"FULL","CatBoost","M0","KIE_2015","PLOT",35,32,0.511380350017979,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","KIE_2015","CULTIVAR_MEAN",32,32,0.530840438486475,"Descriptive cultivar means; unequal management composition, not BLUEs",3,14.1488673152465,28.9128030010359
+"FULL","CatBoost","M0","KIE_2016","PLOT",152,112,0.815982613259559,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","KIE_2016","CULTIVAR_MEAN",112,112,0.841895308709468,"Descriptive cultivar means; unequal management composition, not BLUEs",40,8.55402757640207,3.08006222694134
+"FULL","CatBoost","M0","QLB_2015","PLOT",880,220,0.532725749364348,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","QLB_2015","CULTIVAR_MEAN",220,220,0.785354994619699,"Descriptive cultivar means; unequal management composition, not BLUEs",220,16.8281521295154,13.9602995908578
+"FULL","CatBoost","M0","QLB_2016","PLOT",880,220,0.626758125509605,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","QLB_2016","CULTIVAR_MEAN",220,220,0.719525159124526,"Descriptive cultivar means; unequal management composition, not BLUEs",220,17.8178436018245,4.18286113664428
+"FULL","CatBoost","M0","QLB_2017","PLOT",880,220,0.52218316549194,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M0","QLB_2017","CULTIVAR_MEAN",220,220,0.790467949967646,"Descriptive cultivar means; unequal management composition, not BLUEs",220,16.2640927372631,17.0658090574745
+"FULL","CatBoost","M1","GGE_2015","PLOT",439,220,0.815679784434142,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","GGE_2015","CULTIVAR_MEAN",220,220,0.799076641938784,"Descriptive cultivar means; unequal management composition, not BLUEs",219,5.7890966866005,3.53899320419859
+"FULL","CatBoost","M1","GGE_2016","PLOT",660,220,0.715705841071043,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","GGE_2016","CULTIVAR_MEAN",220,220,0.852730310526721,"Descriptive cultivar means; unequal management composition, not BLUEs",220,16.6679754843756,13.646003188477
+"FULL","CatBoost","M1","GGE_2017","PLOT",660,220,0.52647294681663,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","GGE_2017","CULTIVAR_MEAN",220,220,0.698218298640799,"Descriptive cultivar means; unequal management composition, not BLUEs",220,5.83766395208298,14.7482551242523
+"FULL","CatBoost","M1","HAN_2015","PLOT",439,220,0.631398791688679,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","HAN_2015","CULTIVAR_MEAN",220,220,0.744357625070502,"Descriptive cultivar means; unequal management composition, not BLUEs",219,8.42846421899072,19.0072249941723
+"FULL","CatBoost","M1","HAN_2016","PLOT",439,220,0.625359460048124,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","HAN_2016","CULTIVAR_MEAN",220,220,0.714079232380083,"Descriptive cultivar means; unequal management composition, not BLUEs",219,7.63795941569011,6.80517998551657
+"FULL","CatBoost","M1","HAN_2017","PLOT",439,220,0.562090936845909,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","HAN_2017","CULTIVAR_MEAN",220,220,0.65952564156409,"Descriptive cultivar means; unequal management composition, not BLUEs",219,9.11017572576958,7.2160157832142
+"FULL","CatBoost","M1","KAL_2015","PLOT",1316,220,0.83665934815505,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","KAL_2015","CULTIVAR_MEAN",220,220,0.809546778765151,"Descriptive cultivar means; unequal management composition, not BLUEs",220,15.3962455066583,24.7870525460667
+"FULL","CatBoost","M1","KAL_2016","PLOT",1320,220,0.862071844177703,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","KAL_2016","CULTIVAR_MEAN",220,220,0.865668429008375,"Descriptive cultivar means; unequal management composition, not BLUEs",220,13.8286269417677,4.02121678792755
+"FULL","CatBoost","M1","KIE_2015","PLOT",35,32,0.160504201680672,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","KIE_2015","CULTIVAR_MEAN",32,32,0.146627565982405,"Descriptive cultivar means; unequal management composition, not BLUEs",3,9.03706394934733,32.5858809355877
+"FULL","CatBoost","M1","KIE_2016","PLOT",152,112,0.6959389960982,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","KIE_2016","CULTIVAR_MEAN",112,112,0.728439881094748,"Descriptive cultivar means; unequal management composition, not BLUEs",40,8.64862356542284,10.5885984862508
+"FULL","CatBoost","M1","QLB_2015","PLOT",880,220,0.702391112656867,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","QLB_2015","CULTIVAR_MEAN",220,220,0.797997329020697,"Descriptive cultivar means; unequal management composition, not BLUEs",220,10.2103099122328,5.62636401404961
+"FULL","CatBoost","M1","QLB_2016","PLOT",880,220,0.690969748357107,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","QLB_2016","CULTIVAR_MEAN",220,220,0.773252197080668,"Descriptive cultivar means; unequal management composition, not BLUEs",220,11.9755309550951,8.1514137087003
+"FULL","CatBoost","M1","QLB_2017","PLOT",880,220,0.581468519056125,"actual sample records; cultivar repeats correlated",,,
+"FULL","CatBoost","M1","QLB_2017","CULTIVAR_MEAN",220,220,0.767028620050377,"Descriptive cultivar means; unequal management composition, not BLUEs",220,14.2605523441557,15.8747630460038

@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "BRIWECS_Data_Publication",
+    "commit": "48ed394e2a67a7dc1ac57221a9de8db8725200cf",
+    "url": "https://github.com/tillrose/BRIWECS_Data_Publication",
+    "licence_file": "third_party_licences/BRIWECS_Data_Publication/LICENSE.txt"
+  },
+  {
+    "repository": "Scientific_Data_Analyis",
+    "commit": "280635eb34614a2e75713375209e292aa0126072",
+    "url": "https://github.com/Illustratien/Scientific_Data_Analyis",
+    "licence_file": "third_party_licences/Scientific_Data_Analyis/LICENSE.txt"
+  }
+]

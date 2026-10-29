@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "association_cluster_bootstrap": 499,
+  "bootstrap_unit": "site-year pairs, re-absorb fixed effects in every sample",
+  "new_ML_fits": 0,
+  "transfer": "Reuse Pilot FULL/NATURAL LOSYO M0/M1, same natural-domain test IDs and exact inherited training sets",
+  "error_variance_ddof": 0,
+  "centering": "Diagnostic only; never calibration",
+  "disease_scale": "pooled: 10 nominal reported score units, not unconditionally harmonized percentage points",
+  "frozen_utc": "2026-10-26T03:35:52.677626+00:00"
+}

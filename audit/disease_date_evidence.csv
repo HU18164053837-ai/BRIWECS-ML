@@ -1,0 +1,631 @@
+﻿file,excel_row,excel_col,treatment_raw,trait,date_raw,date_status,date_parsed,duplicate_template_entry
+Management_information_DKI_2016.xlsx,47,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_DKI_2016.xlsx,48,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_DKI_2016.xlsx,49,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_DKI_2016.xlsx,50,10,HN_WF,Septoria,,MISSING,,False
+Management_information_DKI_2016.xlsx,51,10,HN_WF,DTR,,MISSING,,False
+Management_information_DKI_2016.xlsx,52,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_DKI_2017.xlsx,49,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_DKI_2017.xlsx,50,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_DKI_2017.xlsx,51,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_DKI_2017.xlsx,52,10,HN_WF,Septoria,,MISSING,,False
+Management_information_DKI_2017.xlsx,53,10,HN_WF,DTR,,MISSING,,False
+Management_information_DKI_2017.xlsx,54,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_DKI_2019.xlsx,47,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_DKI_2019.xlsx,48,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_DKI_2019.xlsx,49,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_DKI_2019.xlsx,50,10,HN_WF,Septoria,,MISSING,,False
+Management_information_GGE_2015.xlsx,44,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_GGE_2015.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_GGE_2015.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_GGE_2015.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_GGE_2015.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_GGE_2015.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_GGE_2015.xlsx,55,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_GGE_2015.xlsx,56,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_GGE_2015.xlsx,57,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_GGE_2015.xlsx,58,10,HN_NF,Septoria,,MISSING,,False
+Management_information_GGE_2015.xlsx,59,10,HN_NF,DTR,,MISSING,,False
+Management_information_GGE_2015.xlsx,60,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_GGE_2015.xlsx,66,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_GGE_2015.xlsx,67,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_GGE_2015.xlsx,68,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_GGE_2015.xlsx,69,10,HN_WF,Septoria,,MISSING,,False
+Management_information_GGE_2015.xlsx,70,10,HN_WF,DTR,,MISSING,,False
+Management_information_GGE_2015.xlsx,71,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_GGE_2015.xlsx,77,10,HN_WF_Trockenstress,Stripe_rust,,MISSING,,False
+Management_information_GGE_2015.xlsx,78,10,HN_WF_Trockenstress,Powdery_mildew,,MISSING,,False
+Management_information_GGE_2015.xlsx,79,10,HN_WF_Trockenstress,Leaf_rust,,MISSING,,False
+Management_information_GGE_2015.xlsx,80,10,HN_WF_Trockenstress,Septoria,,MISSING,,False
+Management_information_GGE_2015.xlsx,81,10,HN_WF_Trockenstress,DTR,,MISSING,,False
+Management_information_GGE_2015.xlsx,82,10,HN_WF_Trockenstress,Fusarium,,MISSING,,False
+Management_information_GGE_2016.xlsx,44,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_GGE_2016.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_GGE_2016.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_GGE_2016.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_GGE_2016.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_GGE_2016.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_GGE_2016.xlsx,55,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_GGE_2016.xlsx,56,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_GGE_2016.xlsx,57,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_GGE_2016.xlsx,58,10,HN_NF,Septoria,,MISSING,,False
+Management_information_GGE_2016.xlsx,59,10,HN_NF,DTR,,MISSING,,False
+Management_information_GGE_2016.xlsx,60,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_GGE_2016.xlsx,66,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_GGE_2016.xlsx,67,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_GGE_2016.xlsx,68,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_GGE_2016.xlsx,69,10,HN_WF,Septoria,,MISSING,,False
+Management_information_GGE_2016.xlsx,70,10,HN_WF,DTR,,MISSING,,False
+Management_information_GGE_2016.xlsx,71,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_GGE_2016.xlsx,77,10,HN_WF_Trockenstress,Stripe_rust,,MISSING,,False
+Management_information_GGE_2016.xlsx,78,10,HN_WF_Trockenstress,Powdery_mildew,,MISSING,,False
+Management_information_GGE_2016.xlsx,79,10,HN_WF_Trockenstress,Leaf_rust,,MISSING,,False
+Management_information_GGE_2016.xlsx,80,10,HN_WF_Trockenstress,Septoria,,MISSING,,False
+Management_information_GGE_2016.xlsx,81,10,HN_WF_Trockenstress,DTR,,MISSING,,False
+Management_information_GGE_2016.xlsx,82,10,HN_WF_Trockenstress,Fusarium,,MISSING,,False
+Management_information_GGE_2018.xlsx,44,10,LN_NF,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,44,12,LN_NF,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,45,10,LN_NF,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,45,12,LN_NF,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,46,10,LN_NF,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,46,12,LN_NF,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,47,10,LN_NF,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,47,12,LN_NF,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,48,10,LN_NF,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,48,12,LN_NF,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,49,10,LN_NF,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,49,12,LN_NF,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,55,10,LN_WF,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,55,12,LN_WF,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,56,10,LN_WF,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,56,12,LN_WF,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,57,10,LN_WF,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,57,12,LN_WF,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,58,10,LN_WF,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,58,12,LN_WF,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,59,10,LN_WF,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,59,12,LN_WF,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,60,10,LN_WF,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,60,12,LN_WF,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,66,10,HN_NF,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,66,12,HN_NF,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,67,10,HN_NF,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,67,12,HN_NF,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,68,10,HN_NF,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,68,12,HN_NF,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,69,10,HN_NF,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,69,12,HN_NF,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,70,10,HN_NF,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,70,12,HN_NF,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,71,10,HN_NF,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,71,12,HN_NF,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,77,10,HN_WF,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,77,12,HN_WF,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,78,10,HN_WF,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,78,12,HN_WF,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,79,10,HN_WF,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,79,12,HN_WF,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,80,10,HN_WF,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,80,12,HN_WF,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,81,10,HN_WF,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,81,12,HN_WF,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,82,10,HN_WF,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,82,12,HN_WF,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,88,10,HN_WF_Trockenstress,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,88,12,HN_WF_Trockenstress,Stripe_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,89,10,HN_WF_Trockenstress,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,89,12,HN_WF_Trockenstress,Powdery_mildew,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,90,10,HN_WF_Trockenstress,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,90,12,HN_WF_Trockenstress,Leaf_rust,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,91,10,HN_WF_Trockenstress,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,91,12,HN_WF_Trockenstress,Septoria,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,92,10,HN_WF_Trockenstress,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,92,12,HN_WF_Trockenstress,DTR,,MISSING,,True
+Management_information_GGE_2018.xlsx,93,10,HN_WF_Trockenstress,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2018.xlsx,93,12,HN_WF_Trockenstress,Fusarium,2018-04-26 00:00:00,PRESENT_UNPARSED,2018-04-26,True
+Management_information_GGE_2019.xlsx,44,10,LN_NF_IR,Stripe_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,45,10,LN_NF_IR,Powdery_mildew,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,46,10,LN_NF_IR,Leaf_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,47,10,LN_NF_IR,Septoria,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,48,10,LN_NF_IR,DTR,,MISSING,,False
+Management_information_GGE_2019.xlsx,49,10,LN_NF_IR,Fusarium,2019-06-11 00:00:00,PRESENT_UNPARSED,2019-06-11,False
+Management_information_GGE_2019.xlsx,55,10,LN_WF_IR,Stripe_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,56,10,LN_WF_IR,Powdery_mildew,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,57,10,LN_WF_IR,Leaf_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,58,10,LN_WF_IR,Septoria,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,59,10,LN_WF_IR,DTR,,MISSING,,False
+Management_information_GGE_2019.xlsx,60,10,LN_WF_IR,Fusarium,2019-06-11 00:00:00,PRESENT_UNPARSED,2019-06-11,False
+Management_information_GGE_2019.xlsx,66,10,HN_NF_IR,Stripe_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,67,10,HN_NF_IR,Powdery_mildew,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,68,10,HN_NF_IR,Leaf_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,69,10,HN_NF_IR,Septoria,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,70,10,HN_NF_IR,DTR,,MISSING,,False
+Management_information_GGE_2019.xlsx,71,10,HN_NF_IR,Fusarium,2019-06-11 00:00:00,PRESENT_UNPARSED,2019-06-11,False
+Management_information_GGE_2019.xlsx,77,10,HN_WF_IR,Stripe_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,78,10,HN_WF_IR,Powdery_mildew,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,79,10,HN_WF_IR,Leaf_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,80,10,HN_WF_IR,Septoria,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,81,10,HN_WF_IR,DTR,,MISSING,,False
+Management_information_GGE_2019.xlsx,82,10,HN_WF_IR,Fusarium,2019-06-11 00:00:00,PRESENT_UNPARSED,2019-06-11,False
+Management_information_GGE_2019.xlsx,88,10,HN_WF,Stripe_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,89,10,HN_WF,Powdery_mildew,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,90,10,HN_WF,Leaf_rust,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,91,10,HN_WF,Septoria,"2019-05-22, 2019-06-11",PRESENT_UNPARSED,,False
+Management_information_GGE_2019.xlsx,92,10,HN_WF,DTR,,MISSING,,False
+Management_information_GGE_2019.xlsx,93,10,HN_WF,Fusarium,2019-06-11 00:00:00,PRESENT_UNPARSED,2019-06-11,False
+Management_information_HAN_2015.xlsx,44,10,LN_NF,Stripe_rust,8.06.2015 - 19.06.2015,PRESENT_UNPARSED,,False
+Management_information_HAN_2015.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_HAN_2015.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_HAN_2015.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_HAN_2015.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_HAN_2015.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_HAN_2015.xlsx,55,10,HN_NF,Stripe_rust,8.06.2015 - 19.06.2015,PRESENT_UNPARSED,,False
+Management_information_HAN_2015.xlsx,56,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_HAN_2015.xlsx,57,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_HAN_2015.xlsx,58,10,HN_NF,Septoria,,MISSING,,False
+Management_information_HAN_2015.xlsx,59,10,HN_NF,DTR,,MISSING,,False
+Management_information_HAN_2015.xlsx,60,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_HAN_2015.xlsx,66,10,HN_WF,Stripe_rust,0,PRESENT_UNPARSED,,False
+Management_information_HAN_2015.xlsx,67,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_HAN_2015.xlsx,68,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_HAN_2015.xlsx,69,10,HN_WF,Septoria,,MISSING,,False
+Management_information_HAN_2015.xlsx,70,10,HN_WF,DTR,,MISSING,,False
+Management_information_HAN_2015.xlsx,71,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_HAN_2016.xlsx,44,10,LN_NF,Stripe_rust,31.05.2016 - 10.06.2016,PRESENT_UNPARSED,,False
+Management_information_HAN_2016.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_HAN_2016.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_HAN_2016.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_HAN_2016.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_HAN_2016.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_HAN_2016.xlsx,55,10,HN_NF,Stripe_rust,02.06.2016 - 10.06.2016,PRESENT_UNPARSED,,False
+Management_information_HAN_2016.xlsx,56,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_HAN_2016.xlsx,57,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_HAN_2016.xlsx,58,10,HN_NF,Septoria,,MISSING,,False
+Management_information_HAN_2016.xlsx,59,10,HN_NF,DTR,,MISSING,,False
+Management_information_HAN_2016.xlsx,60,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_HAN_2016.xlsx,66,10,HN_WF,Stripe_rust,0,PRESENT_UNPARSED,,False
+Management_information_HAN_2016.xlsx,67,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_HAN_2016.xlsx,68,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_HAN_2016.xlsx,69,10,HN_WF,Septoria,,MISSING,,False
+Management_information_HAN_2016.xlsx,70,10,HN_WF,DTR,,MISSING,,False
+Management_information_HAN_2016.xlsx,71,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_HAN_2017.xlsx,44,10,LN_NF,Stripe_rust,06.-08.06.2017,PRESENT_UNPARSED,,False
+Management_information_HAN_2017.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_HAN_2017.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_HAN_2017.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_HAN_2017.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_HAN_2017.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_HAN_2017.xlsx,55,10,HN_NF,Stripe_rust,08.-12.06.2017,PRESENT_UNPARSED,,False
+Management_information_HAN_2017.xlsx,56,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_HAN_2017.xlsx,57,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_HAN_2017.xlsx,58,10,HN_NF,Septoria,,MISSING,,False
+Management_information_HAN_2017.xlsx,59,10,HN_NF,DTR,,MISSING,,False
+Management_information_HAN_2017.xlsx,60,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_HAN_2017.xlsx,66,10,HN_WF,Stripe_rust,0,PRESENT_UNPARSED,,False
+Management_information_HAN_2017.xlsx,67,10,HN_WF,Powdery_mildew,0,PRESENT_UNPARSED,,False
+Management_information_HAN_2017.xlsx,68,10,HN_WF,Leaf_rust,0,PRESENT_UNPARSED,,False
+Management_information_HAN_2017.xlsx,69,10,HN_WF,Septoria,0,PRESENT_UNPARSED,,False
+Management_information_HAN_2017.xlsx,70,10,HN_WF,DTR,0,PRESENT_UNPARSED,,False
+Management_information_HAN_2017.xlsx,71,10,HN_WF,Fusarium,0,PRESENT_UNPARSED,,False
+Management_information_HAN_2018.xlsx,44,10,LN_NF,Stripe_rust,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,45,10,LN_NF,Powdery_mildew,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,46,10,LN_NF,Leaf_rust,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,47,10,LN_NF,Septoria,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,48,10,LN_NF,DTR,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,49,10,LN_NF,Fusarium,none,PRESENT_UNPARSED,,False
+Management_information_HAN_2018.xlsx,55,10,HN_NF,Stripe_rust,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,56,10,HN_NF,Powdery_mildew,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,57,10,HN_NF,Leaf_rust,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,58,10,HN_NF,Septoria,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,59,10,HN_NF,DTR,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,60,10,HN_NF,Fusarium,none,PRESENT_UNPARSED,,False
+Management_information_HAN_2018.xlsx,66,10,HN_WF,Stripe_rust,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,67,10,HN_WF,Powdery_mildew,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,68,10,HN_WF,Leaf_rust,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,69,10,HN_WF,Septoria,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,70,10,HN_WF,DTR,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,71,10,HN_WF,Fusarium,none,PRESENT_UNPARSED,,False
+Management_information_HAN_2018.xlsx,78,10,LN_WF,Stripe_rust,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,79,10,LN_WF,Powdery_mildew,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,80,10,LN_WF,Leaf_rust,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,81,10,LN_WF,Septoria,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,82,10,LN_WF,DTR,2018-06-12 00:00:00,PRESENT_UNPARSED,2018-06-12,False
+Management_information_HAN_2018.xlsx,83,10,LN_WF,Fusarium,none,PRESENT_UNPARSED,,False
+Management_information_HAN_2019.xlsx,45,10,LN_NF,Stripe_rust,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,46,10,LN_NF,Powdery_mildew,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,47,10,LN_NF,Leaf_rust,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,48,10,LN_NF,Septoria,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,49,10,LN_NF,DTR,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,50,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_HAN_2019.xlsx,56,10,HN_NF,Stripe_rust,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,57,10,HN_NF,Powdery_mildew,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,58,10,HN_NF,Leaf_rust,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,59,10,HN_NF,Septoria,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,60,10,HN_NF,DTR,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,61,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_HAN_2019.xlsx,67,10,HN_WF,Stripe_rust,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,68,10,HN_WF,Powdery_mildew,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,69,10,HN_WF,Leaf_rust,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,70,10,HN_WF,Septoria,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,71,10,HN_WF,DTR,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,72,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_HAN_2019.xlsx,79,10,LN_WF,Stripe_rust,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,80,10,LN_WF,Powdery_mildew,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,81,10,LN_WF,Leaf_rust,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,82,10,LN_WF,Septoria,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,83,10,LN_WF,DTR,2019-06-20 00:00:00,PRESENT_UNPARSED,2019-06-20,False
+Management_information_HAN_2019.xlsx,84,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_KAL_2015.xlsx,45,10,LN_NF,Stripe_rust,April/Mai 2015 (BBCH 40-50),PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,46,10,LN_NF,Powdery_mildew,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,47,10,LN_NF,Leaf_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,48,10,LN_NF,Septoria,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,49,10,LN_NF,DTR,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,50,10,LN_NF,Fusarium,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,56,10,HN_NF,Stripe_rust,April/Mai 2015 (BBCH 40-50),PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,57,10,HN_NF,Powdery_mildew,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,58,10,HN_NF,Leaf_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,59,10,HN_NF,Septoria,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,60,10,HN_NF,DTR,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,61,10,HN_NF,Fusarium,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,67,10,HN_WF,Stripe_rust,April/Mai 2015 (BBCH 40-50),PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,68,10,HN_WF,Powdery_mildew,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,69,10,HN_WF,Leaf_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,70,10,HN_WF,Septoria,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,71,10,HN_WF,DTR,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2015.xlsx,72,10,HN_WF,Fusarium,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,44,10,LN_NF,Stripe_rust,April/Mai 2015 (BBCH 40-50),PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,45,10,LN_NF,Powdery_mildew,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,46,10,LN_NF,Leaf_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,47,10,LN_NF,Septoria,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,48,10,LN_NF,DTR,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,49,10,LN_NF,Fusarium,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,56,10,HN_NF,Stripe_rust,April/Mai 2015 (BBCH 40-50),PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,57,10,HN_NF,Powdery_mildew,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,58,10,HN_NF,Leaf_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,59,10,HN_NF,Septoria,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,60,10,HN_NF,DTR,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,61,10,HN_NF,Fusarium,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,68,10,HN_WF,Stripe_rust,April/Mai 2015 (BBCH 40-50),PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,69,10,HN_WF,Powdery_mildew,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,70,10,HN_WF,Leaf_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,71,10,HN_WF,Septoria,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,72,10,HN_WF,DTR,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2016.xlsx,73,10,HN_WF,Fusarium,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,44,10,LN_NF,Stripe_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,45,10,LN_NF,Powdery_mildew,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,46,10,LN_NF,Leaf_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,47,10,LN_NF,Septoria,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,48,10,LN_NF,DTR,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,49,10,LN_NF,Fusarium,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,55,10,HN_NF,Stripe_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,56,10,HN_NF,Powdery_mildew,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,57,10,HN_NF,Leaf_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,58,10,HN_NF,Septoria,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,59,10,HN_NF,DTR,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,60,10,HN_NF,Fusarium,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,66,10,HN_WF,Stripe_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,67,10,HN_WF,Powdery_mildew,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,68,10,HN_WF,Leaf_rust,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,69,10,HN_WF,Septoria,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,70,10,HN_WF,DTR,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2017.xlsx,71,10,HN_WF,Fusarium,No,PRESENT_UNPARSED,,False
+Management_information_KAL_2018.xlsx,44,10,LLN_WF,Stripe_rust,,MISSING,,False
+Management_information_KAL_2018.xlsx,45,10,LLN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KAL_2018.xlsx,46,10,LLN_WF,Leaf_rust,,MISSING,,False
+Management_information_KAL_2018.xlsx,47,10,LLN_WF,Septoria,,MISSING,,False
+Management_information_KAL_2018.xlsx,48,10,LLN_WF,DTR,,MISSING,,False
+Management_information_KAL_2018.xlsx,49,10,LLN_WF,Fusarium,,MISSING,,False
+Management_information_KAL_2018.xlsx,55,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_KAL_2018.xlsx,56,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KAL_2018.xlsx,57,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_KAL_2018.xlsx,58,10,LN_WF,Septoria,,MISSING,,False
+Management_information_KAL_2018.xlsx,59,10,LN_WF,DTR,,MISSING,,False
+Management_information_KAL_2018.xlsx,60,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_KAL_2018.xlsx,66,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_KAL_2018.xlsx,67,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KAL_2018.xlsx,68,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_KAL_2018.xlsx,69,10,HN_WF,Septoria,,MISSING,,False
+Management_information_KAL_2018.xlsx,70,10,HN_WF,DTR,,MISSING,,False
+Management_information_KAL_2018.xlsx,71,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_KAL_2019.xlsx,44,10,LLN_WF,Stripe_rust,,MISSING,,False
+Management_information_KAL_2019.xlsx,45,10,LLN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KAL_2019.xlsx,46,10,LLN_WF,Leaf_rust,,MISSING,,False
+Management_information_KAL_2019.xlsx,47,10,LLN_WF,Septoria,,MISSING,,False
+Management_information_KAL_2019.xlsx,48,10,LLN_WF,DTR,,MISSING,,False
+Management_information_KAL_2019.xlsx,49,10,LLN_WF,Fusarium,,MISSING,,False
+Management_information_KAL_2019.xlsx,55,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_KAL_2019.xlsx,56,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KAL_2019.xlsx,57,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_KAL_2019.xlsx,58,10,LN_WF,Septoria,,MISSING,,False
+Management_information_KAL_2019.xlsx,59,10,LN_WF,DTR,,MISSING,,False
+Management_information_KAL_2019.xlsx,60,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_KAL_2019.xlsx,66,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_KAL_2019.xlsx,67,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KAL_2019.xlsx,68,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_KAL_2019.xlsx,69,10,HN_WF,Septoria,,MISSING,,False
+Management_information_KAL_2019.xlsx,70,10,HN_WF,DTR,,MISSING,,False
+Management_information_KAL_2019.xlsx,71,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_KAL_2020.xlsx,44,10,LLN_WF,Stripe_rust,,MISSING,,False
+Management_information_KAL_2020.xlsx,45,10,LLN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KAL_2020.xlsx,46,10,LLN_WF,Leaf_rust,,MISSING,,False
+Management_information_KAL_2020.xlsx,47,10,LLN_WF,Septoria,,MISSING,,False
+Management_information_KAL_2020.xlsx,48,10,LLN_WF,DTR,,MISSING,,False
+Management_information_KAL_2020.xlsx,49,10,LLN_WF,Fusarium,,MISSING,,False
+Management_information_KAL_2020.xlsx,55,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_KAL_2020.xlsx,56,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KAL_2020.xlsx,57,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_KAL_2020.xlsx,58,10,LN_WF,Septoria,,MISSING,,False
+Management_information_KAL_2020.xlsx,59,10,LN_WF,DTR,,MISSING,,False
+Management_information_KAL_2020.xlsx,60,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_KAL_2020.xlsx,66,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_KAL_2020.xlsx,67,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KAL_2020.xlsx,68,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_KAL_2020.xlsx,69,10,HN_WF,Septoria,,MISSING,,False
+Management_information_KAL_2020.xlsx,70,10,HN_WF,DTR,,MISSING,,False
+Management_information_KAL_2020.xlsx,71,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_KIE_2015.xlsx,47,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2015.xlsx,48,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2015.xlsx,49,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2015.xlsx,50,10,LN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2015.xlsx,51,10,LN_NF,DTR,,MISSING,,False
+Management_information_KIE_2015.xlsx,52,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_KIE_2015.xlsx,58,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2015.xlsx,59,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2015.xlsx,60,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2015.xlsx,61,10,HN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2015.xlsx,62,10,HN_NF,DTR,,MISSING,,False
+Management_information_KIE_2015.xlsx,63,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_KIE_2015.xlsx,69,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2015.xlsx,70,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2015.xlsx,71,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2015.xlsx,72,10,HN_WF,Septoria,,MISSING,,False
+Management_information_KIE_2015.xlsx,73,10,HN_WF,DTR,,MISSING,,False
+Management_information_KIE_2015.xlsx,74,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_KIE_2016.xlsx,47,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2016.xlsx,48,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2016.xlsx,49,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2016.xlsx,50,10,LN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2016.xlsx,51,10,LN_NF,DTR,,MISSING,,False
+Management_information_KIE_2016.xlsx,52,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_KIE_2016.xlsx,58,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2016.xlsx,59,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2016.xlsx,60,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2016.xlsx,61,10,HN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2016.xlsx,62,10,HN_NF,DTR,,MISSING,,False
+Management_information_KIE_2016.xlsx,63,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_KIE_2016.xlsx,69,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2016.xlsx,70,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2016.xlsx,71,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2016.xlsx,72,10,HN_WF,Septoria,,MISSING,,False
+Management_information_KIE_2016.xlsx,73,10,HN_WF,DTR,,MISSING,,False
+Management_information_KIE_2016.xlsx,74,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_KIE_2017.xlsx,47,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2017.xlsx,48,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2017.xlsx,49,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2017.xlsx,50,10,LN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2017.xlsx,51,10,LN_NF,DTR,,MISSING,,False
+Management_information_KIE_2017.xlsx,52,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_KIE_2017.xlsx,58,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2017.xlsx,59,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2017.xlsx,60,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2017.xlsx,61,10,HN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2017.xlsx,62,10,HN_NF,DTR,,MISSING,,False
+Management_information_KIE_2017.xlsx,63,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_KIE_2017.xlsx,69,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2017.xlsx,70,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2017.xlsx,71,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2017.xlsx,72,10,HN_WF,Septoria,,MISSING,,False
+Management_information_KIE_2017.xlsx,73,10,HN_WF,DTR,,MISSING,,False
+Management_information_KIE_2017.xlsx,74,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_KIE_2018.xlsx,47,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2018.xlsx,48,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2018.xlsx,49,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2018.xlsx,50,10,LN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2018.xlsx,58,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2018.xlsx,59,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2018.xlsx,60,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2018.xlsx,61,10,LN_WF,Septoria,,MISSING,,False
+Management_information_KIE_2018.xlsx,69,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2018.xlsx,70,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2018.xlsx,71,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2018.xlsx,72,10,HN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2018.xlsx,80,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2018.xlsx,81,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2018.xlsx,82,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2018.xlsx,83,10,HN_WF,Septoria,,MISSING,,False
+Management_information_KIE_2019.xlsx,47,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2019.xlsx,48,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2019.xlsx,49,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2019.xlsx,50,10,LN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2019.xlsx,58,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2019.xlsx,59,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2019.xlsx,60,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2019.xlsx,61,10,LN_WF,Septoria,,MISSING,,False
+Management_information_KIE_2019.xlsx,69,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2019.xlsx,70,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2019.xlsx,71,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2019.xlsx,72,10,HN_NF,Septoria,,MISSING,,False
+Management_information_KIE_2019.xlsx,80,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_KIE_2019.xlsx,81,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_KIE_2019.xlsx,82,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_KIE_2019.xlsx,83,10,HN_WF,Septoria,,MISSING,,False
+Management_information_QLB_2015.xlsx,45,10,LN_NF,Stripe_rust,2015-04-08 00:00:00,PRESENT_UNPARSED,2015-04-08,False
+Management_information_QLB_2015.xlsx,46,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2015.xlsx,47,10,LN_NF,Leaf_rust,2015-05-21 00:00:00,PRESENT_UNPARSED,2015-05-21,False
+Management_information_QLB_2015.xlsx,48,10,LN_NF,Septoria,,MISSING,,False
+Management_information_QLB_2015.xlsx,49,10,LN_NF,DTR,,MISSING,,False
+Management_information_QLB_2015.xlsx,50,10,LN_NF,Fusarium,BBCH65,PRESENT_UNPARSED,,False
+Management_information_QLB_2015.xlsx,56,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_QLB_2015.xlsx,57,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2015.xlsx,58,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_QLB_2015.xlsx,59,10,LN_WF,Septoria,,MISSING,,False
+Management_information_QLB_2015.xlsx,60,10,LN_WF,DTR,,MISSING,,False
+Management_information_QLB_2015.xlsx,61,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_QLB_2015.xlsx,67,10,HN_NF,Stripe_rust,2015-04-08 00:00:00,PRESENT_UNPARSED,2015-04-08,False
+Management_information_QLB_2015.xlsx,68,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2015.xlsx,69,10,HN_NF,Leaf_rust,2015-05-21 00:00:00,PRESENT_UNPARSED,2015-05-21,False
+Management_information_QLB_2015.xlsx,70,10,HN_NF,Septoria,,MISSING,,False
+Management_information_QLB_2015.xlsx,71,10,HN_NF,DTR,,MISSING,,False
+Management_information_QLB_2015.xlsx,72,10,HN_NF,Fusarium,BBCH65,PRESENT_UNPARSED,,False
+Management_information_QLB_2015.xlsx,78,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_QLB_2015.xlsx,79,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2015.xlsx,80,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_QLB_2015.xlsx,81,10,HN_WF,Septoria,,MISSING,,False
+Management_information_QLB_2015.xlsx,82,10,HN_WF,DTR,,MISSING,,False
+Management_information_QLB_2015.xlsx,83,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_QLB_2016.xlsx,45,10,LN_NF,Stripe_rust,2016-04-12 00:00:00,PRESENT_UNPARSED,2016-04-12,False
+Management_information_QLB_2016.xlsx,46,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2016.xlsx,47,10,LN_NF,Leaf_rust,2016-05-19 00:00:00,PRESENT_UNPARSED,2016-05-19,False
+Management_information_QLB_2016.xlsx,48,10,LN_NF,Septoria,,MISSING,,False
+Management_information_QLB_2016.xlsx,49,10,LN_NF,DTR,,MISSING,,False
+Management_information_QLB_2016.xlsx,50,10,LN_NF,Fusarium,BBCH65,PRESENT_UNPARSED,,False
+Management_information_QLB_2016.xlsx,56,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_QLB_2016.xlsx,57,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2016.xlsx,58,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_QLB_2016.xlsx,59,10,LN_WF,Septoria,,MISSING,,False
+Management_information_QLB_2016.xlsx,60,10,LN_WF,DTR,,MISSING,,False
+Management_information_QLB_2016.xlsx,61,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_QLB_2016.xlsx,67,10,HN_NF,Stripe_rust,2016-04-12 00:00:00,PRESENT_UNPARSED,2016-04-12,False
+Management_information_QLB_2016.xlsx,68,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2016.xlsx,69,10,HN_NF,Leaf_rust,2016-05-19 00:00:00,PRESENT_UNPARSED,2016-05-19,False
+Management_information_QLB_2016.xlsx,70,10,HN_NF,Septoria,,MISSING,,False
+Management_information_QLB_2016.xlsx,71,10,HN_NF,DTR,,MISSING,,False
+Management_information_QLB_2016.xlsx,72,10,HN_NF,Fusarium,BBCH65,PRESENT_UNPARSED,,False
+Management_information_QLB_2016.xlsx,78,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_QLB_2016.xlsx,79,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2016.xlsx,80,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_QLB_2016.xlsx,81,10,HN_WF,Septoria,,MISSING,,False
+Management_information_QLB_2016.xlsx,82,10,HN_WF,DTR,,MISSING,,False
+Management_information_QLB_2016.xlsx,83,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_QLB_2017.xlsx,45,10,LN_NF,Stripe_rust,2017-04-12 00:00:00,PRESENT_UNPARSED,2017-04-12,False
+Management_information_QLB_2017.xlsx,46,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2017.xlsx,47,10,LN_NF,Leaf_rust,2017-05-22 00:00:00,PRESENT_UNPARSED,2017-05-22,False
+Management_information_QLB_2017.xlsx,48,10,LN_NF,Septoria,,MISSING,,False
+Management_information_QLB_2017.xlsx,49,10,LN_NF,DTR,,MISSING,,False
+Management_information_QLB_2017.xlsx,50,10,LN_NF,Fusarium,BBCH65,PRESENT_UNPARSED,,False
+Management_information_QLB_2017.xlsx,56,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_QLB_2017.xlsx,57,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2017.xlsx,58,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_QLB_2017.xlsx,59,10,LN_WF,Septoria,,MISSING,,False
+Management_information_QLB_2017.xlsx,60,10,LN_WF,DTR,,MISSING,,False
+Management_information_QLB_2017.xlsx,61,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_QLB_2017.xlsx,67,10,HN_NF,Stripe_rust,2017-04-12 00:00:00,PRESENT_UNPARSED,2017-04-12,False
+Management_information_QLB_2017.xlsx,68,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2017.xlsx,69,10,HN_NF,Leaf_rust,2017-05-22 00:00:00,PRESENT_UNPARSED,2017-05-22,False
+Management_information_QLB_2017.xlsx,70,10,HN_NF,Septoria,,MISSING,,False
+Management_information_QLB_2017.xlsx,71,10,HN_NF,DTR,,MISSING,,False
+Management_information_QLB_2017.xlsx,72,10,HN_NF,Fusarium,BBCH65,PRESENT_UNPARSED,,False
+Management_information_QLB_2017.xlsx,78,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_QLB_2017.xlsx,79,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_QLB_2017.xlsx,80,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_QLB_2017.xlsx,81,10,HN_WF,Septoria,,MISSING,,False
+Management_information_QLB_2017.xlsx,82,10,HN_WF,DTR,,MISSING,,False
+Management_information_QLB_2017.xlsx,83,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_RHH_2015.xlsx,44,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2015.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2015.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2015.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2015.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_RHH_2015.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2015.xlsx,55,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2015.xlsx,56,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2015.xlsx,57,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2015.xlsx,58,10,HN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2015.xlsx,59,10,HN_NF,DTR,,MISSING,,False
+Management_information_RHH_2015.xlsx,60,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2015.xlsx,66,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2015.xlsx,67,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2015.xlsx,68,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2015.xlsx,69,10,HN_WF,Septoria,,MISSING,,False
+Management_information_RHH_2015.xlsx,70,10,HN_WF,DTR,,MISSING,,False
+Management_information_RHH_2015.xlsx,71,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_RHH_2016.xlsx,44,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2016.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2016.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2016.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2016.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_RHH_2016.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2016.xlsx,55,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2016.xlsx,56,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2016.xlsx,57,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2016.xlsx,58,10,HN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2016.xlsx,59,10,HN_NF,DTR,,MISSING,,False
+Management_information_RHH_2016.xlsx,60,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2016.xlsx,66,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2016.xlsx,67,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2016.xlsx,68,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2016.xlsx,69,10,HN_WF,Septoria,,MISSING,,False
+Management_information_RHH_2016.xlsx,70,10,HN_WF,DTR,,MISSING,,False
+Management_information_RHH_2016.xlsx,71,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_RHH_2017.xlsx,44,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2017.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2017.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2017.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2017.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_RHH_2017.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2017.xlsx,55,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2017.xlsx,56,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2017.xlsx,57,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2017.xlsx,58,10,LN_WF,Septoria,,MISSING,,False
+Management_information_RHH_2017.xlsx,59,10,LN_WF,DTR,,MISSING,,False
+Management_information_RHH_2017.xlsx,60,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_RHH_2017.xlsx,66,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2017.xlsx,67,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2017.xlsx,68,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2017.xlsx,69,10,HN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2017.xlsx,70,10,HN_NF,DTR,,MISSING,,False
+Management_information_RHH_2017.xlsx,71,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2017.xlsx,77,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2017.xlsx,78,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2017.xlsx,79,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2017.xlsx,80,10,HN_WF,Septoria,,MISSING,,False
+Management_information_RHH_2017.xlsx,81,10,HN_WF,DTR,,MISSING,,False
+Management_information_RHH_2017.xlsx,82,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_RHH_2018.xlsx,44,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2018.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2018.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2018.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2018.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_RHH_2018.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2018.xlsx,55,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2018.xlsx,56,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2018.xlsx,57,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2018.xlsx,58,10,LN_WF,Septoria,,MISSING,,False
+Management_information_RHH_2018.xlsx,59,10,LN_WF,DTR,,MISSING,,False
+Management_information_RHH_2018.xlsx,60,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_RHH_2018.xlsx,66,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2018.xlsx,67,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2018.xlsx,68,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2018.xlsx,69,10,HN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2018.xlsx,70,10,HN_NF,DTR,,MISSING,,False
+Management_information_RHH_2018.xlsx,71,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2018.xlsx,77,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2018.xlsx,78,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2018.xlsx,79,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2018.xlsx,80,10,HN_WF,Septoria,,MISSING,,False
+Management_information_RHH_2018.xlsx,81,10,HN_WF,DTR,,MISSING,,False
+Management_information_RHH_2018.xlsx,82,10,HN_WF,Fusarium,,MISSING,,False
+Management_information_RHH_2019.xlsx,44,10,LN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2019.xlsx,45,10,LN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2019.xlsx,46,10,LN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2019.xlsx,47,10,LN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2019.xlsx,48,10,LN_NF,DTR,,MISSING,,False
+Management_information_RHH_2019.xlsx,49,10,LN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2019.xlsx,55,10,LN_WF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2019.xlsx,56,10,LN_WF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2019.xlsx,57,10,LN_WF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2019.xlsx,58,10,LN_WF,Septoria,,MISSING,,False
+Management_information_RHH_2019.xlsx,59,10,LN_WF,DTR,,MISSING,,False
+Management_information_RHH_2019.xlsx,60,10,LN_WF,Fusarium,,MISSING,,False
+Management_information_RHH_2019.xlsx,66,10,HN_NF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2019.xlsx,67,10,HN_NF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2019.xlsx,68,10,HN_NF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2019.xlsx,69,10,HN_NF,Septoria,,MISSING,,False
+Management_information_RHH_2019.xlsx,70,10,HN_NF,DTR,,MISSING,,False
+Management_information_RHH_2019.xlsx,71,10,HN_NF,Fusarium,,MISSING,,False
+Management_information_RHH_2019.xlsx,77,10,HN_WF,Stripe_rust,,MISSING,,False
+Management_information_RHH_2019.xlsx,78,10,HN_WF,Powdery_mildew,,MISSING,,False
+Management_information_RHH_2019.xlsx,79,10,HN_WF,Leaf_rust,,MISSING,,False
+Management_information_RHH_2019.xlsx,80,10,HN_WF,Septoria,,MISSING,,False
+Management_information_RHH_2019.xlsx,81,10,HN_WF,DTR,,MISSING,,False
+Management_information_RHH_2019.xlsx,82,10,HN_WF,Fusarium,,MISSING,,False

@@ -1,0 +1,4 @@
+﻿disease,scope,n,environments,pooled_spearman,between_environment_spearman,within_environment_centered_spearman,within_environment_management_centered_spearman,negative_environment_correlations,positive_environment_correlations,undefined_correlations,interpretation
+Stripe_rust,FULL,8539,13,-0.5350052041857856,-0.4175824175824176,-0.4203994787424055,-0.44466568262644784,12,1,0,"Descriptive, no causal or independent-genotype inference; centered true yield never used by prediction models"
+Stripe_rust,NATURAL,5899,10,-0.3241527666462947,-0.41818181818181815,-0.3989574415500185,-0.39317950906429106,9,1,0,"Descriptive, no causal or independent-genotype inference; centered true yield never used by prediction models"
+Septoria,FULL,5722,10,0.09954349079436697,0.28484848484848485,-0.02079874927884015,-0.007372008094064098,7,3,0,"Descriptive, no causal or independent-genotype inference; centered true yield never used by prediction models"

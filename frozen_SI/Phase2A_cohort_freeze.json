@@ -1,0 +1,20 @@
+{
+  "time_utc": "2026-10-24T15:05:56.789112+00:00",
+  "samples": 24991,
+  "cultivars": 220,
+  "sites": 5,
+  "years": [
+    2015,
+    2016,
+    2017
+  ],
+  "site_years": 15,
+  "site_year_managements": 51,
+  "missing_coordinates": 0,
+  "source_table_sha256": "442da2dd11fcbb089d9db05863bcfcefdea6371fc0055957a69427a7db6d4ff8",
+  "sample_id_set_sha256": "43d1fff02890d527f2a59b25493d3b255a9f1ee14dbad5f5bdf234e90c4d28d8",
+  "yield_vector_sha256": "617f408183e276d310f00f44142d58bdb996817bc791b276070e0da014e88514",
+  "release_year_missing": 1433,
+  "extreme_yields_flagged_not_removed": 343,
+  "config_sha256": "2ea1ae123fca3386b2d537b8291d329316db1fe65d3689cbdc1af8475d60a86b"
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "disease": "Stripe_rust",
+    "n": 8539,
+    "sample_id_sha256": "79f66cfa673826e32ebce3d25c76a6895c5cfcea30569ce80beeeee5c771d6c0",
+    "severity_vector_sha256": "4979aadea6f22b95cb12c61235afe092ac877ceac2015a5dc49347a548f708be",
+    "cohort_file_sha256": "56893595d78d468e15413cc562a7449e286217ab85127f5a753357924d08de05",
+    "feature_file_sha256": "dd81c036fec53d5dde0239e6ec904a9e2f8303d88e131dcce071fa2b9102409f"
+  },
+  {
+    "disease": "Septoria",
+    "n": 5722,
+    "sample_id_sha256": "c6df3428e2615522eb057509720c1ea83c37300d243a0b4d5e41c339fef63075",
+    "severity_vector_sha256": "3bd74fda1d2ddb4626438e11aced20a64994d260d566043e51a14c05169e42e9",
+    "cohort_file_sha256": "d3ad7b310ad413038a89fa480d85269bc095ad0a048f96d7d2bd4c97f14be638",
+    "feature_file_sha256": "1ee26d3888d1b31595ccd187e424d004a9bb31d04d134d77b37f61a0ad49f087"
+  }
+]

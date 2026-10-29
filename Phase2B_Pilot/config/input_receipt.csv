@@ -1,0 +1,13 @@
+﻿path,sha256,purpose
+Phase2A/reports/BRIWECS_Phase2A_Modeling_Report.md,0b43fc82162f2299c71289e5f744a8850ad1f99c7fa1e7ff08761b973073341f,"Read-only inheritance/provenance, no old predictions used as controls"
+Phase2A/reports/BRIWECS_Phase2A_Phase2B_Readiness.md,46c99118ea15a45deba9a4f77838f3f38c432d3bde3eeef976ebdf8c5b0730d5,"Read-only inheritance/provenance, no old predictions used as controls"
+Phase2A/reports/BRIWECS_Phase2A_Scientific_Assessment.md,690feaac6ad9e9b72503fa64cfba6a07883c322cbc0d9ce2d54bb9d5be42b505,"Read-only inheritance/provenance, no old predictions used as controls"
+Phase2A/data/cohort/phaseI_yield_cohort.parquet,4c111123d8581143aa85bb896e582968404376adb8a5b13a893119d9ac92c57c,"Read-only inheritance/provenance, no old predictions used as controls"
+Phase2A/data/splits/outer_fold_manifest.csv,5ea6b2e19fcb3cb6c03ed38a6fc0df968a9521b261647d8005a4265e1d9f443d,"Read-only inheritance/provenance, no old predictions used as controls"
+Phase2A/results/metrics/model_performance_summary.csv,cf78af860282432f7b20daa3476a774499d9d701213e0a6d6303d17dfba792ea,"Read-only inheritance/provenance, no old predictions used as controls"
+Phase2A/results/predictions/out_of_fold_predictions.parquet,74244c5a9ecfc4506f8457d6ffb7a3ed434295a658c4eb1b6ba10a8d70b05618,"Read-only inheritance/provenance, no old predictions used as controls"
+audit/05_disease_yield_overlap.csv,327c5e8abef6bcf2b1fe045476eb30aa9ac44ef5af01ace08b96ec8dd7101cac,"Read-only inheritance/provenance, no old predictions used as controls"
+audit/08_inoculation_phase_audit.csv,24e93320811b0762796feba338ff396b7f58ee4dc49e22cf30ba0e7de3ea5be8,"Read-only inheritance/provenance, no old predictions used as controls"
+audit/10_leakage_risk_registry.csv,e5b6405e2968fd01aa057f066ec03240d7881597baeb9b9a4045b56a93461abf,"Read-only inheritance/provenance, no old predictions used as controls"
+scripts/run_phase1.py,fd9d99a0a94ac35d5687594fb4ef8753d215c0d971603638e0322539ec86998b,"Read-only inheritance/provenance, no old predictions used as controls"
+raw/figshare/extracted/Briwecs_data/scripts/pre-processing/data_cleaning.R,b93ec633f02141c3ae385ad902aa65f187a30484c2ae8d2f2e5adf86263d2bc6,"Read-only inheritance/provenance, no old predictions used as controls"

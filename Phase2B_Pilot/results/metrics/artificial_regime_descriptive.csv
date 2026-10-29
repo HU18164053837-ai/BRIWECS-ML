@@ -1,0 +1,4 @@
+﻿site_year,n,cultivars,severity_mean,yield_mean,spearman,status
+QLB_2015,880,220,14.702409759342045,43.330140909090915,-0.5982112967008176,CONFOUNDED: artificial regime restricted to QLB NF; descriptive only; no separate artificial model
+QLB_2016,880,220,6.930007928111364,49.78287386363636,-0.5505925273986496,CONFOUNDED: artificial regime restricted to QLB NF; descriptive only; no separate artificial model
+QLB_2017,880,220,4.898681818181818,42.03971590909091,-0.44105166837436166,CONFOUNDED: artificial regime restricted to QLB NF; descriptive only; no separate artificial model

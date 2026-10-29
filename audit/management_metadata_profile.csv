@@ -1,0 +1,4 @@
+﻿table,rows,date_nonmissing,date_note,columns
+fertilizer,238,238.0,author extraction uses origin 1900-01-01; check original Excel dates before temporal features,Location|Year|Treatment|Fertilization|Date|Amount|unit|Notice
+plant_protection,388,388.0,author extraction uses origin 1900-01-01; check original Excel dates before temporal features,Location|Year|Treatment|Plant protection|Date|Amount|Chemical
+soil,31,,author extraction uses origin 1900-01-01; check original Excel dates before temporal features,Location|Year|soiltype|Clay|Silt|Sand|pH|Preceding.crop|Pre-Preceding.crop|organical.content

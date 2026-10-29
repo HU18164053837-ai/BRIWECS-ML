@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Preserve frozen source and data bytes across checkouts for SHA256 verification.
+* -text

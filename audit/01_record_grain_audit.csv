@@ -1,0 +1,16 @@
+﻿metric,value
+published_rows,34683
+raw_rows_before_filter,36228
+cultivars,228
+locations,6
+years,6
+location_year,28
+location_year_management,98
+published_unique_full_keys,34672
+published_ambiguous_rows,22
+reliable_source_linked_units,34541
+reliable_with_coordinates,34042
+unresolved_rows,142
+exact_duplicate_rows,0
+repeated_dated_disease_assessments,NOT_IDENTIFIABLE: no observation-date column
+coordinate_collision_rows,120

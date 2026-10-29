@@ -1,0 +1,637 @@
+4810 plantgen The Plant Genome Plant Genome Wiley PMC11726420 11726420 12806445 39562415 10.1002/tpg2.20532 Enhancing prediction accuracy of grain yield in wheat lines adapted to the southeastern United States through multivariate and multi‐environment genomic prediction models incorporating spectral and thermal information McBreen Jordan 1 Babar Md Ali 1 ✉ Jarquin Diego 1 Khan Naeem 1 Harrison Steve 2 DeWitt Noah 2 Mergoum Mohamed 3 Lopez Ben 3 Boyles Richard 4 Lyerly Jeanette 5 Murphy J Paul 5 Shakiba Ehsan 6 Sutton Russel 7 Ibrahim Amir 7 Howell Kimberly 8 Smith Jared H 8 Brown‐Guedira Gina 8 Tiwari Vijay 9 Santantonio Nicholas 10 Van Sanford David A 11 
+ 1 
+ Department of Agronomy, University of Florida, Gainesville, Florida, USA 
+ 2 
+ School of Plant, Environmental and Soil Sciences, Louisiana State University, Baton Rouge, Louisiana, USA 
+ 3 
+ Crop and Soil Sciences Department/Institute of Plant Breeding, Genetics and Genomics, University of Georgia, Athens, Georgia, USA 
+ 4 
+ Pee Dee Research and Education Center, Clemson University, Florence, South Carolina, USA 
+ 5 
+ Department of Crop and Soil Sciences, North Carolina State University, Raleigh, North Carolina, USA 
+ 6 
+ Department of Crop, Soil, and Environmental Sciences, University of Arkansas, Fayetteville, Arkansas, USA 
+ 7 
+ AgriLife Research, Texas A&M University, College Station, Texas, USA 
+ 8 
+ USDA‐ARS SEA, Plant Science Research, Raleigh, North Carolina, USA 
+ 9 
+ Department of Plant Science and Landscape Architecture, University of Maryland, College Park, Maryland, USA 
+ 10 
+ Department Of Crop and Soil Environmental Sciences, Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA 
+ 11 
+ Department of Plant and Soil Sciences, University of Kentucky, Lexington, Kentucky, USA * 
+
+ Correspondence 
+, Md. Ali Babar, Department of Agronomy, University of Florida, 3105 McCarty Hall B, Gainesville, FL 32608, USA. Email:  mababar@ufl.edu 
+
+ ✉ Corresponding author. 19 11 2024 18 1 e20532 e20532 25 8 2026 © 2024 The Author(s).  The Plant Genome  published by Wiley Periodicals LLC on behalf of Crop Science Society of America. This is an open access article under the terms of the  http://creativecommons.org/licenses/by-nc-nd/4.0/  License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made. Abstract Enhancing predictive modeling accuracy in wheat ( Triticum aestivum ) breeding through the integration of high‐throughput phenotyping (HTP) data with genomic information is crucial for maximizing genetic gain. In this study, spanning four locations in the southeastern United States over 3 years, models to predict grain yield (GY) were investigated through different cross‐validation approaches. The results demonstrate the superiority of multivariate comprehensive models that incorporate both genomic and HTP data, particularly in accurately predicting GY across diverse locations and years. These HTP‐incorporating models achieve prediction accuracies ranging from 0.59 to 0.68, compared to 0.40–0.54 for genomic‐only models when tested under different prediction scenarios both across years and locations. The comprehensive models exhibit superior generalization to new environments and achieve the highest accuracy when trained on diverse datasets. Predictive accuracy improves as models incorporate data from multiple years, highlighting the importance of considering temporal dynamics in modeling approaches. The study reveals that multivariate prediction outperformed genomic prediction methods in predicting lines across years and locations. The percentage of top 25% lines selected based on multivariate prediction was higher compared to genomic‐only models, indicated by higher specificity, which is the proportion of correctly identified top‐yielding lines that matched the observed top 25% performance across different sites and years. Additionally, the study addresses the prediction of untested locations based on other locations within the same year and in new years at previously tested locations. Findings show the comprehensive models effectively extrapolate to new environments, highlighting their potential for guiding breeding strategies. Core Ideas 
+ Integrating high‐throughput phenotyping (HTP) data with genomics significantly boosts wheat yield prediction accuracy. Comprehensive models achieve 0.59–0.68 accuracy, outperforming genomic‐only models. Multivariate predictions can more efficiently select top‐performing lines across years and locations. HTP and genomic data improve generalization to new environments in wheat breeding. Temporal dynamics in phenotypic traits enhance predictive power in breeding models. 
+ status released display-pdf yes is-olf no is-manuscript no is-preprint no is-journal-matter no is-scanned no is-retracted no Revised 2024 Oct 1; Received 2024 Jun 21; Accepted 2024 Oct 20; Collection date 2025 Mar. Abbreviations BLUE best linear unbiased estimator CT canopy temperature CV cross‐validation DTH days to heading G × E genotype by environment GY grain yield HTP high‐throughput phenotyping SNP single nucleotide polymorphism UAV uncrewed aerial vehicle 1. INTRODUCTION Bread wheat, scientifically referred to as  Triticum aestivum , plays a vital role in ensuring worldwide food security. Approximately 95% of wheat output consists of this particular kind, which serves as a key staple in the diets of approximately 30% of the global population (Giraldo et al.,  2019 ). According to Bélanger and Pilling ( 2019 ), the global population is expected to reach about 10 billion by 2050, with a particular concentration in emerging nations and urban areas, leading to a substantial rise in the need for wheat worldwide. In order to fulfill this requirement, breeders must attain a yearly growth yield augmentation of over 1% (Peña‐Bautista et al.,  2017 ). This is a challenge for breeders to generate wheat varieties that not only have high yields in certain regions but also can endure the unpredictable conditions caused by climate change. Genomic prediction and selection (GS) have significantly transformed plant breeding tactics by providing a proactive method to predict complex traits such as grain yield (GY). This methodology employs molecular markers distributed across the entire genome, transcending the standard way of marker‐assisted selection (Bassi et al.,  2016 ). GS utilizes single nucleotide polymorphisms (SNPs) to generate genomic estimated breeding values for different lines. While predictions can be made even when phenotypic data are limited or unavailable, accurate phenotyping is critical during the initial model training phase to ensure reliable estimates. This allows for the early identification of superior genotypes (Poland et al.,  2012 ). Genomic prediction approaches enable accurate calculation of breeding values from phenotypic records of related genotypes, even when the datasets are unbalanced. Integrating data about family members when estimating genetic merit significantly enhances the accuracy of predicting genetic merit, particularly when there are few phenotypic records for the line being predicted (Heffner et al.,  2009 ). Incorporating multi‐environment data into GS models can enhance prediction accuracy in the presence of environmental fluctuations, where the fundamental selection criteria in classical breeding approaches is prioritizing GY. Nevertheless, the existence of genotype by environment (G × E) interaction causes heterogeneity in various growth conditions, posing a challenge in using a singular value to differentiate across genotypes. This elevates the likelihood of inadvertently rejecting lines that are well‐suited for the actual target population of environments or retaining unsuitable genotypes in breeding trials. Multi‐environment GS involves analyzing performance data from multiple locations and years, allowing breeders to identify genotypes that consistently exhibit high performance across many environmental situations (Rutkoski et al.,  2016 ). Analyses that explicitly incorporate G × E interaction allow for the computation of how various genotypes function in distinct environmental conditions, offering vital insights on the stability and flexibility of genotypic performance across various locales and time periods. Multi‐environment GS models can utilize these data to anticipate the performance of genotypes in untested environmental conditions. Including the capability to estimate how genotypes will perform in future years at locations that have already been studied. This feature improves the accuracy of predictions by considering the dynamic interactions between genotypes and evolving environmental variables throughout time (Lado et al.,  2016 ). Integrating genomic and high‐throughput phenotyping (HTP) data in models that span many years and locales provides a robust vigilance against unforeseen challenges, such as crop loss caused by unfavorable weather conditions or the inability to sow due to a shortage of seeds (Montesinos‐López et al.,  2018 ). By considering the G × E interaction and utilizing data from various environments, multi‐environment GS provides breeders with a more thorough comprehension of how different genotypes perform. Enabling breeders to choose cultivars that have wide adaptability and resilience, ultimately leading to the sustainable enhancement of crop productivity (Dwivedi et al.,  2020 ). HTP data integration into GS models offers a significant breakthrough in breeding, especially when the data are acquired using aerial drone‐based spectral imaging. This approach offers a rapid and cost‐efficient method for collecting environmental and phenotypic data (Yang et al.,  2020 ). These models utilize combined genomic and phenotypic data to assess how different genotypes respond to differing environmental conditions (Crain et al.,  2018 ). Through this, the assessment of complex relationships that affect trait expression in various growing conditions by combining information on genetic composition, observable traits, and environmental influences can occur (Kaushal et al.,  2024 ). A comprehensive approach like this enables a more sophisticated comprehension of the G × E interaction, where the models can discern how certain genetic variations interact with environmental signals to regulate the expression of traits (Araus & Cairns,  2014 ). The HTP methodology facilitates the assessment of different attributes and interactions with the surrounding environments while avoiding the expenses and time constraints associated with traditional phenotyping methods. Affording researchers and wheat breeders the opportunity to efficiently gain critical knowledge about the relationship between genotype performance and environmental factors, facilitating more informed and timely breeding decisions. Core Ideas 
+ Integrating high‐throughput phenotyping (HTP) data with genomics significantly boosts wheat yield prediction accuracy. Comprehensive models achieve 0.59–0.68 accuracy, outperforming genomic‐only models. Multivariate predictions can more efficiently select top‐performing lines across years and locations. HTP and genomic data improve generalization to new environments in wheat breeding. Temporal dynamics in phenotypic traits enhance predictive power in breeding models. 
+ HTP allows for the possibility of finding wheat cultivars that exhibit resilience to adverse climatic circumstances or constraints related to planting. By examining the spectral fingerprints linked to stress reactions, such as drought or heat stress, breeders can pinpoint genotypes that possess exceptional resilience to these conditions. Also, through the evaluation of how particular genetic variations interact with environmental factors, these models can predict the performance of different genotypes even in new growing locations. Subsequently, this data may be utilized to generate well‐informed breeding choices, guaranteeing the selection of cultivars that will achieve maximum performance in difficult conditions. These models ensure the reliability of breeding programs, enabling informed decisions even when working with incomplete datasets. Shahi et al. ( 2022 ) showcased the efficacy of using in‐season physiological data, such as photosynthetic efficiency and drought tolerance, in predicting high‐yielding wheat varieties over many years. Their research emphasizes the importance of dynamic features in enhancing the precision of predicting wheat output in various climatic conditions. Guo et al. ( 2020 ) conducted a study that aimed to incorporate water regime and post‐anthesis heat stress responses into multivariate genomic prediction models. These authors wanted to identify and select wheat varieties that are tolerant to both drought and heat in order to show the importance of water‐use efficiency and heat stress‐related characteristics in the selection of drought‐ and heat‐tolerant wheat lines. Hence, improving the accuracy of yield predictions and enhancing the ability of crops to withstand stressful circumstances. Meanwhile, Jarquin et al. ( 2014 ) highlighted the crucial importance of incorporating the modeling of G × E interaction into genomic prediction frameworks. Their study improves the accuracy of prediction models by including G × E interaction, which takes into consideration how genotype performance varies from environment to environment. Expanding on these findings, Persa et al. ( 2021 ) conducted an in‐depth study on the advantages of evaluating multiple traits in genomic prediction by examining the significance of considering a wide range of agronomic traits to enhance the accuracy of predictions and enable the identification of superior genotypes that perform well across environments. Persa and colleagues showed that by including data on various characteristics into GS models, they were able to achieve higher prediction accuracy leading to accelerated genetic gain. Intimating how their more complex model outperformed the baseline maker matrix model in prediction, allowing them to identify genotypes with greater performance under diverse environmental conditions. The present study seeks to develop a strategy that combines genomic data and spectral data obtained from uncrewed aerial vehicles (UAVs) to predict grain production in un‐phenotyped wheat lines across various growing conditions and locations in the southeastern United States. Conducting a comparison analysis of multivariate genomic prediction and univariate genomic prediction and strategically utilizing multi‐location data, we can assess the accuracy of genomic predictions. The objective of our initiative is to utilize the combined power of genomic data and information derived from HTP platforms to enhance prediction accuracy, thus offering the potential to accelerate wheat variety development. 2. MATERIALS AND METHODS 2.1. Plant genetic material and experimental design The field experiments were conducted over a period of three consecutive growing seasons, starting from 2021 and ending in 2023. These trials were carried out at multiple locations around the southeastern United States as part of the SunGrains breeding cooperative. SunGrains is a joint research and cultivar development project that brings together the wheat and small grains breeding programs of seven universities in the southeastern region of the United States. These universities include the University of Arkansas, Clemson University, University of Florida, University of Georgia, Louisiana State University, North Carolina State University, and Texas A&M University. This collaborative endeavor facilitates the testing of breeding nurseries in multiple locations and encourages the sharing of germplasm and data among participating programs. Its goal is to improve the efficiency and productivity of each breeding program, thereby promoting the development of superior wheat varieties. The study employed soft red winter wheat elite lines derived from different breeding programs of SunGrains in the southeastern United States, as well as affiliate universities such as the University of Kentucky, Virginia Polytechnic Institute and State University, and the University of Maryland. Each year, genomic data for these wheat lines is systematically gathered across several nurseries using SNP markers to characterize the lines. Data collection was conducted at experimental stations located in four different places: Citra, FL; Winnsboro, LA; Plains, GA; and Florence, SC (Table  S1 ). These locations function as communal sites for the SunGrains nursery, with the production lines spread out among them. Table  1  displays the count of lines inside each site for each year, as well as the count of lines that are shared between site‐years, where a particular site within a particular year is considered a unique environment. Not all lines are common to all sites throughout a year, and only a limited number of lines are shared from one year to the subsequent year. There were a total of 874 unique genotypes tested in the experiment, with the overlap of genotypes across environments varying from year to year; some lines were only tested in one environment, while others were present in all of the environments, with a total of 11 lines being present across all years. The wheat lines utilized in this research were cultivated in plots measuring 5.11–5.57 m 2 . The implementation of fertilizers and chemicals, as well as other management and agronomic procedures, adhered to the prescribed parameters for each location to ensure optimal development and production potential. TABLE 1 Number of wheat lines observed in 11 total tested environments (shown in bold in the diagonal), where each environment is a unique site‐year combination. Site‐year 2021GA 2021LA 2021FL 2022FL 2022GA 2022LA 2022SC 2023GA 2023LA 2023SC 2023FL 2021GA 
+ 302 
+ 2021LA 302 
+ 302 
+ 2021FL 261 261 
+ 330 
+ 2022FL 58 58 48 
+ 262 
+ 2022GA 58 58 48 262 
+ 262 
+ 2022LA 58 58 48 262 262 
+ 262 
+ 2022SC 58 58 48 262 262 262 
+ 262 
+ 2023GA 7 7 7 43 43 43 43 
+ 348 
+ 2023LA 7 7 14 44 44 44 44 346 
+ 352 
+ 2023SC 9 9 10 46 46 46 46 348 348 
+ 353 
+ 2023FL 9 9 12 50 50 50 50 126 127 127 
+ 139 
+ 
+ Note : Number of common lines in a pair of environments are shown below the diagonal. FL, GA, LA, and SC indicate Florida, Georgia, Louisiana, and South Carolina, respectively. 2.2. Traits measurement Data on days to heading (DTH), GY, normalized difference vegetation index (NDVI), and canopy temperature (CT) were recorded. The DTH was measured for each plot as the time elapsed from planting until the day when 50% of the plants had reached the heading stage, as determined by the Zadoks scale (Zadoks et al.,  1974 ). GY was established by using a combine plot harvester to harvest all rows. The computation is the division of the total weight of grain by the area of the plot while considering a moisture content of 13%. The resulting value is then converted to kilograms per hectare (kg ha −1 ). 2.2.1. UAV‐based high‐throughput phenotyping The aerial multispectral and thermal imaging platform comprises a DJI Matrice 300 Quadcopter drone UAV manufactured by DJI Technology Co. The platform is equipped with a two‐in‐one multispectral imaging device and a thermal imaging camera. The drone, equipped with multispectral and thermal sensors, was flown twice during the study's growing seasons at an altitude of 30 m. During each growing season, the drone was flown twice to capture multispectral and thermal data. The first flight was conducted about 5–7 days after the plants had reached heading (timepoint 1), and the second flight was scheduled 2 weeks later (timepoint 2) to monitor further development and changes in the plants. Previous research demonstrated that traits measured at specific growth stages, particularly following heading and during the early milk stage, are the most reliable predictors of GY across various environments (Babar et al.,  2006 ; Guo et al.,  2020 ). As such, the UAV flights were timed to capture data at these crucial points—once shortly after heading and again 2 weeks later. During these growth stages, traits such as NDVI and CT offer the most valuable insights into plant growth and yield potential, making them essential for accurate prediction models. The MicaSense Altum PT (AgEagle,  2024 ) was used to gather both raw multispectral and thermal imaging data, which was then processed using the Pix4D (Pix4dmapper) and QGIS ( 2018 ) imaging solutions software. Data collection flights were carried out during the period of highest daily temperatures (between 12:00 p.m. and 3:00 p.m.) under generally clear weather conditions to minimize the impact of clouds on the data. Prior to each flight, the MicaSense Altum PT sensor captured several images of the MicaSense calibrated reflectance panel. These images are utilized by imaging software during post‐processing of the multispectral and thermal images in order to adjust for the prevailing environmental lighting conditions during each flight mission. The multispectral and thermal imaging data were processed using the Pix4Dmapper software, with the data provided in the .tif (GeoTIFF) file format. Pix4D's 3‐step processing pipeline was employed to generate digital surface models (DSM), orthomosaics, reflectance maps, and spectral index maps from the raw imaging data. The process began by uploading the captured images into Pix4Dmapper, followed by radiometric calibration to standardize the pixel values across different images. The next step involved aligning the images to create a sparse point cloud. Ground control points were then added for georeferencing and to enhance accuracy. After this, a dense point cloud was generated, which formed the basis for constructing the DSM. The orthomosaic was subsequently created by projecting the calibrated images onto the DSM, resulting in a geometrically corrected image that combines all individual photos into a seamless map. Using the generated orthomosaic, the NDVI was calculated through the Index Calculator tool, facilitating pixel‐by‐pixel analysis for efficient production of index maps (Pix4D,  2011 ). NDVI is calculated using the following equation:
+ ( ρ NIR − ρ red ) / ( ρ NIR + ρ red ) where  ρ red  represents the spectral reflectance of the red region of the light spectrum collected by the sensor and  ρ NIR  represents the spectral reflectance recorded from the near infrared region of the electromagnetic spectrum. Pix4D was used to build thermal orthomosaic maps for each flight done in the different fields. The thermal imaging data from the MicaSense Altum PT sensor was calibrated internally by the sensor's built‐in radiometric calibration functionality. This calibration process involves the sensor's onboard systems accounting for changes in ambient temperature, sensor temperature, and lens characteristics, ensuring that thermal pixel values are consistently converted to accurate temperature readings in degrees Celsius. The Altum PT employs radiometric thermal calibration techniques that adjust each pixel value based on predefined calibration curves, compensating for variations during data capture. The calibration allows for consistent and reliable temperature data without requiring external calibration panels or additional data loggers. By relying on the Altum PT's internal calibration system, we ensured accurate thermal measurements across the field trials, facilitating robust predictive modeling of crop traits linked to temperature. Orthomosaics depicting either NDVI or thermal heat maps of the entire field were transferred from Pix4D to QGIS. In QGIS, these orthomosaics may be divided into segments based on individual plots. The average pixel value within each plot segment was calculated using the zonal statistics plugin in QGIS. Figure  1  illustrates the semiautomated HTP data collection and processing pipeline, which outlines the integration of a variety of software and components involved in the current UAV‐based imaging, spanning from the deployment of UAVs to the acquisition and processing of data. FIGURE 1 Visualization of data collection and processing. (A) The image acquisition step showing the uncrewed aerial vehicle (UAV), camera, and calibration reflectance panel used. (B) The image processing step utilized the Pix4DMapper software to generate normalized difference vegetation index (NDVI) and thermal orthomosaics. (C) Data retrieval in the QGIS software called for the creation of polygon shapefiles and the zonal statistics plugin tool to calculate plotwise values. 2.3. Genotyping High‐quality DNA was extracted from wheat seedling leaf tissue using the sbeadex plant maxi kit on an oKtopure automated extraction system (LGC Genomics LLC). Following the methodology published in  Poland et al. (2012) , genotyping‐by‐sequencing (GBS) libraries were generated using the restriction enzymes PstI and MspI. Post‐digestion, fragmented sample DNA was ligated to barcoded sequencing adapters. Pools containing 384 uniquely barcoded sample libraries were sequenced on Novaseq 6000 SP flowcells with a 100 base pair read length (Illumina Inc.). Sequencing reads were aligned to the International Wheat Genome Consortium (IWGSC,  2014 ) RefSeqv1.0 reference genome ( https://wheat‐urgi.versailles.inra.fr/Seq‐Repository/Assemblies ) using the Burrows–Wheeler Aligner version 0.7.12 (Li et al.,  2009 ) and SNP calling was implemented by the TASSEL 5GBSv2 pipeline version 5.2.35 (Glaubitz et al.,  2014 ). Following sequencing, all genotypes underwent genetic characterization through GBS, which allowed for the identification of SNPs across the wheat genome. This was conducted using the TASSEL v. 5 software, filtering out markers with over 80% missing data and minor allele frequencies less than 0.05 as well as those with greater than 10% heterozygosity to ensure data quality. To address missing data, the Beagle version 5.2 (Browning & Browning,  2016 ) software was utilized for imputation. This algorithm leverages linkage disequilibrium information and the k‐nearest neighbor approach to impute missing genotypic data, thereby enhancing the completeness of the genomic dataset. Ultimately, the final genomic dataset for each year comprised approximately 23,000 SNP markers, providing a comprehensive genetic profile for the wheat genotypes under study. The range of markers across the chromosomes used in this study, along with their respective percentages, can be found in Table  S2 . This distribution provides an overview of the genomic coverage, which is crucial for accurate prediction modeling. The distribution reflects an adequate representation across most chromosomes. 2.4. Phenotypic data analysis Analysis of variance (ANOVA) tests were conducted for each site‐year, assuming a mixed linear model. The R package “lme4” and “emmeans” (Bates et al.,  2016 ) were utilized to estimate the best linear unbiased estimate (BLUE) for GY, NDVI, and CT by using the following equation and assuming environment and block as random effects and genotype as fixed: Y i j k ′ = μ + g i + E j + B j k + g E i j + e i j k where  Y i j k ′  represents the observed value;  μ  is the general mean;  g i  is the genotypic effect of the  i th genotypes;  E j  is the effect of environment  j ;  B j ( k )  is the block effect k in environment j;  g E i j  is the  j th genotype by  i th environment interaction effect; and  e i j k  represents the random error accounting for the non‐explained variability for the model's terms. Block effects, along with error, were assumed to follow independent normal distributions (IID). To account for the confounding influence of phenology, DTH was included as a covariate in the model when calculating BLUEs for GY, ensuring that the effect of maturity on yield‐related traits was controlled for, as previously done in Guo et al. ( 2020 ). This correction is essential because DTH is often correlated with GY, NDVI, and CT and could confound their relationship if left unaccounted for. To obtain the broad sense heritability of the traits for each environment, the variances of each effect were obtained with the following model:
+ Y i j ′ = μ + g i + B k + e i k where in the model, genotype and block were considered random effects. The broad sense heritability ( H 
+ 2 ) for each environment was then calculated as:
+ H 2 = σ G 2 σ G 2 + σ e 2 r × 100 where  σ G 2  and  σ e 2  and correspond to the variance components of the genotypic and the residual effects, and  r  is the number of blocks. The objective was to analyze separately each environment to accurately measure the genetic variation and the influence of the different environments. This approach allows for a more detailed understanding of how traits are inherited under different environmental settings. 2.5. Prediction models To improve grain production in wheat lines suited for the southern region of the United States, seven independent prediction models were developed using the model structure established by Jarquin et al. ( 2014 ) as a foundational baseline. This model employs a Bayesian approach to account for both spatial variation and G × E interactions, making it particularly well suited for multi‐environment trials. Its flexibility in capturing complex genetic and environmental interactions provides a framework for assessing trait performance across diverse conditions. In this study, the integration of this baseline structure with high‐throughput phenotypic data, such as NDVI and CT, allows for further refinement of prediction accuracy, especially under varying environmental influences. Multivariate and multi‐environment prediction approaches were utilized by these models and are listed as M1–M7 in the sections below. These methodologies include genetic, spectroscopic, and temperature data with their predictions. The BLUEs that were obtained from the model described in Section  2.4  were utilized as inputs for the prediction models that are being addressed here. 2.5.1. M1: Genotypic effects (G + E) Model M1 integrates genotypic/genomic ( g ) and environmental ( E ) effects to predict GY of different wheat lines ( i ) and environments ( j ):
+ Y i j = μ + E j + g i + ε i j The model itself comprises a constant mean ( μ ), environmental effects ( E j ), genotypic effects ( g i ), and residual ( ε i j ), where  Y i j  is the BLUE for GY for the  i th genotype in the  j th environment;  E j  represents the environmental effect;  g i  represents the genomic main effect corresponding to the  i th genotype, and the vector of genomic effects  g = { g i }  follows a multivariate normal distribution such that  g  ∼  N ( 0 ,  G 
+ σ g 2 ) with  G = X X ′ p  denoting the genomic relationship matrix,  X  is the centered and standardized (by columns) matrix of  p  SNP markers;  σ g 2  is the corresponding variance component; and  ε i j ∼ N ( 0 , σ ε 2 )  with  σ ε 2  the variance component of the error term. The correlation between the impacts of the random variables is determined by the off‐diagonal values of  G . Consequently, this model offers the possibility of borrowing information between different lines. This enables the ability to predict the performance of lines that have not undergone evaluation in any field trial, for instance. 2.5.2. M2: Genotypic, environment, and genotype–environment interaction effects (G + E + G × E) Model M2 extends model M1 by incorporating  G × E  interaction effects:
+ Y i j = μ + E j + g i + g E i j + ε i j This model is similar to the previous model, aside from the addition of  g E i j , which denotes the interaction between the  i th genotype with the  j th environment and is assumed to have a multivariate normal distribution. Such that  g E = { g E i j } ∼ MN ( 0 , Z g G Z g T # Z E Z E T σ g E 2 )  where  Z g  and  Z E  are the incidence matrices connecting phenotypes with genotypes and environments, respectively; and  σ g E 2  is the corresponding variance component. 2.5.3. M3: HTP effects (H + E) This phenomic‐based model is similar to M1 for the prediction of GY, but rather than having SNP markers as its covariates, it relies on the incorporation of phenotypic information from the HTP data kernel ( H ). So that model M3 is represented as follows:
+ Y i j = μ + E j + H i + ε i l where  H i  represents the phenotypic main effect of the  i th genotype. The joint distribution of the involved phenotypic traits can be modeled as  H = { H i } ∼ N ( 0 , P σ P 2 ) , where  P = SS ′ m  is the phenotypic trait‐derived relationship matrix with  S  as a matrix made up of the centered and standardized BLUE values of the  m  phenotypic traits and  σ P 2  denotes the corresponding variance component. 2.5.4. M4: HTP, environment, and HTP–environment interaction effects (H + E + H × E) Model M4 expands model M3 by considering the interaction between HTP and the environmental effects (H × E), allowing the impact of how HTP influences genotype responses across different environments to be gauged:
+ Y i j = μ + E j + H i + H E i j + ε i j where the terms for M4 are the same as for M3, aside from the addition of  H E i j , which represents the phenotypic vector interactions between the  i th genotype and the  j th environment modeled with HTP data.  H E i j  was assumed to have a multivariate normal distribution such that  H E = { H E i j } = N ( 0 , Z g H Z g T # Z E Z E T σ H E 2 )  where  σ H E 2  represents the corresponding variance component (Jarquin et al.,  2014 ). 2.5.5. M5: Genotypic and HTP–environment interaction effects (G+ E + H × E) Models M5 and M6 attempt to examine the impact of various combinations of data inclusion, specifically the incorporation of SNP markers and HTP data, on the predicted accuracy for GY. The M5 model integrates genomic SNP markers and HTP‐linked trait data to estimate GY. This model contains the SNP marker and environment main effects as  g  and E, respectively, as well as the interaction between HTP and the environment (H  ×  E):
+ Y i j = μ + E j + g i + H E i j + ε i j 2.5.6. M6: HTP and genotype–environment interaction effects (H+ E + G × E) Model M6 is somewhat an inversion of M5 in that it contains the HTP and environment main effects as H and E, respectively, and the interaction between genotype and environment:
+ Y i j = μ + E j + H i + g E i j + ε i j The main difference between the M5 and M6 models is the focus that is placed on each of them. Model M5 is centered on the incorporation of genotypic, environmental, and HTP–environment interaction effects, whereas model M6 is centered on the incorporation of high‐throughput phenotyping data in addition to environmental factors and G × E interactions. 2.5.7. M7: Genotypic, HTP, G × E, and HTP–environment interaction effects (G + H+ E + G × E + H × E) The M7 model integrates all the different terms that were taken into consideration in the M1 through M6 models. It provides a complete prediction framework that considers genotypic impacts, environmental circumstances, HTP, and the interactions between these factors in order to properly predict GY across a variety of habitats in the southeastern United States.
+ Y i j = μ + E j + g i + H i + H E i j + g E i j + ε i j As seen in the equation for M7, all previously described terms are contained therein, with both the HTP by environment and  G × E  interaction being present for this model. 2.6. Cross‐validation To assess the accuracy of the implemented models, a set of cross‐validation (CV) techniques, originally introduced by Jarquin et al. ( 2017 ), were utilized. Each technique was designed to target prediction scenarios that are pertinent to wheat breeding in the southeastern United States. The purpose of these CV schemes was to replicate real‐life situations that occur in breeding programs. This allowed for a thorough evaluation of the models' ability to accurately predict outcomes, as described in Table  2 . TABLE 2 Comprehensive representation of the four different prediction scenarios considered and their corresponding cross‐validation approaches. Prediction scenario Cross validation scheme CV2 CV1 CV0 Prediction of lines in incomplete trials (sparse testing) 1 – – Predicting new lines (not being observed in any environment yet) – 2 – Predicting lines in untested sites – – 3 (S) Predicting lines in untested years – – 4 (Y) 
+ Note : The four unique prediction scenarios addressed include: (1) predicting lines in incomplete trials (sparse testing) using CV2; (2) predicting new lines not observed in any environment with CV1; (3) predicting lines in untested sites employing CV0, which we refer to as CV0‐S; and (4) predicting lines in untested years also utilizing CV0, as CV0‐Y. Each intersection in the table indicates the specific cross‐validation scheme employed for the corresponding prediction scenario. 2.6.1. Prediction of lines in incomplete trials (sparse testing)—CV2 This scenario is employed to tackle the task of predicting a specific subset of examined genotypes in a specific subset of examined environments. Some genotypes have been assessed in specific contexts, whereas their evaluation in other environments is still pending. In order to control for genomic relatedness among lines, a discriminant analysis of principal components (DAPC) was performed separately for each year, using all SNP markers for that year (Jombart et al.,  2010 ). The population was stratified into 10 clusters based on the DAPC results. From each cluster, an appropriate number of lines were randomly selected to form five CV subgroups, ensuring that the relatedness within clusters was controlled across validation and training sets. In this way, no lines from the same DAPC cluster were present in both the training and validation sets at the same time. This CV process was replicated 10 times for model training. Within each fold, 20% of the phenotypic records were used for prediction, while 80% were used for training. The means (and standard errors) across replicates were then computed for each environment. 2.6.2. Predicting new lines (not observed in any environment yet)—CV1 CV1 is employed to predict genotypes that have not been observed in any tested environment. Here, certain individuals were not observed in any tested environment, while other lines were tested in these environments. The goal is to assess the models' ability to extrapolate to new genotypes based on patterns learned from observed data. The CV1 analysis also employs a fivefold CV scheme with an 80/20 split using the results of the DAPC. In this scenario, no data from masked lines were considered in any of the environments such that genotypes were partitioned into folds rather than phenotypes, ensuring that all phenotypic records from the same genotype are grouped together within the same fold. Approximately 20% of the genotypes are designated as the validation or testing set, while the remaining majority (around 80% of the genotypes) were utilized for model calibration. Like CV2, each fold was sequentially predicted using the other folds as the training data, and this process was repeated 10 times. Here, the genomic similarities between the lines in the training and testing sets play a major role in the performance of the models. 2.6.3. Predicting lines in untested sites—CV0‐S The CV0‐S cross‐validation focuses on predicting the performance of genotypes in untested sites. This scenario entails predicting the performance of genotypes in sites that were not previously utilized for training purposes. Genotypes that have been seen in specific situations are now being extrapolated to predict their performance in untested sites. This approach offers valuable insights into the extent to which the models can apply to a wide range of environmental situations. This approach is mostly employed when there are no phenotypic records available for any of the observed lines in the target site, with the overall effectiveness of this predictive strategy relying on whether the conditions in the unobserved sites are within the range of conditions in those used for testing, as well as the performance and quantity of phenotypic records from the same genotypes observed in other sites within the test set. In this context, the predictions are generated by excluding one site and utilizing those remaining as the training set. Subsequently, the correlations between the predicted and actual values for each environment are calculated. This implies a poststratification of the predicted values for one site to each year. The CV0‐based scenarios, unlike other CV scenarios, do not utilize random division of data. Instead, it is executed or carried out only once. This implies that the dataset is divided into separate sets for training and testing, and this division remains constant throughout the assessment process. 2.6.4. Predicting lines in untested years—CV0‐Y The CV0‐Y framework utilizes an approach akin to forward prediction to not only anticipate the performance of genotypes in untested situations but to assess them by comparing predicted values to observed values in subsequent years. This method involves using data from prior years, such as phenotypic data (e.g., GY and biomass) and genotypic data (e.g., SNP markers), as the training set to predict the performance of genotypes in future years. The performance in succeeding years is then used as the testing set to evaluate the accuracy of the predictions. For example, historical GY, genomic, and secondary indicator trait data like NDVI and CT from prior years, such as 2019, is used as a reference point for estimating the performance in the subsequent year, 2020. Similarly, the training population (TP) for estimating the performance in the upcoming year, 2022 (VP), is formed by combining data from numerous prior years, such as 2020 and 2021. The model strategically captures environmental effects primarily at the location level, ensuring that environmental factors are accounted for based on spatial variability between different sites. When predicting the performance of genotypes in a new year, the environmental effects are applied at the location level. This emphasizes the significant impact of geographical environments on genotype performance, highlighting how differences between locations contribute uniquely to the observed phenotypic traits. By using this advanced forward CV prediction technique, the study obtains a more accurate comprehension of the models' ability to handle future, unseen years. This, in turn, improves the evaluation of genomic selection effectiveness within the breeding program context. 2.7. Model evaluation The efficacy of the implemented prediction models was evaluated by calculating the within‐environment correlations between the predicted and observed values. This provided a reliable measure of how well the model performed at the environment level. Due to the variable environmental circumstances and varying sample sizes, it was crucial to conduct a thorough evaluation of predictability across different contexts. To achieve this, a weighted average correlation was computed across environments, following the methodology proposed by Tiezzi et al. ( 2017 ) and utilized by Canella Vieira et al. ( 2022 ). The computation of the weighted average correlation involved calculating the Pearson correlation coefficient between the predicted and observed records within each environment. The sampling variance and the number of observations for each environment were considered in the aggregation of correlations across environments as follows  r φ = ∑ l = 1 11 r j V ( r j ) ∑ l = 1 11 1 V ( r j )  with  V ( r j ) = 1 − r j 2 n j − 2  and  n j  is the number of genotypes at the  j th environment. This approach accounts for both the uncertainty associated with each environment and the variability in sample sizes across environments. The weighted average correlation metric offers a nuanced understanding of the model's predictive performance. 3. RESULTS 3.1. Descriptive statistics Table  3  displays the descriptive statistics of GY for the 11 environments of the present study. Within the dataset covering the period from 2021 to 2023, noticeable fluctuations in GY may be observed for each year. GY in 2021 was greatest in GA, with a mean of 5655.1 kg ha −1 . LA had a mean yield of 3764.0 kg ha −1 , followed by FL with 2820.5 kg ha −1 . This highlights the impact of the environment on wheat production. FL saw the lowest average GY in 2022, with 2658.43 kg ha −1 , contrasting with GA, LA, and SC, which achieved better yields. Standard error for GY remains steady among settings within each year, showing a reliable level of precision in yield estimation. For the 2023 year, GA and SC have a competitive average GY, while FL has the lowest GY. This emphasizes the ever‐changing environmental circumstances and underscores the significance of G × E interaction in influencing wheat productivity across different environments and years. Over the period of 2021–2023, the  H 
+ 2  for GY ranges from 50% to 68%, potentially reflecting the influences of genetic and environmental impacts as well as how they interact across different settings and years. In 2022, the broad‐sense heritability of GA achieves its maximum value of 68%, showing a substantial genetic impact on GY in that particular environment and year. Conversely, the heritability of GY in FL in 2021 is the lowest recorded at 50%, suggesting that the genetic influence on GY in that particular combination of location and year is somewhat less pronounced. The observed variation in  H 
+ 2  across environments underscores the differential genetic control exerted on GY depending on site and year. The relationship between model prediction accuracy and  H 
+ 2  across environments further supports these observations. While simpler models, such as M1, exhibited minimal correlation between accuracy and  H 
+ 2 , more complex models, particularly those incorporating genomic and environmental interactions, demonstrated a clearer relationship. For instance, M4 showed a notable improvement in accuracy as  H 
+ 2  increased, suggesting that models accounting for environmental interactions are more responsive to genetic signals. Similarly, M7, the most complex model tested, consistently outperformed simpler models, even in environments with lower  H 
+ 2 , highlighting its capacity to sustain high accuracy regardless of the genetic control. The more simple models without interaction terms are less sensitive to differences, leading to more variable prediction performance across environments. Table  S3  presents the calculated values of  H 
+ 2  for NDVI, CT, and DTH across different site‐years. The  H 
+ 2  for NDVI ranges from 47% to 92%. For the year of 2022, the highest value of 92% was reported in LA, which is at timepoint 2, while the lowest value of 47% was seen that same year in GA.  H 
+ 2  values for CT take on a range from 52% to 74%. With the highest  H 
+ 2  of 74% being found in FL in 2022 during the timepoint 2 data collection, while the lowest, at 52%, was reported in FL in 2023 at timepoint 2. In addition to incorporating DTH as a covariate to account for the confounding effects of maturity on yield‐related traits, we also analyzed the correlations between GY and the phenotypic traits measured in different environments within each year. This analysis aimed to better understand the interaction between GY and NDVI, DTH and CT. As shown in Table  S3 , the Pearson correlation coefficients ( p ) between GY and the phenotypic traits (NDVI, CT, and DTH) reveal a range of interactions across the environments. Specifically, the correlations between DTH and GY ranged from −0.66 to −0.11, indicating that the effect of phenology on yield varies significantly depending on the environmental context. Likewise, CT and NDVI showed variable correlations with GY, highlighting the intricate relationship between environmental factors, phenology, and yield. The correlations between DTH and the HTP traits were investigated and found to vary but generally showed weak relationships. Detailed correlation data between DTH and these HTP traits across all environments can be found in Table  S4 . TABLE 3 Mean (± SE), minimum, and maximum grain yield values (kg ha −1 ), and sample size of wheat breeding lines included in the multi‐year study from the Sungrains cooperative breeding initiative nurseries at the advanced stages of yield testing, 2021–2023. Year Site Environment Environment number Sample size GY (mean ± SE) GY range 
+ H 
+ 2  (%) 2021 GA 2021GA 1 302 5655 ± 33 3392–7156 53 2021 LA 2021LA 2 302 3764 ± 64 266–7075 57 2021 FL 2021FL 3 330 2821 ± 56 724–5601 50 2022 FL 2022FL 4 262 2658 ± 49 277–4666 58 2022 GA 2022GA 5 262 5296 ± 46 2960–7176 68 2022 LA 2022LA 6 262 4310 ± 40 1377–5953 60 2022 SC 2022SC 7 262 6149 ± 75 2076–8814 65 2023 GA 2023GA 8 348 5041 ± 52 1732–7302 63 2023 LA 2023LA 9 352 3837 ± 59 607–5947 67 2023 SC 2023SC 10 353 6630 ± 111 415–12,312 62 2023 FL 2023FL 11 139 2212 ± 68 710–4865 55 
+ Note : Mean grain yields for each site by year combination are best linear unbiased estimates. Environment column corresponds to the unique year by site combination that constitutes a single environment, for which there are 11 in this experiment. The broad‐sense heritabilities ( H 
+ 2 ) for yield in each site‐year combination are listed as well. FL, GA, LA, and SC indicate Florida, Georgia, Louisiana, and South Carolina, respectively. Abbreviation: GY, grain yield. 3.2. Model evaluation To determine and better control for population structure of the wheat panels associated with each year, the lines in each site‐year were clustered into 10 groups using the DAPC algorithm. Each subgroup consisted of several lines, which were then randomly assigned to five different folds for CV analysis. PCA plots showing the breakdown of population structure for each year are shown in Figure  S1 . Table  S5  presents a comprehensive overview of the prediction accuracies for all models and situations, while important findings from the studies are illustrated in different graphics. This table provides a systematic summary of how well various models perform in predicting outcomes using different CV methods. Each row shows a specific situation along with its accompanying prediction goals and the related CV strategy. Each column contains scenarios and displays various models and their appropriate notations. The mean prediction accuracies are presented for each model using the associated CV procedure. 3.2.1. Prediction of lines in incomplete trials—CV2 In the initial scenario, the task was to predict lines in incomplete trials using the CV2 scheme. Multiple models were assessed using a fivefold, 80/20 random split CV method. According to Figure  2 , the baseline genomic model M1 had a prediction accuracy of 0.541. Model M2, which included the environment interaction term, showed a little improvement with a mean correlation of 0.549. Model M3, which used HTP data but not genomic information, obtained an accuracy of 0.473. On the other hand, model M4, which further considered the H by E interaction effect, achieved an accuracy of 0.490. Models that included genomics and HTP data fared better than models that just used a single variable. Specifically, models M5 and M6 achieved accuracy of 0.631 and 0.611, respectively. The M7 model, which includes all effect components, attained an accuracy of 0.683, representing a 26% improvement compared to the genome univariate model. These results demonstrate the effectiveness of using HTP data with genetic information to improve prediction accuracy in information‐rich settings such as CV2. FIGURE 2 Comparison of models when predicting lines in incomplete trials (CV2). Bar graph illustrating mean values, with error bars, for various model configurations under the CV2 cross‐validation approach. Specifically focused on predicting lines in incomplete trials. Where G is genomic data, E is environmental effects, and H is high‐throughput phenotyping data. Model M1 = G + E; M2 = G + E + G × E; M3 = H + E; M4 = H + E + H × E; M5 = G + E + H × E; M6 = H + E + G × E; M7 = G + H + E + G × E + H × E. To assess the prediction accuracy of the seven models, scatter plots were created to compare the observed yield values with the predicted values. These plots were constructed for one iteration of the CV procedure. The plots are partitioned into four quadrants based on the mean observed and expected yield values, which are shown by the dashed lines. The quadrants categorize the data points into four groups: A (high observed and high predicted yields), B (low observed and low predicted yields), C (low observed and high predicted yields), and D (high observed and low predicted yields). Figure  3  shows the plotted results for model M1 with a correlation of 0.518. Figure  3  also exemplifies how the more complete model M7 can achieve higher accuracy, with a correlation value of 0.70. Scatter plots for the remaining models (M2–M6) for this CV scheme can be found in Figures  S2–S11 . There was a 61% overlap seen in the leading genotypes (group A) across the scenarios in Figure  3 , suggesting that the model identifies similar patterns across different environments, while the 39% variation reflects expected genotype responses to varying environmental conditions. FIGURE 3 Scatter plot visualizing the predicted versus observed yield for models M1 (G + E) and M7 (G + H + E + G × E + H × E) under cross‐validation CV2: predicting lines in incomplete trials. The dashed lines represent the mean observed and predicted yield values, indicating the central tendency of the data around 0. Quadrants A–D categorize data points based on their alignment relative to these mean values: (A) predictions and observations above both means, (B) below both means, (C) above the mean prediction but below the mean observation, and (D) below the mean prediction but above the mean observation. 3.2.2. Predicting new lines—CV1 In relation to scenario 2, for predicting new lines under the CV1 scheme, models that include genomic and HTP data regularly achieve better results compared to models that depend on one of the data sources (Figure  4 ). In contrast to CV2, which merely masked a subset of genotypes in certain settings, CV1 entails the complete masking of wholly novel lines that have not been detected in any tested environment. The genomic univariate model (M1) returned an accuracy of 0.411, while model M2, including environmental interaction terms, improves to 0.488. The univariate HTP model (M3) achieves 0.424 accuracy, increasing to 0.467 in model M4, which integrates the H  ×  E interaction effect. The multivariate techniques, M5 and M6, significantly enhance the accuracy to 0.573 and 0.552, respectively. The complete model M7 obtains a higher accuracy of 0.644 in this situation, which is a considerable improvement compared to M1, highlighting the important impact of integrating HTP data in increasing predictive skills. FIGURE 4 Comparison of models when predicting newly developed lines (CV1). Bar graph illustrating mean values, with error bars, for various model configurations under the CV1 cross‐validation approach. Specifically focused on newly developed lines. Where G is genomic data, E is environmental effects, and H is high‐throughput phenotyping data. Model M1 = G + E; M2 = G + E + G × E; M3 = H + E; M4 = H + E + H × E; M5 = G + E + H × E; M6 = H + E + G × E; M7 = G + H + E + G × E + H × E. As with the CV2 scenario, scatterplots were generated to demonstrate the differences in accuracies achieved between M1 and M7 models. Figure  5  visualizes the plot for the univariate M1 model, which again was outperformed by the M7 counterpart, as seen in this figure. Plots for the remaining models can be found in Figures  S2–S11 . FIGURE 5 Scatter plot visualizing the predicted versus observed yield for models M1 (G + E) and M7 (G + H + E + G × E + H × E) under cross‐validation CV1: predicting new lines not before seen. The dashed lines represent the mean observed and predicted yield values, indicating the central tendency of the data around 0. Quadrants A–D categorize data points based on their alignment relative to these mean values: (A) predictions and observations above both means, (B) below both means, (C) above the mean prediction but below the mean observation, and (D) below the mean prediction but above the mean observation. 3.2.3. Predicting new sites—CV0‐S For the third scenario, models were employed for anticipating unobserved sites with the CV0‐S strategy. In this scenario, many lines had prior observations from other sites, and this historical data were leveraged to improve predictions for sites where data were missing. While the missing sites themselves were not direct replicates, the shared genotype information from other sites provided the basis for predictions. Commencing with M1, an accuracy of 0.400 was attained, closely followed by the univariate HTP model (M3) with an accuracy of 0.387. The all‐encompassing model (M7) exceeded these figures, as seen in Figure  6 , achieving an accuracy of 0.595 (∼49% improvement with respect to M1). The M5 and M6 models, which amalgamated both genomic and HTP data, had a good performance with accuracies of 0.513 and 0.554, respectively. The CV0‐S technique shows significant skill in prediction settings, with the complete models that included several data types emerged as the leading contenders, providing enhanced prediction accuracy. FIGURE 6 Comparison of models when predicting new sites (CV0‐S). Bar graph illustrating mean values for various model configurations under the CV0‐S cross‐validation approach under the scenario of predicting new sites. In CV0‐S, specific sites or years are deliberately omitted rather than randomly partitioned; hence, no error bars are included. Model M1 = G + E; M2 = G + E + G × E; M3 = H + E; M4 = H + E + H × E; M5 = G + E + H × E; M6 = H + E + G × E; M7 = G + H + E + G × E + H × E. Model terms: G is genomic data, E is environmental effects, and H is high‐throughput phenotyping data. An investigation was performed to compare the accuracy of several models in predicting the highest yielding wheat lines, specifically focusing on the top 25% of lines based on GY rankings across many locations within a single year. The top 25% of lines were selected by ranking the lines according to their predicted and observed GYs and then identifying the top quartile in each case. Table  4  was created to evaluate the predictive ability of the models by summarizing the percentage of top 25% lines that were in common between predicted and observed values from different sites and years, which was considered to be the models’ specificity. Model M7 was consistently superior in its performance, exhibiting the greatest precision across all predicted locations and years. The specificity ranged from 42% to 59%, showing an ability to generalize to new sites. There is also an observable rising pattern when data from several locations are utilized for training the models. Model M7 had the highest specificity (59%) when trained on data from all sites within a year. Subtle and intricate patterns were detected, encompassing differences in the effectiveness of models in various years and the impact of certain environmental elements on the accuracy of predictions. For example, model M7 reached 44% when it was trained on data from FL and GA and used to make predictions on LA data for the year 2021. However, when the model was trained on data from GA and LA for the same year, the specificity increased to 46% for FL. Specificity considerably improved for each location from 2021 to 2022 and from 2021 to 2023, with the incorporation of SC data into the model. Specifically, between 2021 and 2022, it increased by 7% for FL (from 46% to 53%), by 5% for GA (from 44% to 49%), and by 7% for LA (from 44% to 51%). Similarly, between 2021 and 2023, there was a rise by 5% for FL (from 46% to 51%), by 5% for GA (from 44% to 49%), and by 4% for LA (from 44% to 48%). These consistent increases underscored the importance of integrating new and diverse environmental information, in this case from SC, into predictive modeling for enhanced accuracy. TABLE 4 Comparison of prediction accuracies for different wheat breeding models (correlation between observed and predicted values) across various sites and years using the CV0‐S approach, highlighting the efficacy of genotype–environment interaction terms in enhancing predictive capabilities. Models Year Predicted site Sites used for training Model accuracy Top 25% specificity (%) M1: G Only 2021 FL GA and LA 0.38 33 M7: ALL 2021 FL GA and LA 0.45 46 M1: G Only 2021 GA FL and LA 0.39 33 M7: ALL 2021 GA FL and LA 0.48 44 M1: G Only 2021 LA GA and FL 0.35 29 M7: ALL 2021 LA GA and FL 0.47 44 M1: G Only 2022 FL GA, LA, and SC 0.43 39 M7: ALL 2022 FL GA, LA, and SC 0.51 53 M1: G Only 2022 GA FL, LA, and SC 0.45 36 M7: ALL 2022 GA FL, LA, and SC 0.54 49 M1: G Only 2022 LA GA, FL, and SC 0.41 35 M7: ALL 2022 LA GA, FL, and SC 0.55 51 M1: G Only 2022 SC GA, FL, and LA 0.46 43 M7: ALL 2022 SC GA, FL, and LA 0.56 59 M1: G Only 2023 FL GA, LA, and SC 0.42 35 M7: ALL 2023 FL GA, LA, and SC 0.53 51 M1: G Only 2023 GA FL, LA, and SC 0.40 43 M7: ALL 2023 GA FL, LA, and SC 0.56 49 M1: G Only 2023 LA GA, FL, and SC 0.43 35 M7: ALL 2023 LA GA, FL, and SC 0.55 48 M1: G Only 2023 SC GA, FL, and LA 0.43 43 M7: ALL 2023 SC GA, FL, and LA 0.56 50 
+ Note : M1 = genomics only, M7 = comprehensive model incorporating all effects. FL, GA, LA, and SC indicate Florida, Georgia, Louisiana, and South Carolina, respectively. The top 25% specificity indicates the percentage of new lines correctly predicted within the top 25% of observed performance. 3.2.4. Predicting new years—CV0‐Y In the final scenario, within the CV0‐Y approach, the objective is to predict a given year using data from preceding years. As illustrated in Figure  7  and detailed in Table  S5 , the prediction accuracies exhibit a discernible decrease compared to earlier scenarios, spanning a range from 0.141 to 0.389. Starting out with a low accuracy of 0.242, model M1(G) showcases the inherent challenges of predicting future outcomes based solely on historical data. As the complexity of the models increases, incremental improvements are made observable across the model spectrum. Comprehensive model M7 outperforms the other models with an accuracy of 0.389, an enhancement of 76% over the baseline genomic model. Although not as high performing as M7, it is important to recognize the effectiveness of other models in this particular situation as well. The M2 model (G + E + G × E) achieved a prediction accuracy of 0.263, a small increase compared to the M1 model. The models M3–M6, which considered different combinations of genetic and environmental variables, contributed to a more detailed knowledge of predictive modeling in this situation. The absence of specific settings, locations, or years in the CV0‐Y technique, rather than using random partitioning, is the reason why standard error values are not supplied in Figure  7  and Table  S5 . FIGURE 7 Comparison of models when predicting new years (CV0‐Y). Bar graph illustrating mean values for various model configurations under the CV0‐Y cross‐validation approach under the scenario of predicting new years. In CV0‐Y, specific years are deliberately omitted rather than randomly partitioned; hence, no error bars are included. Model M1 = G + E; M2 = G + E + G × E; M3 = H + E; M4 = H + E + H × E; M5 = G + E + H × E; M6 = H + E + G × E; M7 = G + H + E + G × E + H × E. Model terms: G is genomic data, E is environmental effects, and H is high‐throughput phenotyping data. The predictive accuracies shown in Figure  7  give important insight on the performance of the different models when applied to the CV0‐Y framework. However, due to their practical implications in breeding programs, a comparative analysis was conducted to assess the reliability of the models in predicting the top 25% yielding wheat lines across multiple years. These results can be found in Table  5 . Under this scenario, every model was trained using data from all environments in preceding years (aside from 2021, where 2023 is used for training), with Table  5  showing the specificity of predictions between the predicted and observed values for the top yielding lines in that year. As the training dataset includes data from further years, the model's accuracy seems to improve with M7 consistently achieving higher prediction accuracies compared to M1. Its accuracies range from 37% in 2021 to 35% in 2022 and improve to 44% in 2023 when using data from both 2021 and 2022 for training. The upward trend in prediction accuracies shown by M7 indicates the feasibility of including data from multiple years and sources such as HTP data to improve prediction accuracies in real‐world scenarios. TABLE 5 Prediction accuracies of models (correlation between observed and predicted values) integrating genomic (G) data alone versus those incorporating all‐encompassing factors (ALL), across different prediction years and training datasets using the CV0‐Y approach. Models Year for prediction Years used for training Model accuracy Top 25% specificity (%) M1: G Only 2021 2023 0.24 22 M1: G Only 2022 2021 0.28 27 M1: G Only 2023 2021 and 2022 0.35 33 M7: ALL 2021 2023 0.38 37 M7: ALL 2022 2021 0.39 35 M7: ALL 2023 2021 and 2022 0.42 44 
+ Note : M1 = genomics only, M7 = comprehensive model incorporating all effects. The absence of 2020 data necessitated the utilization of 2023 data for predicting outcomes in 2021, enhancing the robustness of the predictive models showcased in the table. 3.3. Comparison of data inclusions Both CT and NDVI were measured twice during the growing season, and both measurement times and traits were integrated into the various models as secondary HTP effects. The impact of including only NDVI or CT and from a single collection timepoint on prediction accuracies was of interest as well. To gauge this, the comprehensive model (M7) was executed under both CV2 and CV1 scenarios, whereby the models encompassed genomic data along with varying levels of secondary HTP data. While the impact of including NDVI and CT data from various timepoints on prediction accuracies using CV1 and CV2 scenarios was evaluated, CV0 was intentionally excluded from the analysis. CV0's emphasis on predicting deliberately omitted environments or years, rather than random partitioning, makes it less suitable for assessing the specific impact of data inclusions on prediction accuracies within the same dataset. Due to the difficulty in interpreting findings under the CV0 scenarios, we decided to only focus on CV1 and CV2. These scenarios are more suited for our purpose of studying how particular data additions affect prediction accuracies within the same dataset. For CV2, the correlation accuracies for different models varied notably, as seen in Figure  8 . When considering CT alone, the model containing CT at timepoint 1 data achieved an accuracy of 0.559, while the model with CT at timepoint 2 data slightly improved to 0.577. The models that used only NDVI data achieved accuracies of 0.563 (at timepoint 1) and 0.601 (at timepoint 2). The integration of NDVI and CT data at timepoint 1 yielded an accuracy of 0.623, which subsequently improved to 0.661 at timepoint 2. The all‐encompassing model that includes all data (M7) had the maximum level of accuracy, which was 0.683. The results highlight the significance of including data integration and considering the temporal changes in phenotypic features to improve the accuracy of predictive modeling. FIGURE 8 Correlation accuracies of model M7: G + H + E + G × E + H × E with different data inclusions for CV2. Each bar represents the prediction accuracies achieved under different levels of data inclusion. CT refers to canopy temperature, NDVI to normalized difference vegetation index, and HTP to high‐throughput phenotyping. Timepoint 1 and timepoint 2 correspond to the two measurement occasions during the growing season. It is observed that including data from all traits and measurement timepoints yields the highest accuracies. Model terms: G is genomic data, E is environmental effects, and H is high‐throughput phenotyping data. For CV1, the correlation accuracies of different models demonstrated variable levels of predictive capability, as shown in Figure  9 . Models that only used CT data produced accuracies of 0.459 (at timepoint 1) and 0.377 (at timepoint 2), whereas models that only used NDVI achieved accuracies of 0.463 (at timepoint 1) and 0.422 (at timepoint 2). Models that include both NDVI and CT secondary trait data regularly performed better than models reliant on a single secondary feature. These models achieved an accuracy of 0.591 and 0.603 at timepoints 1 and 2, respectively. The model that had all data included saw the highest degree of accuracy, at 0.644. While both the CV1 and CV2 approaches raised predictive accuracy through the incorporation of data from novel sources and measurement timepoints, the CV2 did consistently better than CV1 for all models tested. FIGURE 9 Correlation accuracies of M7: G + H + E + G × E + H × E with different data inclusions for CV1. Each bar represents the prediction accuracies achieved under different levels of data inclusion. NDVI (normalized difference vegetation index) and CT (canopy temperature) were measured at two timepoints during the growing season. Timepoint 1 and timepoint 2 correspond to the two data collection timepoints. Model terms: G is genomic data, E is environmental effects, and H is high‐throughput phenotyping data. HTP indicates high‐throughput phenotyping. 4. DISCUSSION Integrating HTP and genomic data in predictive modeling is a smart method to utilize many sources of information for improving the precision and effectiveness of crop breeding operations. The rationale for this integration is based on the supplemental features of genomic and phenomic datasets, which encompass distinct facets of the genotype‐phenotype correlation. Genomic data offer valuable insights into the fundamental genetic structure of characteristics, giving breeders the ability to pinpoint genomic areas linked to favorable phenotypic traits (Jarquin et al.,  2017 ). HTP data, including multispectral and thermal imaging, provide noninvasive and quick assessments of plant characteristics associated with physiological processes, such as CT and NDVI (Sandhu et al.,  2021 ). Spectral imaging analyzes the quantity of light reflected at different wavelengths, providing information regarding plant health, biomass, and stress levels. Thermal imaging is a technique that detects infrared radiation generated by plants, providing useful information on temperature changes associated with physiological responses. This helps to identify how various genotypes behave in different environmental situations (Jackson et al.,  2023 ). Studies have also demonstrated that multivariate modeling techniques, which may incorporate a variety of genetic and phenotypic components, are frequently superior to univariate models in capturing the interplay between multiple traits. Research conducted by Ibba et al. ( 2020 ) showed that using multivariate genomic predictions and multi‐environment trials can enhance breeding outcomes under a range of scenarios. The current study expands these findings by investigating the use of HTP and genetic data integration in agronomic crop breeding programs, like wheat. This was carried out with the specific purpose of predicting GY across various locations and years. According to Guo et al. ( 2020 ), the variations in average GY across locations and years demonstrate the influence of environmental factors and gene–environment interactions on wheat productivity. These fluctuations in GY highlight the dynamic nature of crop growth systems and emphasize the need for approaches that effectively account for G × E interactions to improve yield predictions. In this research, GY, NDVI, and CT exhibited varying  H 
+ 2  values in different sites and years, shedding light on the genetic control and sensitivity to environmental influences of these traits. Wheat genotype performance in the research areas may have been influenced by unique environmental factors found only in the southeastern United States, such as soil composition, temperature changes, and disease pressure. An important aspect of the approach was controlling for the genetic relatedness among lines through population stratification, achieved via the DAPC to cluster the genotypes into groups based on their genetic similarity. This stratification ensured that lines within the same group were not present in both the validation and training sets simultaneously. By controlling for relatedness in this way, the risk of overestimating prediction accuracies due to shared genetic background between the training and validation sets is minimized. Without such stratification, the models could be biased, predicting well simply because the training and validation sets would share closely related genotypes, rather than capturing true predictive power across a diverse population. By stratifying based on genetic clusters, the models are made more applicable to real‐world breeding scenarios, where genetic diversity must be accounted for to ensure accurate and generalizable predictions. The first scenario tested used the CV2 scheme to assess incomplete trials. In this approach, including HTP data with genomic marker information gave way to significant prediction accuracy improvements for different models, elucidating the complementary nature of these two data types. Shahi et al. ( 2022 ) previously established that multivariate models that include genomic and HTP data regularly perform better than univariate models in predicting complex traits like GY. Scenario 2, which used the CV1 approach to predict new lines, saw similar patterns of prediction accuracies going up when a secondary data source (HTP) is included along with genomic data. The differences in how well the two scenarios did can largely be attributed to the different way in which the data are masked. In CV2, there were incomplete trials where just a subset of genotypes was concealed. For CV1, wholly new lines that were not detected in any tested environment were masked. The differences observed between scenario 1 (CV1) and scenario 2 (CV2) highlight not only how these CV approaches function but also how they impact model performance. In CV2, where only a subset of genotypes is masked, the model leverages prior observations for many genotypes, leading to generally higher prediction accuracies. This is because the model has more complete information from other environments and genotypes. In contrast, CV1 involves masking completely new lines that may not have been tested in any environment, making predictions more difficult due to the lack of direct data on these genotypes. Prediction accuracies tend to be lower in CV1, a trend reflected in our results, which show higher accuracies for CV2. These differences underscore the necessity for customized strategies in genomic selection. Different CV schemes present unique challenges, and tailored approaches are needed to maximize predictive accuracy depending on the breeding goals and experimental designs. For scenario 3, where new sites were predicted with the CV0‐S approach, certain models showed promise when predicting missing location data based on information from other locations. Suggesting that breeders can leverage relatively inexpensive HTP techniques like drone‐based multispectral and thermal cameras to capture valuable phenotypic information and improve prediction precision within a short time and with reduced labor costs. HTP methods enable the capture of spatial variability in environmental factors (e.g., temperature, canopy coverage, or NDVI) across entire fields or trials, adding valuable data that can fill gaps in phenotypic measurements. Beyond this, the predictive models were able to leverage genomic information through the concept of borrowing information, whereby genetic relationships between different genotypes allow the model to infer performance even for untested genotypes. This process is further enhanced by incorporating G × E interactions, where the models take into account how the same genotypes respond differently across various environmental conditions. By combining the genomic relationship matrix ( G ), which encodes genetic similarities, and the high‐dimensional HTP data kernel (H), which captures phenotypic traits, the models can also borrow phenotypic information across genotypes and environments. This enables predictions to be made for genotypes that may not have been tested in certain environments, using data from related genotypes that have been evaluated. Furthermore, by including multiple environments (locations and years), the models can anticipate how genotypes will perform in new or untested environments, effectively utilizing the shared genetic and phenotypic patterns observed across the dataset. Despite the trend seen in the results of increasing prediction accuracies with the inclusion of HTP data, there still is room for improvement when predicting complex quantitative traits like GY. The highest performing models under scenario 3 selected 44%–59% of the top 25% best performing lines, which may potentially be even further improved through the finer characterization of each site‐year. In a real‐world scenario, breeders may encounter the CV0‐S scheme when expanding breeding trials to new geographical locations or conditions, where historical site data may not be available, necessitating the development of generalizable predictive models to guide breeding decisions. Also, the CV0‐S scheme could be applied in plant breeding to assess genotype performance in scenarios where the number of testing sites is low or where replication is limited. Despite accuracies typically increasing from M1 to M7, the changes seen in the top 25% specificity did not particularly improve correspondingly. This inconsistency might be due to the distinction between prediction accuracy and classification accuracy; M7 utilizes HTP from multiple sources, leading to enhanced predictions in different situations. Despite this, it can rank the highest‐performing lines, although this may be affected by ambient noise or the intricacies of G × E interactions, which may have the potential to blur the distinction between the top‐performing lines and those with middling performance. Consequently, while M7 enhances overall predictive skills, its efficacy in pinpointing the highest performers may be limited in some scenarios, suggesting that further refinement or more supplementary data might increase classification accuracy. For the fourth and final scenario, new years were predicted with the CV0‐Y approach to test the potential of the model to improve prediction accuracies from one year to the next. This scenario can be more challenging than the others because it involves the forward prediction of lines based on historical data instead of predicting within existing datasets. Our results would suggest that models can still do well despite these challenges when integrating diverse data sources like NDVI and CT into a more traditional GBLUP framework. The exceptional performance of our models when compared to prior research underscores the potential of the methodology depicted in this paper to improve upon wheat breeding endeavors. Even in populations where phenology is not strongly correlated with yield, it is expected that the best models would continue to perform effectively, though the importance of individual predictors may shift. In such cases, traits like NDVI and CT may play a more significant role in driving yield predictions. The flexibility of the models, which integrate both genomic and phenotypic data, allows them to capture complex interactions, irrespective of the relative influence of phenological traits. However, the specific contribution of phenology to the accuracy of predictions may vary, and future studies could explore how a reduced correlation between phenology and yield might affect model performance. Comparative analyses showed that including NDVI and CT data from multiple timepoints consistently improved model performance, demonstrating the added value of incorporating various types of HTP data. Models that also integrated the HTP data from both collection timepoints had better accuracies than those that relied on data from a single point data collection. Showing the significance of collecting data multiple times throughout the growing season to better capture the temporal dynamics of the traits. Data taken at timepoint 2 appear to have greater predictive ability than timepoint 1. This could be due to the increased differentiation among lines as they mature, allowing for more distinct phenotypic expression later in the season. However, early‐season data (timepoint 1) provide critical baseline information that could still support initial yield predictions if incorporated effectively. Through the incorporation of HTP data taken from across the relevant growth stages, we can better capture the spectrum of plant responses to changes in the environment and thus create more accurate genomic prediction models. These findings are consistent with insights from existing literature, which emphasize the importance of integrating diverse phenotypic traits to improve predictive modeling accuracy in wheat breeding programs (Silva‐Perez et al.,  2018 ). 5. CONCLUSION The current study attempts to highlight the usage of HTP data into more established genomic prediction methods in order to improve accuracies. Through assessing a number of prediction models under four distinct CV approaches, we observed consistent increases in the model's predictive accuracy when including HTP data in the form of NDVI and CT, taken at two separate timepoints throughout the grain‐filling period. Previous research confirms the trends seen in our results (Shahi et al.,  2022 ) and together highlights the need to consider the changes over time in physical characteristics of plants to fully understand their reactions to environmental factors. Multivariate models integrating HTP data were found to outperform the univariate models that rely only on genomic data for their training. The research also highlights how the inclusion of HTP data can improve accuracies in multi‐environment prediction scenarios. This is a significant contribution to understanding how to effectively incorporate HTP data into predictive modeling across various real‐life field conditions. The overarching goal of this research was to provide effective methods to streamline the breeding process by targeting elite lines, with a focus on integrating UAV‐derived data into predictive analytics, an approach that remains contemporary in plant breeding strategies. While this study demonstrates the power of integrating HTP and genomic data for predicting GY in wheat, future research should focus on several key areas to build on these findings. Incorporating early‐season phenotypic data may serve as a valuable complement to late‐season data by initiating the prediction process earlier, potentially reducing the need for multiple in‐season measurements. This approach could enhance predictive accuracy throughout the season by combining early and late phenotypic signals. Expanding the application of these predictive models across more diverse environmental conditions and crop types would further assess the models' generalizability across breeding programs. AUTHOR CONTRIBUTIONS 
+ Jordan McBreen : Conceptualization; data curation; formal analysis; investigation; methodology; writing—original draft.  Md. Ali Babar : Conceptualization; data curation; funding acquisition; methodology; supervision; writing—review and editing.  Diego Jarquin : Formal analysis; methodology; writing—original draft.  Naeem Khan : Data curation; writing—review and editing.  Steve Harrison : Data curation; funding acquisition; writing—review and editing.  Noah DeWitt : Data curation; formal analysis; writing—review and editing.  Mohamed Mergoum : Data curation; funding acquisition; writing—review and editing.  Ben Lopez : Data curation; writing—review and editing.  Richard Boyles : Data curation; funding acquisition; writing—review and editing.  Jeanette Lyerly : Data curation; formal analysis; writing—review and editing.  J. Paul Murphy : Data curation; writing—review and editing.  Ehsan Shakiba : Data curation; writing—review and editing.  Russel Sutton : Data curation; writing—review and editing.  Amir Ibrahim : Data curation; writing—review and editing.  Kimberly Howell : Data curation; writing—review and editing.  Jared H. Smith : Data curation; writing—review and editing.  Gina Brown‐Guedira : Data curation; formal analysis; funding acquisition; writing—review and editing.  Vijay Tiwari : Data curation; writing—review and editing.  Nicholas Santantonio : Data curation; writing—review and editing.  David A. Van Sanford : Data curation; writing—review and editing. CONFLICT OF INTEREST STATEMENT The authors declare no conflicts of interest. Supporting information Supplemental material ACKNOWLEDGMENTS We extend our sincere thanks to the Sungrains breeders and their teams for their invaluable support and collaboration, as well as to the genotyping team at North Carolina State University for their essential contributions. We also acknowledge the University of Florida's Institute of Food and Agricultural Sciences (UF/IFAS) for their funding and support. This research was funded by UF/IFAS and the World Food Crops Breeding Program at UF. 
+
+
+McBreen, J.
+, 
+Babar, Md. A
+, 
+Jarquin, D.
+, 
+Khan, N.
+, 
+Harrison, S.
+, 
+DeWitt, N.
+, 
+Mergoum, M.
+, 
+Lopez, B.
+, 
+Boyles, R.
+, 
+Lyerly, J.
+, 
+Murphy, J. P.
+, 
+Shakiba, E.
+, 
+Sutton, R.
+, 
+Ibrahim, A.
+, 
+Howell, K.
+, 
+Smith, J. H.
+, 
+Brown‐Guedira, G.
+, 
+Tiwari, V.
+, 
+Santantonio, N.
+, & 
+Van Sanford, D. A.
+ (2025). Enhancing prediction accuracy of grain yield in wheat lines adapted to the southeastern United States through multivariate and multi‐environment genomic prediction models incorporating spectral and thermal information. The Plant Genome, 18, e20532. 10.1002/tpg2.20532
+
+
+ Assigned to Associate Editor Caio Vieira. DATA AVAILABILITY STATEMENT Data are available upon request from the corresponding author. REFERENCES 
+AgEagle
+. (2024). 
+Altum PT: Multispectral and thermal imaging sensor
+.  https://ageagle.com/drone‐sensors/altum‐pt‐camera/ 
+ 
+
+Araus, J. L.
+, & 
+Cairns, J. E.
+ (2014). Field high‐throughput phenotyping: The new crop breeding frontier. Trends in Plant Science, 19(1), 52–61. 10.1016/j.tplants.2013.09.008
+
+ 
+
+Babar, M. A.
+, 
+Reynolds, M. P.
+, 
+Van Ginkel, M.
+, 
+Klatt, A. R.
+, 
+Raun, W. R.
+, & 
+Stone, M. L.
+ (2006). Spectral reflectance indices as a potential indirect selection criteria for wheat yield under irrigation. Crop Science, 46(2), 578–588. 10.2135/cropsci2005.0059
+ 
+
+Bassi, F. M.
+, 
+Bentley, A. R.
+, 
+Charmet, G.
+, 
+Ortiz, R.
+, & 
+Crossa, J.
+ (2016). Breeding schemes for the implementation of genomic selection in wheat ( Triticum  spp.). Plant Science, 242, 23–36. 10.1016/j.plantsci.2015.08.021
+
+ 
+
+Bates, D.
+, 
+Maechler, M.
+, 
+Bolker, B.
+, & 
+Walker, S.
+ (2016). 
+lme4: Linear mixed‐effects models using Eigen and S4
+ (R package version 1.1‐7).  https://CRAN.R‐project.org/package=lme4 
+ 
+
+Bélanger, J.
+, & 
+Pilling, D.
+ (Eds.). (2019). The state of the world's biodiversity for food and agriculture. Food and Agriculture Organization of the United Nations, Commission on Genetic Resources for Food and Agriculture Assessments. 
+
+Browning, B. L.
+, & 
+Browning, S. R.
+ (2016). Genotype imputation with millions of reference samples. The American Journal of Human Genetics, 98, 116–126. 10.1016/j.ajhg.2015.11.020
+
+ 
+
+Canella Vieira, C.
+, 
+Persa, R.
+, 
+Chen, P.
+, & 
+Jarquin, D.
+ (2022). Incorporation of soil‐derived covariates in progeny testing and line selection to enhance genomic prediction accuracy in soybean breeding. Frontiers in Genetics, 13, 905824. 10.3389/fgene.2022.905824
+
+ 
+
+Crain, J.
+, 
+Mondal, S.
+, 
+Rutkoski, J.
+, 
+Singh, R. P.
+, & 
+Poland, J.
+ (2018). Combining high‐throughput phenotyping and genomic information to increase prediction and selection accuracy in wheat breeding. The Plant Genome, 11(1), 170043. 10.3835/plantgenome2017.05.0043
+ 
+
+Dwivedi, S. L.
+, 
+Goldman, I.
+, 
+Ceccarelli, S.
+, & 
+Ortiz, R.
+ (2020). Advanced analytics, phenomics and biotechnology approaches to enhance genetic gains in plant breeding. Advances in Agronomy, 162, 89–142. 10.1016/bs.agron.2020.02.002
+ 
+
+Giraldo, P.
+, 
+Benavente, E.
+, 
+Manzano‐Agugliaro, F.
+, & 
+Gimenez, E.
+ (2019). Worldwide research trends on wheat and barley: A bibliometric comparative analysis. Agronomy, 9(7), 352. 10.3390/agronomy9070352
+ 
+
+Glaubitz, J. C.
+, 
+Casstevens, T. M.
+, 
+Lu, F.
+, 
+Harriman, J.
+, 
+Elshire, R. J.
+, 
+Sun, Q.
+, & 
+Buckler, E. S.
+ (2014). TASSEL‐GBS: A high capacity genotyping by sequencing analysis pipeline. PLoS One, 9(2), e90346. 10.1371/journal.pone.0090346
+
+ 
+
+Guo, J.
+, 
+Pradhan, S.
+, 
+Shahi, D.
+, 
+Khan, J.
+, 
+Mcbreen, J.
+, 
+Bai, G.
+, 
+Murphy, P.
+, & 
+Babar, M. A.
+ (2020). Increased prediction accuracy using combined genomic information and physiological traits in a soft wheat panel evaluated in multi‐environments. Scientific Reports, 10(1), Article 7023. 10.1038/s41598-020-63919-3
+
+ 
+
+Heffner, E. L.
+, 
+Sorrells, M. E.
+, & 
+Jannink, J. L.
+ (2009). Genomic selection for crop improvement. Crop Science, 49(1), 1–12. 10.2135/cropsci2008.08.0512
+ 
+
+Ibba, M. I.
+, 
+Crossa, J.
+, 
+Montesinos‐López, O. A.
+, 
+Montesinos‐López, A.
+, 
+Juliana, P.
+, 
+Guzman, C.
+, 
+Delorean, E.
+, 
+Dreisigacker, S.
+, & 
+Poland, J.
+ (2020). Genome‐based prediction of multiple wheat quality traits in multiple years. The Plant Genome, 13(3), e20034. 10.1002/tpg2.20034
+
+ 
+International Wheat Genome Sequencing Consortium (IWGSC)
+. (2014). A chromosome‐based draft sequence of the hexaploid bread wheat ( Triticum aestivum ) genome. Science, 345(6194), 1251788. 10.1126/science.1251788
+
+ 
+
+Jackson, R.
+, 
+Buntjer, J. B.
+, 
+Bentley, A. R.
+, 
+Lage, J.
+, 
+Byrne, E.
+, 
+Burt, C.
+, 
+Jack, P.
+, 
+Berry, S.
+, 
+Flatman, E.
+, 
+Poupard, B.
+, 
+Smith, S.
+, 
+Hayes, C.
+, 
+Barber, T.
+, 
+Love, B.
+, 
+Gaynor, C.
+, 
+Gorjanc, G.
+, 
+Howell, P.
+, 
+Mackay, I.
+, 
+Hickey, J.
+, & 
+Ober, E. S.
+ (2023). Phenomic and genomic prediction of yield on multiple locations in winter wheat. Frontiers in Genetics, 14, 1164935. 10.3389/fgene.2023.1164935
+
+ 
+
+Jarquin, D.
+, 
+Crossa, J.
+, 
+Lacaze, X.
+, 
+Cheyron, P. D.
+, 
+Daucourt, J.
+, 
+Lorgeou, J.
+, 
+Piraux, F.
+, 
+Guerreiro, L.
+, 
+Perez, P.
+, 
+Calus, M.
+, 
+Burgueno, J.
+, & 
+de los Campos, G.
+ (2014). A reaction norm model for genomic selection using high‐dimensional genomic and environmental data. Theoretical and Applied Genetics, 127, 595–607. 10.1007/s00122-013-2243-1
+
+ 
+
+Jarquin, D.
+, 
+Lemes da Silva, C.
+, 
+Gaynor, C.
+, 
+Poland, J.
+, 
+Fritz, A.
+, 
+Howard, R.
+, 
+Battenfield, S.
+, & 
+Crossa, J.
+ (2017). Increasing genomic‐enabled prediction accuracy by modeling genotype × environment interactions in Kansas wheat. The Plant Genome, 10(2) 10.3835/plantgenome2016.12.0130
+ 
+
+Jombart, T.
+, 
+Devillard, S.
+, & 
+Balloux, F.
+ (2010). Discriminant analysis of principal components: A new method for the analysis of genetically structured populations. BMC Genetics, 11(1), Article 94. 10.1186/1471-2156-11-94
+
+ 
+
+Kaushal, S.
+, 
+Gill, H. S.
+, 
+Billah, M. M.
+, 
+Khan, S. N.
+, 
+Halder, J.
+, 
+Bernardo, A.
+, 
+Amand, P. S.
+, 
+Bai, G.
+, 
+Glover, K.
+, 
+Maimaitijiang, M.
+, & 
+Sehgal, S. K.
+ (2024). Enhancing the potential of phenomic and genomic prediction in winter wheat breeding using high‐throughput phenotyping and deep learning. Frontiers in Plant Science, 15, 1410249. 10.3389/fpls.2024.1410249
+
+ 
+
+Lado, B.
+, 
+Barrios, P. G.
+, 
+Quincke, M.
+, 
+Silva, P.
+, & 
+Gutiérrez, L.
+ (2016). Modeling genotype × environment interaction for genomic selection with unbalanced data from a wheat breeding program. Crop Science, 56(5), 2165–2179. 10.2135/cropsci2015.04.0207
+ 
+
+Li, H.
+, 
+Handsaker, B.
+, 
+Wysoker, A.
+, 
+Fennell, T.
+, 
+Ruan, J.
+, 
+Homer, N.
+, 
+Marth, G.
+, 
+Abecasis, G.
+, 
+Durbin, R.
+, & 1000 Genome Project Data Processing Subgroup
+. (2009). The sequence alignment/map format and SAMtools. Bioinformatics, 25(16), 2078–2079. 10.1093/bioinformatics/btp352
+
+ 
+
+Montesinos‐López, O. A.
+, 
+Montesinos‐López, A.
+, 
+Gianola, D.
+, 
+Crossa, J.
+, 
+Hernández‐Suárez, C. M.
+, & 
+Martin‐Vallejo, J.
+ (2018). Multi‐trait, multi‐environment deep learning modeling for genomic‐enabled prediction of plant traits. G3: Genes, Genomes, Genetics, 8(12), 3829–3840. 10.1534/g3.118.200728
+
+ 
+
+Peña‐Bautista, R. J.
+, 
+Hernandez‐Espinosa, N.
+, 
+Jones, J. M.
+, 
+Guzmán, C.
+, & 
+Braun, H. J.
+ (2017). CIMMYT series on carbohydrates, wheat, grains, and health: wheat‐based foods: Their global and regional importance in the food supply, nutrition, and health. Cereal Foods World, 62(5), 231–249. 10.1094/CFW-62-5-0231
+ 
+
+Persa, R.
+, 
+Ribeiro, P. C. D. O.
+, & 
+Jarquin, D.
+ (2021). The use of high‐throughput phenotyping in genomic selection context. Crop Breeding and Applied Biotechnology, 21, e385921S6. 
+Pix4D
+. (2011). Pix4Dmapper Pro (version 4.10.0) [Computer software]. Pix4D SA.  https://www.pix4d.com/ 
+ 
+
+Poland, J. A.
+, 
+Endelman, J.
+, 
+Dawson, J.
+, 
+Rutkoski, J.
+, 
+Wu, S.
+, 
+Manes, Y.
+, 
+Dreisigacker, S.
+, 
+Crossa, J.
+, 
+Sanchez‐Villeda, H.
+, 
+Sorrells, M.
+, & 
+Jannink, J. L.
+ (2012). Genomic selection in wheat breeding using genotyping‐by‐sequencing. The Plant Genome, 5(3), 103–113. 
+QGIS Development Team
+. (2018). 
+QGIS geographic information system
+. Open Source Geospatial Foundation Project.  https://qgis.org 
+ 
+
+Rutkoski, J.
+, 
+Poland, J.
+, 
+Mondal, S.
+, 
+Autrique, E.
+, 
+Pérez, L. G.
+, 
+Crossa, J.
+, 
+Reynolds, M.
+, & 
+Singh, R.
+ (2016). Canopy temperature and vegetation indices from high‐throughput phenotyping improve accuracy of pedigree and genomic selection for grain yield in wheat. G3: Genes, Genomes, Genetics, 6(9), 2799–2808. 10.1534/g3.116.032888
+
+ 
+
+Sandhu, K.
+, 
+Patil, S. S.
+, 
+Pumphrey, M.
+, & 
+Carter, A.
+ (2021). Multitrait machine‐and deep‐learning models for genomic selection using spectral information in a wheat breeding program. The Plant Genome, 14(3), e20119. 10.1002/tpg2.20119
+
+ 
+
+Shahi, D.
+, 
+Guo, J.
+, 
+Pradhan, S.
+, 
+Khan, J.
+, 
+Avci, M.
+, 
+Khan, N.
+, 
+Mcbreen, J.
+, 
+Bai, G.
+, 
+Reynolds, M.
+, 
+Foulkes, J.
+, & 
+Babar, M. A.
+ (2022). Multi‐trait genomic prediction using in‐season physiological parameters increases prediction accuracy of complex traits in US wheat. BMC Genomics, 23(1), Article 298. 10.1186/s12864-022-08487-8
+
+ 
+
+Silva‐Perez, V.
+, 
+Molero, G.
+, 
+Serbin, S. P.
+, 
+Condon, A. G.
+, 
+Reynolds, M. P.
+, 
+Furbank, R. T.
+, & 
+Evans, J. R.
+ (2018). Hyperspectral reflectance as a tool to measure biochemical and physiological traits in wheat. Journal of Experimental Botany, 69(3), 483–496. 10.1093/jxb/erx421
+
+ 
+
+Tiezzi, F.
+, 
+de Los Campos, G.
+, 
+Gaddis, K. P.
+, & 
+Maltecca, C.
+ (2017). Genotype by environment (climate) interaction improves genomic prediction for production traits in US Holstein cattle. Journal of Dairy Science, 100(3), 2042–2056. 10.3168/jds.2016-11543
+
+ 
+
+Yang, W.
+, 
+Feng, H.
+, 
+Zhang, X.
+, 
+Zhang, J.
+, 
+Doonan, J. H.
+, 
+Batchelor, W. D.
+, 
+Xiong, L.
+, & 
+Yan, J.
+ (2020). Crop phenomics and high‐throughput phenotyping: Past decades, current challenges, and future perspectives. Molecular Plant, 13(2), 187–214. 10.1016/j.molp.2020.01.008
+
+ 
+
+Zadoks, J. C.
+, 
+Chang, T. T.
+, & 
+Konzak, C. F.
+ (1974). A decimal code for the growth stages of cereals. Weed Research, 14(6), 415–421. 10.1111/j.1365-3180.1974.tb01084.x
+ Associated Data Supplementary Materials Supplemental material Data Availability Statement Data are available upon request from the corresponding author.

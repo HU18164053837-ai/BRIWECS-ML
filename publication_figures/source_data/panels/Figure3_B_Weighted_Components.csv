@@ -1,0 +1,3 @@
+"weighting","environments","plots","delta_bias_squared","delta_centered_variance","delta_MSE","definition","interpretation"
+"Equal site-year",13,8539,45.2271381109795,-17.3037941440991,27.9233439668804,"sum_h component_h / 13","Average of within-site-year decompositions; not global pooled MBE squared / global error variance"
+"Plot-weighted",13,8539,51.1515296354999,11.2360924640344,62.3876220995344,"sum_h n_h * component_h / 8539","Average of within-site-year decompositions; not global pooled MBE squared / global error variance"

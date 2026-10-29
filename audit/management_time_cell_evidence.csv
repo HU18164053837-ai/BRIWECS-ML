@@ -1,0 +1,398 @@
+﻿file,sheet,excel_row,excel_col,value,adjacent_values
+Management_information_DKI_2016.xlsx,0,16,1,harvest size of the plot,5 m2 |  | 
+Management_information_DKI_2016.xlsx,0,17,1,Sowing density,300 K/m2 |  | 
+Management_information_DKI_2016.xlsx,0,18,1,Sowing date,2015-10-05 00:00:00 |  | 
+Management_information_DKI_2016.xlsx,0,19,1,Harvest date,16. - 17.08.2016 |  | 
+Management_information_DKI_2016.xlsx,0,26,1,Sowing preperation (Saatbettbereitung), |  | 
+Management_information_DKI_2016.xlsx,0,46,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_DKI_2016.xlsx,0,46,11,Measure Date (dd.mm.YYYY),
+Management_information_DKI_2017.xlsx,0,16,1,harvest size of the plot,5 m2 |  | 
+Management_information_DKI_2017.xlsx,0,17,1,Sowing density,300 K/m2 |  | 
+Management_information_DKI_2017.xlsx,0,18,1,Sowing date,04. - 05..10.2017 |  | 
+Management_information_DKI_2017.xlsx,0,19,1,Harvest date,07. - 08.08.2017 |  | 
+Management_information_DKI_2017.xlsx,0,28,1,Sowing preperation (Saatbettbereitung),Tiefengrubbern |  | 
+Management_information_DKI_2017.xlsx,0,48,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_DKI_2017.xlsx,0,48,11,Measure Date (dd.mm.YYYY),
+Management_information_DKI_2019.xlsx,0,16,1,harvest size of the plot,9.625 m2 |  | 
+Management_information_DKI_2019.xlsx,0,17,1,Sowing density,280 K/m2 |  | 
+Management_information_DKI_2019.xlsx,0,18,1,Sowing date,10.10.2018 |  | 
+Management_information_DKI_2019.xlsx,0,19,1,Harvest date,06.08.2019 |  | 
+Management_information_DKI_2019.xlsx,0,26,1,Sowing preperation (Saatbettbereitung),"Grubber, Kreiselegge |  | "
+Management_information_DKI_2019.xlsx,0,46,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_DKI_2019.xlsx,0,46,11,Measure Date (dd.mm.YYYY),
+Management_information_GGE_2015.xlsx,0,16,1,harvest size of the plot,10.5 |  | 
+Management_information_GGE_2015.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Grubber, Kreiselegge | 27.10/28.10.2014 | "
+Management_information_GGE_2015.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_GGE_2015.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_GGE_2015.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_GGE_2015.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_GGE_2015.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_GGE_2015.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_GGE_2015.xlsx,0,76,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_GGE_2015.xlsx,0,76,11,Measure Date (dd.mm.YYYY),
+Management_information_GGE_2016.xlsx,0,16,1,harvest size of the plot,10.5 |  | 
+Management_information_GGE_2016.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Pflug,    Kreiselegge | 12.10/14.10.2015 | "
+Management_information_GGE_2016.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_GGE_2016.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_GGE_2016.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_GGE_2016.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_GGE_2016.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_GGE_2016.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_GGE_2016.xlsx,0,76,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_GGE_2016.xlsx,0,76,11,Measure Date (dd.mm.YYYY),
+Management_information_GGE_2018.xlsx,0,16,1,harvest size of the plot,10.5 |  | 
+Management_information_GGE_2018.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Pflug,    Kreiselegge | 19.10 & 23.10.2017 | "
+Management_information_GGE_2018.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY) | Infection_data | Measure Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,43,11,Measure Date (dd.mm.YYYY),Infection_data | Measure Date (dd.mm.YYYY) | Irrigation
+Management_information_GGE_2018.xlsx,0,43,12,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,43,13,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2018.xlsx,0,43,14,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2018.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY) | Infection_data | Measure Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,54,11,Measure Date (dd.mm.YYYY),Infection_data | Measure Date (dd.mm.YYYY) | Irrigation
+Management_information_GGE_2018.xlsx,0,54,12,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,54,13,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2018.xlsx,0,54,14,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2018.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY) | Infection_data | Measure Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,65,11,Measure Date (dd.mm.YYYY),Infection_data | Measure Date (dd.mm.YYYY) | Irrigation
+Management_information_GGE_2018.xlsx,0,65,12,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,65,13,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2018.xlsx,0,65,14,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2018.xlsx,0,76,10,Infection_data,Measure Date (dd.mm.YYYY) | Infection_data | Measure Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,76,11,Measure Date (dd.mm.YYYY),Infection_data | Measure Date (dd.mm.YYYY) | Irrigation
+Management_information_GGE_2018.xlsx,0,76,12,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,76,13,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2018.xlsx,0,76,14,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2018.xlsx,0,87,10,Infection_data,Measure Date (dd.mm.YYYY) | Infection_data | Measure Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,87,11,Measure Date (dd.mm.YYYY),Infection_data | Measure Date (dd.mm.YYYY) | Irrigation
+Management_information_GGE_2018.xlsx,0,87,12,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2018.xlsx,0,87,13,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2018.xlsx,0,87,14,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,16,1,harvest size of the plot,10.5 |  | 
+Management_information_GGE_2019.xlsx,0,23,1,Sowing preperation (Saatbettbereitung), |  | 
+Management_information_GGE_2019.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2019.xlsx,0,43,11,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,43,12,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2019.xlsx,0,54,11,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,54,12,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2019.xlsx,0,65,11,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,65,12,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,76,10,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2019.xlsx,0,76,11,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,76,12,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,87,10,Infection_data,Measure Date (dd.mm.YYYY) | Irrigation | Date (dd.mm.YYYY)
+Management_information_GGE_2019.xlsx,0,87,11,Measure Date (dd.mm.YYYY),Irrigation | Date (dd.mm.YYYY) | Amount
+Management_information_GGE_2019.xlsx,0,87,12,Irrigation,Date (dd.mm.YYYY) | Amount
+Management_information_HAN_2015.xlsx,0,16,1,harvest size of the plot,12 m2 |  | 
+Management_information_HAN_2015.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Maisstoppelbearbeitung, Pflug, Saatbettkombination | october 2014 | "
+Management_information_HAN_2015.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2015.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2015.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2015.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2015.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2015.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2016.xlsx,0,16,1,harvest size of the plot,10 m2 |  | 
+Management_information_HAN_2016.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Maisstoppelbearbeitung, Pflug, Saatbettkombination | October 2015 | "
+Management_information_HAN_2016.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2016.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2016.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2016.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2016.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2016.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2017.xlsx,0,16,1,harvest size of the plot,"9,4 m2 |  | "
+Management_information_HAN_2017.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Maisstoppelbearbeitung, Pflug, Saatbettkombination |  | "
+Management_information_HAN_2017.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2017.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2017.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2017.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2017.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2017.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2018.xlsx,0,16,1,harvest size of the plot,10 m2 |  | 
+Management_information_HAN_2018.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Maisstoppelbearbeitung, Pflug, Saatbettkombination |  | "
+Management_information_HAN_2018.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2018.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2018.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2018.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2018.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2018.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2018.xlsx,0,77,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2018.xlsx,0,77,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2019.xlsx,0,16,1,harvest size of the plot,10 m² |  | 
+Management_information_HAN_2019.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Stoppelbearbeitung, Pflug, Saatbettkombination |  | "
+Management_information_HAN_2019.xlsx,0,44,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2019.xlsx,0,44,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2019.xlsx,0,55,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2019.xlsx,0,55,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2019.xlsx,0,66,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2019.xlsx,0,66,11,Measure Date (dd.mm.YYYY),
+Management_information_HAN_2019.xlsx,0,78,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_HAN_2019.xlsx,0,78,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2015.xlsx,0,16,1,harvest size of the plot,"8,25 m2 |  | "
+Management_information_KAL_2015.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Pflug, Kreiselegge | 2014-10-01 00:00:00 | "
+Management_information_KAL_2015.xlsx,0,44,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2015.xlsx,0,44,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2015.xlsx,0,55,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2015.xlsx,0,55,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2015.xlsx,0,66,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2015.xlsx,0,66,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2016.xlsx,0,16,1,harvest size of the plot,"8,25 m2 |  | "
+Management_information_KAL_2016.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Pflug, U.-Lockerer, Kreiselegge (2x),  | 2015-10-01 00:00:00 | "
+Management_information_KAL_2016.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2016.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2016.xlsx,0,55,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2016.xlsx,0,55,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2016.xlsx,0,67,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2016.xlsx,0,67,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2017.xlsx,0,16,1,harvest size of the plot,"8,25 m2 |  | "
+Management_information_KAL_2017.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Pflug 25 cm depth, Kreiselegge 2* 8 cm depth, Flügelschargrubber | 2016-10-25 00:00:00 | "
+Management_information_KAL_2017.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2017.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2017.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2017.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2017.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2017.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2018.xlsx,0,16,1,harvest size of the plot,"8,25 m2 |  | "
+Management_information_KAL_2018.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Pflug + Kreiselegge | 2017-10-23, 2017-10-24 | "
+Management_information_KAL_2018.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2018.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2018.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2018.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2018.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2018.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2018.xlsx,0,78,1,Sowing,2017-11-10 to 2017-11-12 |  | 
+Management_information_KAL_2018.xlsx,0,79,1,Harvest,2018-07-17 to 2018-08-24 |  | 
+Management_information_KAL_2019.xlsx,0,16,1,harvest size of the plot,"8,3 m2 |  | "
+Management_information_KAL_2019.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Pflug + Kreiselegge | 2018-10-23, 2018-10-24 | "
+Management_information_KAL_2019.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2019.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2019.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2019.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2019.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2019.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2019.xlsx,0,78,1,Sowing,2018-10-25 00:00:00 |  | 
+Management_information_KAL_2019.xlsx,0,79,1,Harvest,2019-07-26 to 2019-08-02 |  | 
+Management_information_KAL_2020.xlsx,0,16,1,harvest size of the plot,"8,2 m2 |  | "
+Management_information_KAL_2020.xlsx,0,23,1,Sowing preperation (Saatbettbereitung),"Pflug + Kreiselegge | 2019-10-22, 2019-10-23 | "
+Management_information_KAL_2020.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2020.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2020.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2020.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2020.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KAL_2020.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_KAL_2020.xlsx,0,78,1,Sowing,2019-10-23 to 2019-10-24 |  | 
+Management_information_KAL_2020.xlsx,0,79,1,Harvest,2020-07-22 to 2020-07-27 |  | 
+Management_information_KIE_2015.xlsx,0,16,1,harvest size of the plot,7.5 m2 |  | 
+Management_information_KIE_2015.xlsx,0,17,1,Sowing density,330 K/m2 |  | 
+Management_information_KIE_2015.xlsx,0,18,1,Sowing date,23. - 24.10.2014 |  | 
+Management_information_KIE_2015.xlsx,0,19,1,Harvest date,21. - 24.08.2015 |  | 
+Management_information_KIE_2015.xlsx,0,26,1,Sowing preperation (Saatbettbereitung),"Grubber, Kreiselelegge |  | "
+Management_information_KIE_2015.xlsx,0,46,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2015.xlsx,0,46,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2015.xlsx,0,57,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2015.xlsx,0,57,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2015.xlsx,0,68,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2015.xlsx,0,68,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2016.xlsx,0,16,1,harvest size of the plot,6.125 m2 |  | 
+Management_information_KIE_2016.xlsx,0,17,1,Sowing density,300 K/m2 |  | 
+Management_information_KIE_2016.xlsx,0,18,1,Sowing date,01. - 03.10.2015 |  | 
+Management_information_KIE_2016.xlsx,0,19,1,Harvest date,18./19./22./23.08.2016 |  | 
+Management_information_KIE_2016.xlsx,0,26,1,Sowing preperation (Saatbettbereitung),"Grubber, Kreiselegge |  | "
+Management_information_KIE_2016.xlsx,0,46,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2016.xlsx,0,46,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2016.xlsx,0,57,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2016.xlsx,0,57,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2016.xlsx,0,68,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2016.xlsx,0,68,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2017.xlsx,0,16,1,harvest size of the plot,6.125 m2 |  | 
+Management_information_KIE_2017.xlsx,0,17,1,Sowing density,300 K/m2 |  | 
+Management_information_KIE_2017.xlsx,0,18,1,Sowing date,20. -22.09.2017 |  | 
+Management_information_KIE_2017.xlsx,0,19,1,Harvest date,08.08. - 15.08.2017 |  | 
+Management_information_KIE_2017.xlsx,0,26,1,Sowing preperation (Saatbettbereitung),"Grubber, Kreiselegge |  | "
+Management_information_KIE_2017.xlsx,0,46,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2017.xlsx,0,46,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2017.xlsx,0,57,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2017.xlsx,0,57,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2017.xlsx,0,68,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2017.xlsx,0,68,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2018.xlsx,0,16,1,harvest size of the plot,9.625 m2 |  | 
+Management_information_KIE_2018.xlsx,0,17,1,Sowing density,280 K/m2 |  | 
+Management_information_KIE_2018.xlsx,0,18,1,Sowing date,17.10.2017 |  | 
+Management_information_KIE_2018.xlsx,0,19,1,Harvest date,27.07.2018 |  | 
+Management_information_KIE_2018.xlsx,0,26,1,Sowing preperation (Saatbettbereitung),"Grubber, Kreiselegge |  | "
+Management_information_KIE_2018.xlsx,0,46,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2018.xlsx,0,46,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2018.xlsx,0,57,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2018.xlsx,0,57,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2018.xlsx,0,68,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2018.xlsx,0,68,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2018.xlsx,0,79,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2018.xlsx,0,79,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2019.xlsx,0,16,1,harvest size of the plot,9.625 m2 |  | 
+Management_information_KIE_2019.xlsx,0,17,1,Sowing density,280 K/m2 |  | 
+Management_information_KIE_2019.xlsx,0,18,1,Sowing date,09.10.2018 |  | 
+Management_information_KIE_2019.xlsx,0,19,1,Harvest date,08.08.2019 |  | 
+Management_information_KIE_2019.xlsx,0,26,1,Sowing preperation (Saatbettbereitung),"Grubber, Kreiselegge |  | "
+Management_information_KIE_2019.xlsx,0,46,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2019.xlsx,0,46,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2019.xlsx,0,57,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2019.xlsx,0,57,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2019.xlsx,0,68,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2019.xlsx,0,68,11,Measure Date (dd.mm.YYYY),
+Management_information_KIE_2019.xlsx,0,79,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_KIE_2019.xlsx,0,79,11,Measure Date (dd.mm.YYYY),
+Management_information_QLB_2015.xlsx,0,16,1,harvest size of the plot,4.5 m2 |  | 
+Management_information_QLB_2015.xlsx,0,17,1,sowing density,330 seeds/m² |  | 
+Management_information_QLB_2015.xlsx,0,24,1,Sowing preperation (Saatbettbereitung),"Cultivation, soil-levelling |  | "
+Management_information_QLB_2015.xlsx,0,44,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,44,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,44,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,44,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2015.xlsx,0,44,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2015.xlsx,0,44,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2015.xlsx,0,44,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,46,16,Threshing harvest,2015-07-30 00:00:00
+Management_information_QLB_2015.xlsx,0,55,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,55,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,55,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,55,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2015.xlsx,0,55,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2015.xlsx,0,55,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2015.xlsx,0,55,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,57,16,Threshing harvest,2015-07-30 00:00:00
+Management_information_QLB_2015.xlsx,0,66,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,66,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,66,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,66,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2015.xlsx,0,66,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2015.xlsx,0,66,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2015.xlsx,0,66,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,68,16,Threshing harvest,2015-07-31 00:00:00
+Management_information_QLB_2015.xlsx,0,77,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,77,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,77,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,77,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2015.xlsx,0,77,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2015.xlsx,0,77,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2015.xlsx,0,77,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2015.xlsx,0,79,16,Threshing harvest,2015-07-31 00:00:00
+Management_information_QLB_2016.xlsx,0,16,1,harvest size of the plot,4.5 m2 |  | 
+Management_information_QLB_2016.xlsx,0,17,1,sowing density,330 seeds/m² |  | 
+Management_information_QLB_2016.xlsx,0,24,1,Sowing preperation (Saatbettbereitung),"Cultivation, soil-levelling |  | "
+Management_information_QLB_2016.xlsx,0,44,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,44,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,44,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,44,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2016.xlsx,0,44,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2016.xlsx,0,44,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2016.xlsx,0,44,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,46,16,Threshing harvest,2016-07-24 00:00:00
+Management_information_QLB_2016.xlsx,0,55,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,55,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,55,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,55,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2016.xlsx,0,55,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2016.xlsx,0,55,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2016.xlsx,0,55,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,57,16,Threshing harvest,2016-07-22 00:00:00
+Management_information_QLB_2016.xlsx,0,66,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,66,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,66,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,66,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2016.xlsx,0,66,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2016.xlsx,0,66,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2016.xlsx,0,66,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,68,16,Threshing harvest,2016-07-27 00:00:00
+Management_information_QLB_2016.xlsx,0,77,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,77,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,77,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,77,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2016.xlsx,0,77,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2016.xlsx,0,77,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2016.xlsx,0,77,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2016.xlsx,0,79,16,Threshing harvest,2016-07-25 00:00:00
+Management_information_QLB_2017.xlsx,0,16,1,harvest size of the plot,4.5 m2 |  | 
+Management_information_QLB_2017.xlsx,0,17,1,sowing density,330 seeds/m² |  | 
+Management_information_QLB_2017.xlsx,0,24,1,Sowing preperation (Saatbettbereitung),"Cultivation, soil-levelling |  | "
+Management_information_QLB_2017.xlsx,0,44,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,44,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,44,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,44,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2017.xlsx,0,44,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2017.xlsx,0,44,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2017.xlsx,0,44,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,46,16,Threshing harvest,2017-07-31 00:00:00
+Management_information_QLB_2017.xlsx,0,55,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,55,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,55,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,55,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2017.xlsx,0,55,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2017.xlsx,0,55,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2017.xlsx,0,55,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,57,16,Threshing harvest,2017-07-31 00:00:00
+Management_information_QLB_2017.xlsx,0,66,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,66,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,66,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,66,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2017.xlsx,0,66,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2017.xlsx,0,66,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2017.xlsx,0,66,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,68,16,Threshing harvest,2017-08-02 00:00:00
+Management_information_QLB_2017.xlsx,0,77,10,Infection_data,Inoculation Date | 1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,77,11,Inoculation Date,1st measure date (dd.mm.YYYY) | 2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,77,12,1st measure date (dd.mm.YYYY),2nd measure date (dd.mm.YYYY) | 3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,77,13,2nd measure date (dd.mm.YYYY),"3rd measure date (dd.mm.YYYY) | 4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest"
+Management_information_QLB_2017.xlsx,0,77,14,3rd measure date (dd.mm.YYYY),"4th measure date (dd.mm.YYYY) | On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2017.xlsx,0,77,15,4th measure date (dd.mm.YYYY),"On-plot analysis,                      sampling,                   harvest | Date (dd.mm.YYYY)"
+Management_information_QLB_2017.xlsx,0,77,16,"On-plot analysis,                      sampling,                   harvest",Date (dd.mm.YYYY)
+Management_information_QLB_2017.xlsx,0,79,16,Threshing harvest,2017-08-03 00:00:00
+Management_information_RHH_2015.xlsx,0,16,1,harvest size of the plot, |  | 
+Management_information_RHH_2015.xlsx,0,23,1,Sowing preperation (Saatbettbereitung), | Pflug | 
+Management_information_RHH_2015.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2015.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2015.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2015.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2015.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2015.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2016.xlsx,0,16,1,harvest size of the plot, |  | 
+Management_information_RHH_2016.xlsx,0,23,1,Sowing preperation (Saatbettbereitung), | Pflug | 
+Management_information_RHH_2016.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2016.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2016.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2016.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2016.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2016.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2017.xlsx,0,16,1,harvest size of the plot,10 |  | 
+Management_information_RHH_2017.xlsx,0,23,1,Sowing preperation (Saatbettbereitung), |  | 
+Management_information_RHH_2017.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2017.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2017.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2017.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2017.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2017.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2017.xlsx,0,76,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2017.xlsx,0,76,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2018.xlsx,0,16,1,harvest size of the plot,10 |  | 
+Management_information_RHH_2018.xlsx,0,23,1,Sowing preperation (Saatbettbereitung), |  | 
+Management_information_RHH_2018.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2018.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2018.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2018.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2018.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2018.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2018.xlsx,0,76,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2018.xlsx,0,76,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2018.xlsx,0,88,1,Sowing Date: 2017-10-18, |  | 
+Management_information_RHH_2018.xlsx,0,89,1,Harvest Date:, |  | 
+Management_information_RHH_2019.xlsx,0,16,1,harvest size of the plot, |  | 
+Management_information_RHH_2019.xlsx,0,23,1,Sowing preperation (Saatbettbereitung), |  | 
+Management_information_RHH_2019.xlsx,0,43,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2019.xlsx,0,43,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2019.xlsx,0,54,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2019.xlsx,0,54,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2019.xlsx,0,65,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2019.xlsx,0,65,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2019.xlsx,0,76,10,Infection_data,Measure Date (dd.mm.YYYY)
+Management_information_RHH_2019.xlsx,0,76,11,Measure Date (dd.mm.YYYY),
+Management_information_RHH_2019.xlsx,0,88,1,sowing: 2018-10-15, |  | 
+Management_information_RHH_2019.xlsx,0,89,1,harvest: 2019-08-01, |  | 

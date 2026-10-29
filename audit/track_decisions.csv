@@ -1,0 +1,6 @@
+﻿Track,Decision,Evidence / condition
+A Disease prediction,CONDITIONAL GO,单病回顾性严重度可研究；发生分类需纠正整数截断，早期预报NO-GO；DTR/Fusarium限次要
+B Yield prediction,GO,"34,213可靠产量，28地点×年份，6地点/年份；限定合法基线输入与严格分组验证，非精度保证"
+C Disease–yield association,CONDITIONAL GO,"12,993至少一病配对，22环境；需评分定义、接种和管理分层；完整六病跨环境NO-GO"
+D Management comparison,CONDITIONAL GO,有真实共同环境/品种；QLB杀菌剂接种混杂、水分单地点、GGE版本标签争议需限制
+E External validation,NO-GO,当前正式外部验证未就绪；2个非独立子集，BASF候选仅CONDITIONAL，单位/输入尚不兼容

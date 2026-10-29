@@ -1,0 +1,370 @@
+﻿table_id,filename,field,meaning,dtype
+S10,S10_Drop_environment_sensitivity.csv,disease,Disease endpoint: Stripe_rust or Septoria.,object
+S10,S10_Drop_environment_sensitivity.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S10,S10_Drop_environment_sensitivity.csv,validation_strategy,"Outer holdout scheme; LOSYO site-year, LOYO year, LOLO location, LOEO management environment. NO_QLB excludes the whole QLB site.",object
+S10,S10_Drop_environment_sensitivity.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S10,S10_Drop_environment_sensitivity.csv,comparison,Paired feature contrast: M1_vs_M0 for F1; M3_vs_M2 for F2.,object
+S10,S10_Drop_environment_sensitivity.csv,removed_environment,Site-year omitted from the inherited deletion summary.,object
+S10,S10_Drop_environment_sensitivity.csv,remaining_environments,Site-years remaining after deletion.,int64
+S10,S10_Drop_environment_sensitivity.csv,macro_delta_MAE,"Equal-site-year average: MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S10,S10_Drop_environment_sensitivity.csv,pooled_delta_MAE,"Pooled test-plot aggregation: MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S10,S10_Drop_environment_sensitivity.csv,macro_sign_flip,Whether deletion changes the sign of the environment-macro increment.,bool
+S10,S10_Drop_environment_sensitivity.csv,pooled_sign_flip,Whether deletion changes the sign of the pooled-plot increment.,bool
+S11,S11_Original_source_manifest.csv,relative_path,Source-file path relative to the historical archive root.,object
+S11,S11_Original_source_manifest.csv,source_repository,Repository or archive from which the file was retrieved.,object
+S11,S11_Original_source_manifest.csv,source_url,Recorded source URL; not a claim that the file is redistributed here.,object
+S11,S11_Original_source_manifest.csv,source_version,Recorded repository or dataset version.,object
+S11,S11_Original_source_manifest.csv,git_commit,"Recorded Git revision, where available.",object
+S11,S11_Original_source_manifest.csv,file_size_bytes,Source-file size in bytes.,int64
+S11,S11_Original_source_manifest.csv,sha256,SHA256 checksum of the referenced file bytes.,object
+S11,S11_Original_source_manifest.csv,retrieval_time_utc,Recorded retrieval time in UTC.,object
+S11,S11_Original_source_manifest.csv,validation_status,Inherited verification outcome.,object
+S11,S11_Original_source_manifest.csv,timestamp_note,Qualification of the source timestamp.,object
+S11,S11_Original_source_manifest.csv,same_sha256_as_prior_file,Whether checksum matches the preceding recorded source version.,bool
+S12,S12_Novelty_matrix.csv,Candidate claim,Candidate manuscript novelty claim.,object
+S12,S12_Novelty_matrix.csv,Our supporting evidence,Frozen project evidence supporting the candidate claim.,object
+S12,S12_Novelty_matrix.csv,Prior study,Prior publication used for the bounded novelty comparison.,object
+S12,S12_Novelty_matrix.csv,DOI,Publication digital object identifier.,object
+S12,S12_Novelty_matrix.csv,Dataset overlap,Overlap in data resources with the prior study.,object
+S12,S12_Novelty_matrix.csv,Method overlap,Overlap in analytical methods with the prior study.,object
+S12,S12_Novelty_matrix.csv,Scientific finding overlap,Overlap in substantive scientific findings.,object
+S12,S12_Novelty_matrix.csv,What remains different,Residual distinction after accounting for overlap.,object
+S12,S12_Novelty_matrix.csv,Evidence strength,Recorded assessment of the supporting evidence.,object
+S12,S12_Novelty_matrix.csv,Novelty status,"Bounded novelty assessment, not a claim of exhaustive literature coverage.",object
+S12,S12_Novelty_matrix.csv,Recommended claim wording,Calibrated claim wording retained from the frozen audit.,object
+S12,S12_Novelty_matrix.csv,Access limitation,Limitation on access to the prior publication or evidence.,object
+S14,S14_Matched_domain_absolute_MAE.csv,algorithm,Prediction algorithm: Ridge or CatBoost.,object
+S14,S14_Matched_domain_absolute_MAE.csv,strategy,Training strategy: A_NATURAL_ONLY or B_FULL_ELIGIBLE.,object
+S14,S14_Matched_domain_absolute_MAE.csv,weighting,Pooled plots or equal-site-year aggregation.,object
+S14,S14_Matched_domain_absolute_MAE.csv,n,Number of evaluated plots.,int64
+S14,S14_Matched_domain_absolute_MAE.csv,environments,Number of represented site-years.,int64
+S14,S14_Matched_domain_absolute_MAE.csv,M0_MAE,"Mean absolute prediction error, dt/ha for the disease-excluding model.",float64
+S14,S14_Matched_domain_absolute_MAE.csv,M1_MAE,"Mean absolute prediction error, dt/ha for the disease-inclusive model.",float64
+S14,S14_Matched_domain_absolute_MAE.csv,delta_MAE,"MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S1,S1_Phase2A_cohort_exclusions.csv,published_row,Row identifier in the published source table.,int64
+S1,S1_Phase2A_cohort_exclusions.csv,sample_id,Frozen unique plot identifier.,object
+S1,S1_Phase2A_cohort_exclusions.csv,unit_id,Inherited experimental-unit identifier.,object
+S1,S1_Phase2A_cohort_exclusions.csv,Location,Recorded trial location.,object
+S1,S1_Phase2A_cohort_exclusions.csv,Year,Harvest year.,int64
+S1,S1_Phase2A_cohort_exclusions.csv,Treatment,Original management treatment code.,object
+S1,S1_Phase2A_cohort_exclusions.csv,selection_reason,Frozen inclusion or exclusion reason.,object
+S2,S2_Disease_cohort_coverage.csv,disease,Disease endpoint: Stripe_rust or Septoria.,object
+S2,S2_Disease_cohort_coverage.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S2,S2_Disease_cohort_coverage.csv,site_year,Trial location and harvest-year combination.,object
+S2,S2_Disease_cohort_coverage.csv,management,Recorded management stratum.,object
+S2,S2_Disease_cohort_coverage.csv,inoculation_status,Disease-specific natural or artificial-inoculation-related classification.,object
+S2,S2_Disease_cohort_coverage.csv,n,Number of evaluated plots.,int64
+S2,S2_Disease_cohort_coverage.csv,cultivars,Number of distinct cultivars.,int64
+S2,S2_Disease_cohort_coverage.csv,severity_mean,Mean reconstructed nominal disease score; no common cross-site percentage unit is assumed.,float64
+S2,S2_Disease_cohort_coverage.csv,severity_sd,Standard deviation of reconstructed nominal disease scores.,float64
+S2,S2_Disease_cohort_coverage.csv,yield_mean,Mean reported yield in dt/ha.,float64
+S2,S2_Disease_cohort_coverage.csv,yield_sd,Standard deviation of reported yield in dt/ha.,float64
+S2,S2_Disease_cohort_coverage.csv,zeros,Number of genuinely zero reconstructed scores.,int64
+S2,S2_Disease_cohort_coverage.csv,positive,Number of strictly positive reconstructed scores.,int64
+S3,S3_Disease_label_QC.csv,sample_id,Frozen unique plot identifier.,object
+S3,S3_Disease_label_QC.csv,published_row,Row identifier in the published source table.,int64
+S3,S3_Disease_label_QC.csv,disease,Disease endpoint: Stripe_rust or Septoria.,object
+S3,S3_Disease_label_QC.csv,phase1_supported,Whether the original label was supported by the Phase 1 source audit.,bool
+S3,S3_Disease_label_QC.csv,published_value,Published disease value before restoration.,float64
+S3,S3_Disease_label_QC.csv,raw_original_value,Disease value recovered from the original location table.,float64
+S3,S3_Disease_label_QC.csv,status,"Inherited eligibility, identifiability or completion status; consult reason where present.",object
+S3,S3_Disease_label_QC.csv,positive_truncated_to_zero,Whether a positive original fractional score appeared as zero in the published value.,bool
+S3,S3_Disease_label_QC.csv,source_file,Original source filename.,object
+S3,S3_Disease_label_QC.csv,source_row,Row identifier in the original source file.,float64
+S4,S4_All_disease_model_results.csv,disease,Disease endpoint: Stripe_rust or Septoria.,object
+S4,S4_All_disease_model_results.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S4,S4_All_disease_model_results.csv,validation_strategy,"Outer holdout scheme; LOSYO site-year, LOYO year, LOLO location, LOEO management environment. NO_QLB excludes the whole QLB site.",object
+S4,S4_All_disease_model_results.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S4,S4_All_disease_model_results.csv,comparison,Paired feature contrast: M1_vs_M0 for F1; M3_vs_M2 for F2.,object
+S4,S4_All_disease_model_results.csv,n,Number of evaluated plots.,int64
+S4,S4_All_disease_model_results.csv,environments,Number of represented site-years.,int64
+S4,S4_All_disease_model_results.csv,outer_test_groups,Number of outer test groups contributing to the result.,int64
+S4,S4_All_disease_model_results.csv,exact_same_prediction_coverage,Whether paired models evaluated exactly the same plot IDs.,bool
+S4,S4_All_disease_model_results.csv,improved_environments,Number of site-years with positive MAE_without minus MAE_with.,int64
+S4,S4_All_disease_model_results.csv,worsened_environments,Number of site-years with negative MAE_without minus MAE_with.,int64
+S4,S4_All_disease_model_results.csv,unchanged_environments,Number of site-years with unchanged paired MAE.,int64
+S4,S4_All_disease_model_results.csv,status,"Inherited eligibility, identifiability or completion status; consult reason where present.",object
+S4,S4_All_disease_model_results.csv,task,Inherited prediction task label.,object
+S4,S4_All_disease_model_results.csv,aggregation,"Pooled plots, environment-macro, or other explicitly labelled source aggregation.",object
+S4,S4_All_disease_model_results.csv,MAE_without,"Mean absolute prediction error, dt/ha for the disease-excluding model.",float64
+S4,S4_All_disease_model_results.csv,MAE_with,"Mean absolute prediction error, dt/ha for the disease-inclusive model.",float64
+S4,S4_All_disease_model_results.csv,RMSE_without,"Root mean squared prediction error, dt/ha for the disease-excluding model.",float64
+S4,S4_All_disease_model_results.csv,RMSE_with,"Root mean squared prediction error, dt/ha for the disease-inclusive model.",float64
+S4,S4_All_disease_model_results.csv,R2_without,"Coefficient of determination, dimensionless for the disease-excluding model.",float64
+S4,S4_All_disease_model_results.csv,R2_with,"Coefficient of determination, dimensionless for the disease-inclusive model.",float64
+S4,S4_All_disease_model_results.csv,MBE_without,"Mean signed prediction error, dt/ha for the disease-excluding model.",float64
+S4,S4_All_disease_model_results.csv,MBE_with,"Mean signed prediction error, dt/ha for the disease-inclusive model.",float64
+S4,S4_All_disease_model_results.csv,delta_MAE,"MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S4,S4_All_disease_model_results.csv,delta_RMSE,"RMSE_without minus RMSE_with; positive improves, dt/ha.",float64
+S4,S4_All_disease_model_results.csv,delta_R2,R2_with minus R2_without; positive improves (dimensionless).,float64
+S4,S4_All_disease_model_results.csv,relative_MAE_gain_percent,100 times (MAE_without minus MAE_with) divided by MAE_without.,float64
+S4b,S4b_Paired_uncertainty.csv,disease,Disease endpoint: Stripe_rust or Septoria.,object
+S4b,S4b_Paired_uncertainty.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S4b,S4b_Paired_uncertainty.csv,validation_strategy,"Outer holdout scheme; LOSYO site-year, LOYO year, LOLO location, LOEO management environment. NO_QLB excludes the whole QLB site.",object
+S4b,S4b_Paired_uncertainty.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S4b,S4b_Paired_uncertainty.csv,comparison,Paired feature contrast: M1_vs_M0 for F1; M3_vs_M2 for F2.,object
+S4b,S4b_Paired_uncertainty.csv,n,Number of evaluated plots.,int64
+S4b,S4b_Paired_uncertainty.csv,environments,Number of represented site-years.,int64
+S4b,S4b_Paired_uncertainty.csv,outer_test_groups,Number of outer test groups contributing to the result.,int64
+S4b,S4b_Paired_uncertainty.csv,exact_same_prediction_coverage,Whether paired models evaluated exactly the same plot IDs.,bool
+S4b,S4b_Paired_uncertainty.csv,improved_environments,Number of site-years with positive MAE_without minus MAE_with.,int64
+S4b,S4b_Paired_uncertainty.csv,worsened_environments,Number of site-years with negative MAE_without minus MAE_with.,int64
+S4b,S4b_Paired_uncertainty.csv,unchanged_environments,Number of site-years with unchanged paired MAE.,int64
+S4b,S4b_Paired_uncertainty.csv,status,"Inherited eligibility, identifiability or completion status; consult reason where present.",object
+S4b,S4b_Paired_uncertainty.csv,task,Inherited prediction task label.,object
+S4b,S4b_Paired_uncertainty.csv,macro_delta_MAE,"Equal-site-year average: MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S4b,S4b_Paired_uncertainty.csv,macro_CI95_lo,"Equal-site-year average: Lower endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S4b,S4b_Paired_uncertainty.csv,macro_CI95_hi,"Equal-site-year average: Upper endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S4b,S4b_Paired_uncertainty.csv,pooled_delta_MAE,"Pooled test-plot aggregation: MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S4b,S4b_Paired_uncertainty.csv,pooled_CI95_lo,"Pooled test-plot aggregation: Lower endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S4b,S4b_Paired_uncertainty.csv,pooled_CI95_hi,"Pooled test-plot aggregation: Upper endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S4b,S4b_Paired_uncertainty.csv,macro_delta_RMSE,"Equal-site-year average: RMSE_without minus RMSE_with; positive improves, dt/ha.",float64
+S4b,S4b_Paired_uncertainty.csv,macro_delta_RMSE_CI95_lo,"Equal-site-year average: Lower descriptive 95% interval endpoint for RMSE_without minus RMSE_with, dt/ha.",float64
+S4b,S4b_Paired_uncertainty.csv,macro_delta_RMSE_CI95_hi,"Equal-site-year average: Upper descriptive 95% interval endpoint for RMSE_without minus RMSE_with, dt/ha.",float64
+S4b,S4b_Paired_uncertainty.csv,two_largest_positive_gain_share,Inherited concentration diagnostic for the two largest positive environment gains.,float64
+S4b,S4b_Paired_uncertainty.csv,uncertainty_unit,Resampling unit used for the inherited descriptive interval.,object
+S4b,S4b_Paired_uncertainty.csv,evidence_strength,Inherited evidence-strength annotation.,object
+S5,S5_Phase2A_validation_context.csv,validation_strategy,"Outer holdout scheme; LOSYO site-year, LOYO year, LOLO location, LOEO management environment. NO_QLB excludes the whole QLB site.",object
+S5,S5_Phase2A_validation_context.csv,feature_set,F1 management/cultivar predictors or F2 with January-March weather; see Methods S2.,object
+S5,S5_Phase2A_validation_context.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S5,S5_Phase2A_validation_context.csv,aggregation,"Pooled plots, environment-macro, or other explicitly labelled source aggregation.",object
+S5,S5_Phase2A_validation_context.csv,environments,Number of represented site-years.,int64
+S5,S5_Phase2A_validation_context.csv,expected_total,Expected plot count for the scheduled analysis.,int64
+S5,S5_Phase2A_validation_context.csv,n,Number of evaluated plots.,int64
+S5,S5_Phase2A_validation_context.csv,MAE,"Mean absolute prediction error, dt/ha.",float64
+S5,S5_Phase2A_validation_context.csv,RMSE,"Root mean squared prediction error, dt/ha.",float64
+S5,S5_Phase2A_validation_context.csv,R2,"Coefficient of determination, dimensionless.",float64
+S5,S5_Phase2A_validation_context.csv,MBE,"Mean signed prediction error, dt/ha.",float64
+S5,S5_Phase2A_validation_context.csv,observed_sd,Standard deviation of observed test yields in dt/ha.,float64
+S5,S5_Phase2A_validation_context.csv,R2_status,Whether R squared is defined for the available test target variation.,object
+S5,S5_Phase2A_validation_context.csv,MAE_env_bootstrap_lo,"Lower endpoint of the inherited environment-resampling MAE interval, dt/ha.",float64
+S5,S5_Phase2A_validation_context.csv,MAE_env_bootstrap_hi,"Upper endpoint of the inherited environment-resampling MAE interval, dt/ha.",float64
+S5b,S5b_Phase2A_environment_metrics.csv,validation_strategy,"Outer holdout scheme; LOSYO site-year, LOYO year, LOLO location, LOEO management environment. NO_QLB excludes the whole QLB site.",object
+S5b,S5b_Phase2A_environment_metrics.csv,feature_set,F1 management/cultivar predictors or F2 with January-March weather; see Methods S2.,object
+S5b,S5b_Phase2A_environment_metrics.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S5b,S5b_Phase2A_environment_metrics.csv,site_year,Trial location and harvest-year combination.,object
+S5b,S5b_Phase2A_environment_metrics.csv,location,Recorded trial location.,object
+S5b,S5b_Phase2A_environment_metrics.csv,year,Harvest year.,int64
+S5b,S5b_Phase2A_environment_metrics.csv,test_fold_count,Number of contributing outer test folds.,int64
+S5b,S5b_Phase2A_environment_metrics.csv,expected_n,Expected plot count for the test task.,int64
+S5b,S5b_Phase2A_environment_metrics.csv,n,Number of evaluated plots.,int64
+S5b,S5b_Phase2A_environment_metrics.csv,MAE,"Mean absolute prediction error, dt/ha.",float64
+S5b,S5b_Phase2A_environment_metrics.csv,RMSE,"Root mean squared prediction error, dt/ha.",float64
+S5b,S5b_Phase2A_environment_metrics.csv,R2,"Coefficient of determination, dimensionless.",float64
+S5b,S5b_Phase2A_environment_metrics.csv,MBE,"Mean signed prediction error, dt/ha.",float64
+S5b,S5b_Phase2A_environment_metrics.csv,observed_sd,Standard deviation of observed test yields in dt/ha.,float64
+S5b,S5b_Phase2A_environment_metrics.csv,R2_status,Whether R squared is defined for the available test target variation.,object
+S6,S6_Environment_error_decomposition.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S6,S6_Environment_error_decomposition.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S6,S6_Environment_error_decomposition.csv,context,Disease/model feature context of the frozen result.,object
+S6,S6_Environment_error_decomposition.csv,site_year,Trial location and harvest-year combination.,object
+S6,S6_Environment_error_decomposition.csv,observed_mean,Mean observed yield in dt/ha.,float64
+S6,S6_Environment_error_decomposition.csv,predicted_mean,Mean predicted yield in dt/ha.,float64
+S6,S6_Environment_error_decomposition.csv,yield_sd,Standard deviation of reported yield in dt/ha.,float64
+S6,S6_Environment_error_decomposition.csv,bias_squared,Squared mean prediction error in (dt/ha)^2.,float64
+S6,S6_Environment_error_decomposition.csv,error_variance,Population variance of prediction errors in (dt/ha)^2.,float64
+S6,S6_Environment_error_decomposition.csv,centered_MAE,"Mean absolute error after removing the environment mean error, dt/ha; retrospective diagnostic.",float64
+S6,S6_Environment_error_decomposition.csv,centered_RMSE,"Root mean squared error after removing the environment mean error, dt/ha.",float64
+S6,S6_Environment_error_decomposition.csv,n,Number of evaluated plots.,int64
+S6,S6_Environment_error_decomposition.csv,MAE,"Mean absolute prediction error, dt/ha.",float64
+S6,S6_Environment_error_decomposition.csv,MSE,Mean squared prediction error in (dt/ha)^2.,float64
+S6,S6_Environment_error_decomposition.csv,RMSE,"Root mean squared prediction error, dt/ha.",float64
+S6,S6_Environment_error_decomposition.csv,MBE,"Mean signed prediction error, dt/ha.",float64
+S6,S6_Environment_error_decomposition.csv,R2,"Coefficient of determination, dimensionless.",float64
+S6,S6_Environment_error_decomposition.csv,identity_error,Numerical discrepancy MSE minus squared mean error minus population error variance.,float64
+S6,S6_Environment_error_decomposition.csv,centering_use,Qualification that environment centering is a retrospective diagnostic.,object
+S6b,S6b_Paired_error_components.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S6b,S6b_Paired_error_components.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S6b,S6b_Paired_error_components.csv,comparison,Paired feature contrast: M1_vs_M0 for F1; M3_vs_M2 for F2.,object
+S6b,S6b_Paired_error_components.csv,site_year,Trial location and harvest-year combination.,object
+S6b,S6b_Paired_error_components.csv,n,Number of evaluated plots.,int64
+S6b,S6b_Paired_error_components.csv,delta_MSE,"MSE_without minus MSE_with, (dt/ha)^2; positive means less error.",float64
+S6b,S6b_Paired_error_components.csv,delta_bias_squared,"Squared mean error_without minus squared mean error_with, (dt/ha)^2.",float64
+S6b,S6b_Paired_error_components.csv,delta_centered_variance,"Centered error variance_without minus variance_with, (dt/ha)^2.",float64
+S6b,S6b_Paired_error_components.csv,delta_MAE,"MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S6b,S6b_Paired_error_components.csv,delta_centered_MAE,"Centered MAE_without minus centered MAE_with, dt/ha.",float64
+S6b,S6b_Paired_error_components.csv,delta_centered_RMSE,"Centered RMSE_without minus centered RMSE_with, dt/ha.",float64
+S6c,S6c_Within_environment_ranking.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S6c,S6c_Within_environment_ranking.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S6c,S6c_Within_environment_ranking.csv,context,Disease/model feature context of the frozen result.,object
+S6c,S6c_Within_environment_ranking.csv,site_year,Trial location and harvest-year combination.,object
+S6c,S6c_Within_environment_ranking.csv,level,Plot-level or cultivar-mean aggregation for the ranking diagnostic.,object
+S6c,S6c_Within_environment_ranking.csv,n,Number of evaluated plots.,int64
+S6c,S6c_Within_environment_ranking.csv,cultivars,Number of distinct cultivars.,int64
+S6c,S6c_Within_environment_ranking.csv,spearman,Descriptive Spearman rank correlation between observed and predicted yields.,float64
+S6c,S6c_Within_environment_ranking.csv,replicate_support,Inherited support summary for replicated cultivar means.,object
+S6c,S6c_Within_environment_ranking.csv,replicated_cultivars,Number of cultivars with replicate support.,float64
+S6c,S6c_Within_environment_ranking.csv,low_quartile_MAE,"MAE in the lower observed-yield quartile, dt/ha.",float64
+S6c,S6c_Within_environment_ranking.csv,high_quartile_MAE,"MAE in the upper observed-yield quartile, dt/ha.",float64
+S7,S7_Adjusted_association.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S7,S7_Adjusted_association.csv,model,"Association adjustment specification A0-A3; in S13, prediction algorithm.",object
+S7,S7_Adjusted_association.csv,n,Number of evaluated plots.,int64
+S7,S7_Adjusted_association.csv,environments,Number of represented site-years.,int64
+S7,S7_Adjusted_association.csv,cultivars,Number of distinct cultivars.,int64
+S7,S7_Adjusted_association.csv,coefficient_per_score_unit,"Conditional yield association per nominal disease-score unit, dt/ha.",float64
+S7,S7_Adjusted_association.csv,CI95_lo,Lower endpoint of the inherited descriptive 95% association interval per score unit.,float64
+S7,S7_Adjusted_association.csv,CI95_hi,Upper endpoint of the inherited descriptive 95% association interval per score unit.,float64
+S7,S7_Adjusted_association.csv,association_per_10_score_units,"Conditional yield association per ten nominal score units, dt/ha.",float64
+S7,S7_Adjusted_association.csv,per10_CI95_lo,Lower endpoint of the descriptive 95% association interval per ten stated score units.,float64
+S7,S7_Adjusted_association.csv,per10_CI95_hi,Upper endpoint of the descriptive 95% association interval per ten stated score units.,float64
+S7,S7_Adjusted_association.csv,bootstrap_valid,Number of valid inherited resamples.,int64
+S7,S7_Adjusted_association.csv,bootstrap_requested,Number of requested inherited resamples.,int64
+S7,S7_Adjusted_association.csv,uncertainty,Inherited resampling method and descriptive interpretation.,object
+S7,S7_Adjusted_association.csv,unit_interpretation,Endpoint-specific disease unit and interpretation caveat.,object
+S7,S7_Adjusted_association.csv,status,"Inherited eligibility, identifiability or completion status; consult reason where present.",object
+S7,S7_Adjusted_association.csv,iterations,Iterations used by the inherited fixed-effect absorption procedure.,int64
+S7,S7_Adjusted_association.csv,converged,Whether inherited absorption met its recorded convergence criterion.,bool
+S7,S7_Adjusted_association.csv,absorbed_design_rank_including_severity,Rank of the absorbed association design including severity.,int64
+S7,S7_Adjusted_association.csv,residual_df,Residual degrees of freedom of the association fit.,int64
+S7,S7_Adjusted_association.csv,residual_severity_sd,Standard deviation of disease scores after absorbing the adjustment terms.,float64
+S7,S7_Adjusted_association.csv,residual_RMSE,Association residual root mean squared error in dt/ha.,float64
+S7,S7_Adjusted_association.csv,residual_skew,Skewness of association residuals.,float64
+S7,S7_Adjusted_association.csv,residual_variance_ratio_hi_vs_lo_severity,Residual variance ratio in high versus low severity groups.,float64
+S7b,S7b_Environment_association.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S7b,S7b_Environment_association.csv,site_year,Trial location and harvest-year combination.,object
+S7b,S7b_Environment_association.csv,model,"Association adjustment specification A0-A3; in S13, prediction algorithm.",object
+S7b,S7b_Environment_association.csv,n,Number of evaluated plots.,int64
+S7b,S7b_Environment_association.csv,cultivars,Number of distinct cultivars.,int64
+S7b,S7b_Environment_association.csv,coefficient,"Conditional yield association per nominal disease-score unit, dt/ha.",float64
+S7b,S7b_Environment_association.csv,association_per10,"Conditional yield association per ten nominal score units, dt/ha.",float64
+S7b,S7b_Environment_association.csv,scale,Endpoint scale used by the association sensitivity.,object
+S7b,S7b_Environment_association.csv,status,"Inherited eligibility, identifiability or completion status; consult reason where present.",object
+S7b,S7b_Environment_association.csv,iterations,Iterations used by the inherited fixed-effect absorption procedure.,int64
+S7b,S7b_Environment_association.csv,converged,Whether inherited absorption met its recorded convergence criterion.,bool
+S7b,S7b_Environment_association.csv,absorbed_design_rank_including_severity,Rank of the absorbed association design including severity.,int64
+S7b,S7b_Environment_association.csv,residual_df,Residual degrees of freedom of the association fit.,int64
+S7b,S7b_Environment_association.csv,residual_severity_sd,Standard deviation of disease scores after absorbing the adjustment terms.,float64
+S7b,S7b_Environment_association.csv,residual_RMSE,Association residual root mean squared error in dt/ha.,float64
+S7b,S7b_Environment_association.csv,residual_skew,Skewness of association residuals.,float64
+S7b,S7b_Environment_association.csv,residual_variance_ratio_hi_vs_lo_severity,Residual variance ratio in high versus low severity groups.,float64
+S7c,S7c_Association_sensitivity.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S7c,S7c_Association_sensitivity.csv,model,"Association adjustment specification A0-A3; in S13, prediction algorithm.",object
+S7c,S7c_Association_sensitivity.csv,analysis,Inherited sensitivity-analysis label.,object
+S7c,S7c_Association_sensitivity.csv,removed,Environment or site removed in the sensitivity.,object
+S7c,S7c_Association_sensitivity.csv,n,Number of evaluated plots.,int64
+S7c,S7c_Association_sensitivity.csv,environments,Number of represented site-years.,int64
+S7c,S7c_Association_sensitivity.csv,coefficient,"Conditional yield association per nominal disease-score unit, dt/ha.",float64
+S7c,S7c_Association_sensitivity.csv,association_per10,"Conditional yield association per ten nominal score units, dt/ha.",float64
+S7c,S7c_Association_sensitivity.csv,status,"Inherited eligibility, identifiability or completion status; consult reason where present.",object
+S7c,S7c_Association_sensitivity.csv,iterations,Iterations used by the inherited fixed-effect absorption procedure.,int64
+S7c,S7c_Association_sensitivity.csv,converged,Whether inherited absorption met its recorded convergence criterion.,bool
+S7c,S7c_Association_sensitivity.csv,absorbed_design_rank_including_severity,Rank of the absorbed association design including severity.,int64
+S7c,S7c_Association_sensitivity.csv,residual_df,Residual degrees of freedom of the association fit.,int64
+S7c,S7c_Association_sensitivity.csv,residual_severity_sd,Standard deviation of disease scores after absorbing the adjustment terms.,float64
+S7c,S7c_Association_sensitivity.csv,residual_RMSE,Association residual root mean squared error in dt/ha.,float64
+S7c,S7c_Association_sensitivity.csv,residual_skew,Skewness of association residuals.,float64
+S7c,S7c_Association_sensitivity.csv,residual_variance_ratio_hi_vs_lo_severity,Residual variance ratio in high versus low severity groups.,float64
+S7c,S7c_Association_sensitivity.csv,scale,Endpoint scale used by the association sensitivity.,object
+S7d,S7d_QLB_AO_sensitivity.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S7d,S7d_QLB_AO_sensitivity.csv,n,Number of evaluated plots.,int64
+S7d,S7d_QLB_AO_sensitivity.csv,environments,Number of represented site-years.,int64
+S7d,S7d_QLB_AO_sensitivity.csv,model,"Association adjustment specification A0-A3; in S13, prediction algorithm.",object
+S7d,S7d_QLB_AO_sensitivity.csv,per10_AO_percentage_points,"Same-site QLB association per ten AO leaf-area percentage points, dt/ha; not a common cross-site scale.",float64
+S7d,S7d_QLB_AO_sensitivity.csv,per10_CI95_lo,Lower endpoint of the descriptive 95% association interval per ten stated score units.,float64
+S7d,S7d_QLB_AO_sensitivity.csv,per10_CI95_hi,Upper endpoint of the descriptive 95% association interval per ten stated score units.,float64
+S7d,S7d_QLB_AO_sensitivity.csv,uncertainty,Inherited resampling method and descriptive interpretation.,object
+S7d,S7d_QLB_AO_sensitivity.csv,status,"Inherited eligibility, identifiability or completion status; consult reason where present.",object
+S7d,S7d_QLB_AO_sensitivity.csv,iterations,Iterations used by the inherited fixed-effect absorption procedure.,int64
+S7d,S7d_QLB_AO_sensitivity.csv,converged,Whether inherited absorption met its recorded convergence criterion.,bool
+S7d,S7d_QLB_AO_sensitivity.csv,absorbed_design_rank_including_severity,Rank of the absorbed association design including severity.,int64
+S7d,S7d_QLB_AO_sensitivity.csv,residual_df,Residual degrees of freedom of the association fit.,int64
+S7d,S7d_QLB_AO_sensitivity.csv,residual_severity_sd,Standard deviation of disease scores after absorbing the adjustment terms.,float64
+S7d,S7d_QLB_AO_sensitivity.csv,residual_RMSE,Association residual root mean squared error in dt/ha.,float64
+S7d,S7d_QLB_AO_sensitivity.csv,residual_skew,Skewness of association residuals.,float64
+S7d,S7d_QLB_AO_sensitivity.csv,residual_variance_ratio_hi_vs_lo_severity,Residual variance ratio in high versus low severity groups.,float64
+S8,S8_Matched_domain_manifest.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S8,S8_Matched_domain_manifest.csv,site_year,Trial location and harvest-year combination.,object
+S8,S8_Matched_domain_manifest.csv,strategy,Training strategy: A_NATURAL_ONLY or B_FULL_ELIGIBLE.,object
+S8,S8_Matched_domain_manifest.csv,context,Disease/model feature context of the frozen result.,object
+S8,S8_Matched_domain_manifest.csv,test_n,Number of test plots.,int64
+S8,S8_Matched_domain_manifest.csv,test_id_sha256,SHA256 fingerprint of the inherited test plot IDs.,object
+S8,S8_Matched_domain_manifest.csv,train_n,Number of training plots.,int64
+S8,S8_Matched_domain_manifest.csv,train_environments,Number of training site-years.,int64
+S8,S8_Matched_domain_manifest.csv,artificial_training_fraction,"Fraction of training plots classified as artificial-inoculation-related, 0-1.",float64
+S8,S8_Matched_domain_manifest.csv,train_id_sha256,SHA256 fingerprint of the inherited training plot IDs.,object
+S8,S8_Matched_domain_manifest.csv,reuse_status,Whether the frozen predictions were reused in the matched comparison.,object
+S8,S8_Matched_domain_manifest.csv,test_status,Inherited eligibility or scoring status of the test fold.,object
+S8b,S8b_Matched_domain_metrics.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S8b,S8b_Matched_domain_metrics.csv,strategy,Training strategy: A_NATURAL_ONLY or B_FULL_ELIGIBLE.,object
+S8b,S8b_Matched_domain_metrics.csv,n,Number of evaluated plots.,int64
+S8b,S8b_Matched_domain_metrics.csv,environments,Number of represented site-years.,int64
+S8b,S8b_Matched_domain_metrics.csv,pooled_delta_MAE,"Pooled test-plot aggregation: MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S8b,S8b_Matched_domain_metrics.csv,macro_delta_MAE,"Equal-site-year average: MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S8b,S8b_Matched_domain_metrics.csv,macro_CI95_lo,"Equal-site-year average: Lower endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S8b,S8b_Matched_domain_metrics.csv,macro_CI95_hi,"Equal-site-year average: Upper endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S8b,S8b_Matched_domain_metrics.csv,pooled_CI95_lo,"Pooled test-plot aggregation: Lower endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S8b,S8b_Matched_domain_metrics.csv,pooled_CI95_hi,"Pooled test-plot aggregation: Upper endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S8b,S8b_Matched_domain_metrics.csv,improved_environments,Number of site-years with positive MAE_without minus MAE_with.,int64
+S8c,S8c_Matched_domain_environment_comparison.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S8c,S8c_Matched_domain_environment_comparison.csv,site_year,Trial location and harvest-year combination.,object
+S8c,S8c_Matched_domain_environment_comparison.csv,strategy_A,Natural-only training strategy label.,object
+S8c,S8c_Matched_domain_environment_comparison.csv,n_A,Number of evaluated test plots. Training strategy A.,int64
+S8c,S8c_Matched_domain_environment_comparison.csv,MAE_without_A,"Mean absolute prediction error, dt/ha for the disease-excluding model. Training strategy A.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,MAE_with_A,"Mean absolute prediction error, dt/ha for the disease-inclusive model. Training strategy A.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,delta_MAE_A,"MAE_without minus MAE_with; positive improves, dt/ha. Training strategy A.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,RMSE_without_A,"Root mean squared prediction error, dt/ha for the disease-excluding model. Training strategy A.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,RMSE_with_A,"Root mean squared prediction error, dt/ha for the disease-inclusive model. Training strategy A.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,R2_without_A,"Coefficient of determination, dimensionless for the disease-excluding model. Training strategy A.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,R2_with_A,"Coefficient of determination, dimensionless for the disease-inclusive model. Training strategy A.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,strategy_B,Full-eligible training strategy label.,object
+S8c,S8c_Matched_domain_environment_comparison.csv,n_B,Number of evaluated test plots. Training strategy B.,int64
+S8c,S8c_Matched_domain_environment_comparison.csv,MAE_without_B,"Mean absolute prediction error, dt/ha for the disease-excluding model. Training strategy B.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,MAE_with_B,"Mean absolute prediction error, dt/ha for the disease-inclusive model. Training strategy B.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,delta_MAE_B,"MAE_without minus MAE_with; positive improves, dt/ha. Training strategy B.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,RMSE_without_B,"Root mean squared prediction error, dt/ha for the disease-excluding model. Training strategy B.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,RMSE_with_B,"Root mean squared prediction error, dt/ha for the disease-inclusive model. Training strategy B.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,R2_without_B,"Coefficient of determination, dimensionless for the disease-excluding model. Training strategy B.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,R2_with_B,"Coefficient of determination, dimensionless for the disease-inclusive model. Training strategy B.",float64
+S8c,S8c_Matched_domain_environment_comparison.csv,strategy_delta_difference_B_minus_A,"Disease-feature MAE increment under B minus that under A, dt/ha; not the absolute M1 error difference.",float64
+S8d,S8d_Matched_domain_delete_environment.csv,model_name,Prediction algorithm: Ridge or CatBoost.,object
+S8d,S8d_Matched_domain_delete_environment.csv,removed_environment,Site-year omitted from the inherited deletion summary.,object
+S8d,S8d_Matched_domain_delete_environment.csv,macro_A,"Equal-site-year average: Disease-feature MAE increment for strategy A, dt/ha.",float64
+S8d,S8d_Matched_domain_delete_environment.csv,macro_B,"Equal-site-year average: Disease-feature MAE increment for strategy B, dt/ha.",float64
+S8d,S8d_Matched_domain_delete_environment.csv,pooled_A,"Pooled test-plot aggregation: Disease-feature MAE increment for strategy A, dt/ha.",float64
+S8d,S8d_Matched_domain_delete_environment.csv,pooled_B,"Pooled test-plot aggregation: Disease-feature MAE increment for strategy B, dt/ha.",float64
+S8d,S8d_Matched_domain_delete_environment.csv,macro_B_minus_A,"Equal-site-year average: Disease-feature increment under B minus that under A, dt/ha.",float64
+S8d,S8d_Matched_domain_delete_environment.csv,pooled_B_minus_A,"Pooled test-plot aggregation: Disease-feature increment under B minus that under A, dt/ha.",float64
+S9,S9_Disease_split_manifest.csv,disease,Disease endpoint: Stripe_rust or Septoria.,object
+S9,S9_Disease_split_manifest.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S9,S9_Disease_split_manifest.csv,validation_strategy,"Outer holdout scheme; LOSYO site-year, LOYO year, LOLO location, LOEO management environment. NO_QLB excludes the whole QLB site.",object
+S9,S9_Disease_split_manifest.csv,fold_id,Inherited outer-fold identifier.,object
+S9,S9_Disease_split_manifest.csv,test_group,Held-out group identifier.,object
+S9,S9_Disease_split_manifest.csv,train_n,Number of training plots.,int64
+S9,S9_Disease_split_manifest.csv,test_n,Number of test plots.,int64
+S9,S9_Disease_split_manifest.csv,train_site_years,Number of represented training site-years.,int64
+S9,S9_Disease_split_manifest.csv,test_site_years,Number of represented test site-years.,int64
+S9,S9_Disease_split_manifest.csv,test_cultivars,Number of distinct test cultivars.,int64
+S9,S9_Disease_split_manifest.csv,unseen_test_cultivars,Number of test cultivars absent from the training fold.,int64
+S9,S9_Disease_split_manifest.csv,test_disease_positive_proportion,Fraction of test plots with a strictly positive reconstructed disease score.,float64
+S9,S9_Disease_split_manifest.csv,test_disease_unique_values,Number of distinct test disease scores.,int64
+S9,S9_Disease_split_manifest.csv,test_yield_mean,"Test yield mean, dt/ha.",float64
+S9,S9_Disease_split_manifest.csv,test_yield_sd,"Test yield standard deviation, dt/ha.",float64
+S9,S9_Disease_split_manifest.csv,test_yield_min,"Minimum test yield, dt/ha.",float64
+S9,S9_Disease_split_manifest.csv,test_yield_max,"Maximum test yield, dt/ha.",float64
+S9,S9_Disease_split_manifest.csv,train_id_sha256,SHA256 fingerprint of the inherited training plot IDs.,object
+S9,S9_Disease_split_manifest.csv,test_id_sha256,SHA256 fingerprint of the inherited test plot IDs.,object
+S9,S9_Disease_split_manifest.csv,status,"Inherited eligibility, identifiability or completion status; consult reason where present.",object
+S9,S9_Disease_split_manifest.csv,reason,Recorded reason for exclusion or unscorable status.,object
+S9,S9_Disease_split_manifest.csv,evidence_strength,Inherited evidence-strength annotation.,object
+S9b,S9b_Disease_test_IDs.csv,disease,Disease endpoint: Stripe_rust or Septoria.,object
+S9b,S9b_Disease_test_IDs.csv,scope,Frozen analysis cohort: FULL or NATURAL.,object
+S9b,S9b_Disease_test_IDs.csv,validation_strategy,"Outer holdout scheme; LOSYO site-year, LOYO year, LOLO location, LOEO management environment. NO_QLB excludes the whole QLB site.",object
+S9b,S9b_Disease_test_IDs.csv,fold_id,Inherited outer-fold identifier.,object
+S9b,S9b_Disease_test_IDs.csv,sample_id,Frozen unique plot identifier.,object
+S9b,S9b_Disease_test_IDs.csv,site_year,Trial location and harvest-year combination.,object
+S9b,S9b_Disease_test_IDs.csv,role,Plot assignment role in the frozen outer fold.,object
+S13,Supplementary_Table_S13_Incremental_Value.csv,cohort,Frozen analysis cohort: FULL or NATURAL.,object
+S13,Supplementary_Table_S13_Incremental_Value.csv,model,"Association adjustment specification A0-A3; in S13, prediction algorithm.",object
+S13,Supplementary_Table_S13_Incremental_Value.csv,plots,Number of evaluated plots.,int64
+S13,Supplementary_Table_S13_Incremental_Value.csv,site_years,Number of represented site-years.,int64
+S13,Supplementary_Table_S13_Incremental_Value.csv,pooled_MAE_without,"Pooled test-plot aggregation: Mean absolute prediction error, dt/ha for the disease-excluding model.",float64
+S13,Supplementary_Table_S13_Incremental_Value.csv,pooled_MAE_with,"Pooled test-plot aggregation: Mean absolute prediction error, dt/ha for the disease-inclusive model.",float64
+S13,Supplementary_Table_S13_Incremental_Value.csv,pooled_delta_MAE,"Pooled test-plot aggregation: MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S13,Supplementary_Table_S13_Incremental_Value.csv,macro_MAE_without,"Equal-site-year average: Mean absolute prediction error, dt/ha for the disease-excluding model.",float64
+S13,Supplementary_Table_S13_Incremental_Value.csv,macro_MAE_with,"Equal-site-year average: Mean absolute prediction error, dt/ha for the disease-inclusive model.",float64
+S13,Supplementary_Table_S13_Incremental_Value.csv,macro_delta_MAE,"Equal-site-year average: MAE_without minus MAE_with; positive improves, dt/ha.",float64
+S13,Supplementary_Table_S13_Incremental_Value.csv,macro_CI95_lo,"Equal-site-year average: Lower endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S13,Supplementary_Table_S13_Incremental_Value.csv,macro_CI95_hi,"Equal-site-year average: Upper endpoint of the inherited descriptive 95% interval for delta MAE, dt/ha.",float64
+S13,Supplementary_Table_S13_Incremental_Value.csv,improved_environments,Number of site-years with positive MAE_without minus MAE_with.,int64
+S13,Supplementary_Table_S13_Incremental_Value.csv,worsened_environments,Number of site-years with negative MAE_without minus MAE_with.,int64
+S13,Supplementary_Table_S13_Incremental_Value.csv,unchanged_environments,Number of site-years with unchanged paired MAE.,int64

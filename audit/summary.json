@@ -1,0 +1,41 @@
+{
+  "published_rows": 34683,
+  "reliable_units": 34541,
+  "coordinate_complete_units": 34042,
+  "coordinate_collision_rows": 120,
+  "unresolved_rows": 142,
+  "published_duplicate_rows": 22,
+  "cultivars": 228,
+  "sites": 6,
+  "years": 6,
+  "location_years": 28,
+  "management_environments": 98,
+  "managements": 9,
+  "strict_yield": 34213,
+  "published_yield": 34355,
+  "any_pair": 12993,
+  "six_pair": 416,
+  "tfi_complete": 416,
+  "tfi_max": 121.0,
+  "cross_phase_cultivars": 221,
+  "disease_dates_present": 205,
+  "source_files": 422,
+  "versions": [
+    {
+      "source": "figshare_v1",
+      "rows": 34683,
+      "trait_columns": 24,
+      "nonnull_trait_cells": 526751,
+      "nonnull_numeric_cells_excluding_keys": 579223,
+      "years": "2015|2016|2017|2018|2019|2020"
+    },
+    {
+      "source": "github_current",
+      "rows": 34893,
+      "trait_columns": 24,
+      "nonnull_trait_cells": 561722,
+      "nonnull_numeric_cells_excluding_keys": 614414,
+      "years": "2015|2016|2017|2018|2019|2020"
+    }
+  ]
+}

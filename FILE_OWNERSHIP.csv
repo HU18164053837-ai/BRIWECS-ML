@@ -1,0 +1,268 @@
+﻿path,ownership_class,licence_status
+.gitignore,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+audit/01_record_grain_audit.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/02_join_key_integrity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/03_trait_coverage.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/04_disease_environment_matrix.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/05_disease_yield_overlap.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/06_management_support_matrix.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/07_management_comparison_feasibility.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/08_inoculation_phase_audit.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/09_weather_temporal_coverage.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/10_leakage_risk_registry.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/11_validation_feasibility.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/12_external_dataset_candidates.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/ambiguous_published_records.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/ambiguous_raw_records.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/audited_observations.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/author_code_evidence.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/coordinate_collisions.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/disease_date_evidence.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/disease_date_file_summary.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/disease_missingness_provenance.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/expected_file_check.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/external_basf_profile.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/external_basf_trial_support.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/figshare_github_comparison.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/management_cultivar_support.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/management_metadata_profile.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/management_time_cell_evidence.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/output_inventory.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/phase_actual_samples.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/phase_panel_overlap.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/raw_parse_inventory.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/source_file_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/summary.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/track_decisions.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/unresolved_plot_links.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/version_delta_reconciliation.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/version_environment_counts.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+audit/version_population_counts.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/Data_File_Registry.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/Field_Dictionary.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/Phase2A_cohort_freeze.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/Phase2A_training_config.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/Pilot_cohort_freeze.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/Pilot_model_config.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S10_Drop_environment_sensitivity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S11_Original_source_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S12_Novelty_matrix.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S14_Matched_domain_absolute_MAE.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S1_Phase2A_cohort_exclusions.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S2_Disease_cohort_coverage.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S3_Disease_label_QC.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S4_All_disease_model_results.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S4b_Paired_uncertainty.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S5_Phase2A_validation_context.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S5b_Phase2A_environment_metrics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S6_Environment_error_decomposition.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S6b_Paired_error_components.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S6c_Within_environment_ranking.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S7_Adjusted_association.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S7b_Environment_association.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S7c_Association_sensitivity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S7d_QLB_AO_sensitivity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S8_Matched_domain_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S8b_Matched_domain_metrics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S8c_Matched_domain_environment_comparison.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S8d_Matched_domain_delete_environment.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S9_Disease_split_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/S9b_Disease_test_IDs.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/Supplementary_Table_Registry.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+frozen_SI/Supplementary_Table_S13_Incremental_Value.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+LICENSE_PENDING.md,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/config/cohort_freeze.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/config/environment.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/config/feature_freeze.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/config/method_sources.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/config/phase1_audit_receipt.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/config/phase1_input_hash_verification.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/config/training_config.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/data/cohort/environment_coverage.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/cohort/exclusion_ledger.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/cohort/exclusion_summary.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/cohort/phaseI_yield_cohort.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/cohort/sample_id_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/features/F1_features.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/features/F2_features.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/features/F2_temporal_legality.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/features/site_year_weather_features.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/splits/fold_integrity_check.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/splits/inner_cv_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/splits/outer_fold_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/data/splits/sensitivity_fold_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/reports/output_manifest.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/requirements.txt,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2A/results/metrics/disease_environment_prescreen.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/disease_prescreen_raw_value_provenance.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/disease_track_prescreen.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/environment_level_metrics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/environment_paired_differences.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/environment_weather_diagnostics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/error_stratification.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/extreme_yield_diagnostics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/fold_level_metrics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/model_comparison_paired.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/model_fit_status.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/model_performance_summary.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/metrics/weather_extrapolation_flags.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/results/predictions/out_of_fold_predictions.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2A/scripts/common.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2A/scripts/evaluate_models.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2A/scripts/finalize.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2A/scripts/inspect_inputs.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2A/scripts/make_reports.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2A/scripts/prepare_data.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2A/scripts/run_phase2a.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2A/scripts/train_models.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2A/scripts/verify_results.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Closure/config/analysis.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Closure/config/inherited_disease_unit_evidence.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Closure/config/inherited_pilot_cohort_freeze.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Closure/config/inherited_pilot_model_config.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Closure/config/request.md,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Closure/config/runtime_versions.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Closure/data/literature/P1_crossref.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P1_text.txt,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P2_crossref_retry.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P2_text.txt,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P3_crossref.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P3_text.txt,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P4_crossref.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P5_crossref.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P6_crossref.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P6_text.txt,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P7_crossref.json,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P7_fulltext_text.txt,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/literature/P7_text.txt,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/data/stripe_rust_inherited.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/requirements.txt,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Closure/results/tables/01_environment_error_decomposition.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/02_within_environment_ranking.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/03_disease_delta_error_components.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/04_adjusted_association_models.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/05_within_environment_effects.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/06_cultivar_management_sensitivity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/07_matched_test_domain_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/08_matched_training_strategy_metrics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/09_environment_level_strategy_comparison.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/10_claim_evidence_novelty_matrix.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/association_cluster_bootstrap_draws.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/association_prediction_environment_comparison.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/delivery_verification_checks.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/error_component_aggregation.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/inheritance_receipt.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/input_integrity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/literature_evidence_registry.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/literature_source_receipt.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/matched_domain_delete_environment.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/matched_strategy_environment_metrics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/paired_ranking_changes.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/results/tables/QLB_comparable_AO_association.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Closure/scripts/adjusted_association.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Closure/scripts/closure_delivery.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Closure/scripts/common.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Closure/scripts/literature_sources.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Closure/scripts/prediction_analysis.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Closure/scripts/run_closure.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Closure/scripts/verify_delivery.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/config/cohort_freeze.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/config/disease_unit_evidence.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/config/environment.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/config/inherited_F2_temporal_legality.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/config/inherited_hash_check.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/config/input_receipt.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/config/model_config.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/config/phase2a_oof_receipt.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/data/disease_cohort_summary.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/data/disease_data_dictionary.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/data/disease_environment_coverage.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/data/disease_label_qc.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/data/measurement_calendar_evidence.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/data/septoria_features.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/data/septoria_paired_cohort.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/data/stripe_rust_features.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/data/stripe_rust_paired_cohort.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/reports/SHA256_delivery_manifest.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/requirements.txt,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Phase2B_Pilot/results/metrics/absolute_model_performance.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/artificial_regime_descriptive.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/between_within_association_summary.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/disease_incremental_performance.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/drop_one_environment_sensitivity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/environment_incremental_metrics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/fold_model_results.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/inoculation_regime_contribution.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/inoculation_sensitivity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/management_association.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/management_error_diagnostics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/model_fit_status.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/paired_prediction_integrity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/paired_uncertainty_analysis.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/R2_denominator_diagnostics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/metrics/within_environment_association.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/results/predictions/disease_pilot_oof_predictions.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/scripts/associations.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/common.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/evaluate.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/figures.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/finalize.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/make_reports.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/measurement_evidence.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/posthoc_diagnostics.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/prepare.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/run_pilot.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/train.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/verify.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/splits/disease_outer_fold_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+Phase2B_Pilot/splits/disease_test_sample_assignments.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+provenance/cc_by_4.html,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+provenance/figshare_v1.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+provenance/Figshare_v1_Lock.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+provenance/Lean_Input_Receipt.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+provenance/Third_Party_Repositories.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+provenance/Zenodo_external_audit_only.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+publication_figures/reports/R_Session_And_Fonts.txt,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+publication_figures/scripts/01_load_frozen_data.R,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+publication_figures/scripts/02_panel_data_and_checks.R,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+publication_figures/scripts/03_draw_figures.R,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+publication_figures/scripts/04_export_all.R,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+publication_figures/source_data/panels/Figure1_A_Cohort_Counts.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure1_A_Label_QC.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure1_B_Environment_Coverage.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure1_C_Actual_Folds.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure1_C_Fold_Matrix.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure1_C_Matched_Training_Ranges.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure2_A_Environment_Increments.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure2_B_Aggregates_And_Intervals.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure2_C_QLB2015_Sensitivity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure3_A_Absolute_Components.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure3_A_Environment_Components.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure3_B_Weighted_Components.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure3_C_Original_Rankings.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure3_C_Ranking_Changes.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure4_A_Matched_Environment_Increments.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure4_B_Absolute_MAE.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure4_C_Macro_Increments_And_Contrasts.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+publication_figures/source_data/panels/Figure4_Matched_Test_Fingerprints.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
+README.md,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+Reproducibility_Status.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+REPRODUCIBILITY_STATUS.md,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+requirements.txt,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+scripts/acquire_sources.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+scripts/inspect_raw.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+scripts/make_reports.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+scripts/run_phase1.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+scripts/verify_phase1.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+sources/basf-wheat-diseases.txt,Holst external feasibility data,CC BY 4.0; Zenodo attribution
+sources/figshare_article.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+sources/git_versions.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+third_party_licences/BRIWECS_Data_Publication/LICENSE.txt,Original third-party repository notice,"Original MIT notice retained, scoped to that repository"
+third_party_licences/Scientific_Data_Analyis/LICENSE.txt,Original third-party repository notice,"Original MIT notice retained, scoped to that repository"
+THIRD_PARTY_NOTICES.md,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+tools/acquire_figshare_v1.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+tools/create_output_directories.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+tools/prepare_sources.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+tools/validate_frozen.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+validation_report.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
+FILE_OWNERSHIP.csv,Repository ownership classification,Original documentation; author decision pending

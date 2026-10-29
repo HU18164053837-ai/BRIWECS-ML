@@ -1,0 +1,84 @@
+{
+  "stage": "Phase2B-Pilot",
+  "version": "2.2",
+  "time_frozen_utc": "2026-10-25T11:06:15.251770+00:00",
+  "source": "Official Figshare 27910269.v1 only",
+  "source_phase2a_config_sha256": "2ea1ae123fca3386b2d537b8291d329316db1fe65d3689cbdc1af8475d60a86b",
+  "seed": 42,
+  "models": {
+    "Ridge": {
+      "alpha": 10.0,
+      "solver": "lsqr",
+      "tol": 1e-05
+    },
+    "CatBoost": {
+      "iterations": 250,
+      "depth": 6,
+      "learning_rate": 0.05,
+      "l2_leaf_reg": 5.0,
+      "loss_function": "RMSE",
+      "random_seed": 42,
+      "thread_count": 4,
+      "allow_writing_files": false,
+      "verbose": false,
+      "task_type": "CPU"
+    }
+  },
+  "categorical": [
+    "cultivar_id",
+    "nitrogen",
+    "fungicide",
+    "water"
+  ],
+  "F1_numeric": [
+    "release_year"
+  ],
+  "weather": [
+    "winter_temperature_mean",
+    "winter_temperature_sd",
+    "winter_precipitation_sum",
+    "winter_radiation_sum"
+  ],
+  "F2_time_window": "Target-year January 1 to March 31, unchanged from Phase2A",
+  "task": "RETROSPECTIVE ASSOCIATION-ORIENTED ESTIMATION",
+  "contexts": {
+    "M0": {
+      "weather": false,
+      "disease": false
+    },
+    "M1": {
+      "weather": false,
+      "disease": true
+    },
+    "M2": {
+      "weather": true,
+      "disease": false
+    },
+    "M3": {
+      "weather": true,
+      "disease": true
+    }
+  },
+  "validation": [
+    "LOSYO",
+    "LOYO",
+    "LOLO"
+  ],
+  "scope_policy": "Disease-specific natural infection only; UNKNOWN never natural; Septoria natural scope identical to FULL and reused without extra fits",
+  "endpoint": "Single already reported raw location-table plot endpoint; retain original decimal, no max/date/correlation selection; AO/survey semantics vary and remain explicit",
+  "selection": "Phase2A frozen cohort AND Phase1 supported disease mask AND uniquely recoverable original numeric value in [0,100]; no outcome/error filtering",
+  "delta_MAE_definition": "MAE_without - MAE_with; positive improves",
+  "delta_RMSE_definition": "RMSE_without - RMSE_with",
+  "delta_R2_definition": "R2_with - R2_without",
+  "hyperparameter_search": "NONE; exact Phase2A fixed configurations; no eval_set or early stopping",
+  "bootstrap_env": 2000,
+  "bootstrap_cultivar_within_env": 500,
+  "bootstrap_seed": 42,
+  "association": "Descriptive Spearman; environment and environment-management centering used only after prediction, never model inputs",
+  "resources": {
+    "cpu_workers": 2,
+    "catboost_threads": 4,
+    "blas_threads": 2
+  },
+  "phase2c_authorized": false
+}

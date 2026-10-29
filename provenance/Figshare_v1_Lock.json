@@ -1,0 +1,146 @@
+{
+  "article_id": 27910269,
+  "version": 1,
+  "doi": "10.6084/m9.figshare.27910269.v1",
+  "metadata_url": "https://api.figshare.com/v2/articles/27910269/versions/1",
+  "file_id": 50832927,
+  "filename": "Briwecs_data.zip",
+  "bytes": 11329195,
+  "md5": "fb6543627c67a368b4fe5f078757f8b5",
+  "sha256": "dcf049b9c6e56ec1c9ad21c4b4a086411bd893a28a34a6d64345bbc1a560b375",
+  "download_url": "https://ndownloader.figshare.com/files/50832927",
+  "licence": {
+    "value": 52,
+    "name": "CC BY",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "dataset_authors": [
+    {
+      "id": 19368136,
+      "full_name": "Tien-Cheng Wang",
+      "first_name": "Tien-Cheng",
+      "last_name": "Wang",
+      "is_active": true,
+      "url_name": "Tien-Cheng_Wang",
+      "orcid_id": "0000-0001-7952-1404"
+    },
+    {
+      "id": 20329091,
+      "full_name": "Till Rose",
+      "first_name": "Till",
+      "last_name": "Rose",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329094,
+      "full_name": "Holger Zetzsche",
+      "first_name": "Holger",
+      "last_name": "Zetzsche",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329097,
+      "full_name": "Agim Ballvora",
+      "first_name": "Agim",
+      "last_name": "Ballvora",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329100,
+      "full_name": "Wolfgang Friedt",
+      "first_name": "Wolfgang",
+      "last_name": "Friedt",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329102,
+      "full_name": "Henning Kage",
+      "first_name": "Henning",
+      "last_name": "Kage",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329106,
+      "full_name": "Jens Léon",
+      "first_name": "Jens",
+      "last_name": "Léon",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329103,
+      "full_name": "Carolin Lichthardt",
+      "first_name": "Carolin",
+      "last_name": "Lichthardt",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329109,
+      "full_name": "Frank Ordon",
+      "first_name": "Frank",
+      "last_name": "Ordon",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 19661802,
+      "full_name": "Rod J. Snowdon",
+      "first_name": "Rod J.",
+      "last_name": "Snowdon",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0001-5577-7616"
+    },
+    {
+      "id": 20329114,
+      "full_name": "Andreas Stahl",
+      "first_name": "Andreas",
+      "last_name": "Stahl",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329115,
+      "full_name": "Hartmut Stützel",
+      "first_name": "Hartmut",
+      "last_name": "Stützel",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329117,
+      "full_name": "Benjamin Wittkop",
+      "first_name": "Benjamin",
+      "last_name": "Wittkop",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20329118,
+      "full_name": "Tsu-Wei Chen",
+      "first_name": "Tsu-Wei",
+      "last_name": "Chen",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0001-6698-563X"
+    }
+  ],
+  "dataset_title": "Multi-environment field trials for wheat yield, stability and breeding progress in Germany"
+}

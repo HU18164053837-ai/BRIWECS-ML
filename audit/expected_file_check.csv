@@ -1,0 +1,11 @@
+﻿requested,actual_paths,status
+BRIWECS_data_publication.csv,output\BRIWECS_data_publication.csv,PRESENT
+disease_record.xlsx,,MISSING_OR_RENAMED
+fertilizer.xlsx,metadata\fertilizer.xlsx,PRESENT
+plant_protection.xlsx,metadata\plant_protection.xlsx,PRESENT
+soil.xlsx,metadata\soil.xlsx,PRESENT
+BRIWECS_BRISONr_information.csv,,MISSING_OR_RENAMED
+Unit.xlsx,metadata\Unit.xlsx,PRESENT
+scripts/run.R,scripts\run.R,PRESENT
+scripts/pre-processing/data_cleaning.R,scripts\pre-processing\data_cleaning.R,PRESENT
+scripts/pre-processing/extract_management.R,scripts\pre-processing\extract_management.R,PRESENT

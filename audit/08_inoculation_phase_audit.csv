@@ -1,0 +1,589 @@
+﻿Location,Year,Treatment,trait,phase,design_exception,cultivars,reliable_units,disease_valid,yield_valid,paired,inoculation,evidence,date_precision
+GGE,2015,HN_NF_IR,Stripe_rust,I,,220,440,219,439,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_NF_IR,Leaf_rust,I,,220,440,0,439,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_NF_IR,Powdery_mildew,I,,220,440,219,439,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_NF_IR,Septoria,I,,220,440,219,439,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_NF_IR,DTR,I,,220,440,0,439,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_NF_IR,Fusarium,I,,220,440,0,439,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_IR,Stripe_rust,I,,220,440,1,440,1,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_IR,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_IR,Powdery_mildew,I,,220,440,1,440,1,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_IR,Septoria,I,,220,440,1,440,1,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_IR,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_IR,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_RF,Stripe_rust,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_RF,Leaf_rust,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_RF,Powdery_mildew,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_RF,Septoria,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_RF,DTR,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,HN_WF_RF,Fusarium,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,LN_NF_IR,Stripe_rust,I,,220,440,220,438,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,LN_NF_IR,Leaf_rust,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,LN_NF_IR,Powdery_mildew,I,,220,440,220,438,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,LN_NF_IR,Septoria,I,,220,440,220,438,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,LN_NF_IR,DTR,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2015,LN_NF_IR,Fusarium,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_NF_RF,Stripe_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_NF_RF,Powdery_mildew,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_NF_RF,Septoria,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_NF_RF,Fusarium,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_WF_RF,Stripe_rust,I,,220,880,220,880,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_WF_RF,Leaf_rust,I,,220,880,0,880,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_WF_RF,Powdery_mildew,I,,220,880,220,880,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_WF_RF,Septoria,I,,220,880,220,880,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_WF_RF,DTR,I,,220,880,0,880,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,HN_WF_RF,Fusarium,I,,220,880,219,880,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,LN_NF_RF,Stripe_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,LN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,LN_NF_RF,Powdery_mildew,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,LN_NF_RF,Septoria,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,LN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2016,LN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_NF_RF,Stripe_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_NF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_WF_RF,Stripe_rust,I,,220,880,440,880,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_WF_RF,Leaf_rust,I,,220,880,432,880,432,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_WF_RF,Powdery_mildew,I,,220,880,439,880,439,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_WF_RF,Septoria,I,,220,880,439,880,439,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_WF_RF,DTR,I,,220,880,0,880,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,HN_WF_RF,Fusarium,I,,220,880,440,880,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,LN_NF_RF,Stripe_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,LN_NF_RF,Leaf_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,LN_NF_RF,Powdery_mildew,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,LN_NF_RF,Septoria,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,LN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2017,LN_NF_RF,Fusarium,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_NF_IR,Stripe_rust,II,GGE/KAL/RHH 2018,52,104,103,104,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_NF_IR,Leaf_rust,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_NF_IR,Powdery_mildew,II,GGE/KAL/RHH 2018,52,104,103,104,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_NF_IR,Septoria,II,GGE/KAL/RHH 2018,52,104,103,104,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_NF_IR,DTR,II,GGE/KAL/RHH 2018,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_NF_IR,Fusarium,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_IR,Stripe_rust,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_IR,Leaf_rust,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_IR,Powdery_mildew,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_IR,Septoria,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_IR,DTR,II,GGE/KAL/RHH 2018,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_IR,Fusarium,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_RF,Stripe_rust,II,GGE/KAL/RHH 2018,52,104,104,102,102,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_RF,Leaf_rust,II,GGE/KAL/RHH 2018,52,104,0,102,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_RF,Powdery_mildew,II,GGE/KAL/RHH 2018,52,104,0,102,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_RF,Septoria,II,GGE/KAL/RHH 2018,52,104,0,102,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_RF,DTR,II,GGE/KAL/RHH 2018,52,104,0,102,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,HN_WF_RF,Fusarium,II,GGE/KAL/RHH 2018,52,104,0,102,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_NF_IR,Stripe_rust,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_NF_IR,Leaf_rust,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_NF_IR,Powdery_mildew,II,GGE/KAL/RHH 2018,52,104,103,104,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_NF_IR,Septoria,II,GGE/KAL/RHH 2018,52,104,99,104,99,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_NF_IR,DTR,II,GGE/KAL/RHH 2018,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_NF_IR,Fusarium,II,GGE/KAL/RHH 2018,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_WF_IR,Stripe_rust,II,GGE/KAL/RHH 2018,52,104,104,103,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_WF_IR,Leaf_rust,II,GGE/KAL/RHH 2018,52,104,104,103,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_WF_IR,Powdery_mildew,II,GGE/KAL/RHH 2018,52,104,103,103,102,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_WF_IR,Septoria,II,GGE/KAL/RHH 2018,52,104,102,103,101,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_WF_IR,DTR,II,GGE/KAL/RHH 2018,52,104,0,103,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2018,LN_WF_IR,Fusarium,II,GGE/KAL/RHH 2018,52,104,104,103,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_NF_IR,Stripe_rust,II,,51,100,99,99,99,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_NF_IR,Leaf_rust,II,,51,100,99,99,99,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_NF_IR,Powdery_mildew,II,,51,100,99,99,99,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_NF_IR,Septoria,II,,51,100,99,99,99,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_NF_IR,DTR,II,,51,100,0,99,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_NF_IR,Fusarium,II,,51,100,0,99,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_IR,Stripe_rust,II,,51,100,99,98,98,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_IR,Leaf_rust,II,,51,100,99,98,98,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_IR,Powdery_mildew,II,,51,100,99,98,98,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_IR,Septoria,II,,51,100,99,98,98,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_IR,DTR,II,,51,100,0,98,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_IR,Fusarium,II,,51,100,0,98,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_RF,Stripe_rust,II,,51,98,98,97,97,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_RF,Leaf_rust,II,,51,98,98,97,97,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_RF,Powdery_mildew,II,,51,98,98,97,97,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_RF,Septoria,II,,51,98,98,97,97,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_RF,DTR,II,,51,98,0,97,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,HN_WF_RF,Fusarium,II,,51,98,0,97,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_NF_IR,Stripe_rust,II,,51,100,99,96,96,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_NF_IR,Leaf_rust,II,,51,100,99,96,96,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_NF_IR,Powdery_mildew,II,,51,100,99,96,96,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_NF_IR,Septoria,II,,51,100,99,96,96,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_NF_IR,DTR,II,,51,100,0,96,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_NF_IR,Fusarium,II,,51,100,0,96,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_WF_IR,Stripe_rust,II,,51,100,98,98,98,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_WF_IR,Leaf_rust,II,,51,100,98,98,98,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_WF_IR,Powdery_mildew,II,,51,100,98,98,98,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_WF_IR,Septoria,II,,51,100,98,98,98,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_WF_IR,DTR,II,,51,100,0,98,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+GGE,2019,LN_WF_IR,Fusarium,II,,51,100,0,98,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_NF_RF,Stripe_rust,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_NF_RF,Septoria,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_NF_RF,DTR,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_WF_RF,Stripe_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_WF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_WF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_WF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_WF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,HN_WF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,LN_NF_RF,Stripe_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,LN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,LN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,LN_NF_RF,Septoria,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,LN_NF_RF,DTR,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2015,LN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_NF_RF,Stripe_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_NF_RF,Septoria,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_NF_RF,DTR,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_WF_RF,Stripe_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_WF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_WF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_WF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_WF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,HN_WF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,LN_NF_RF,Stripe_rust,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,LN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,LN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,LN_NF_RF,Septoria,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,LN_NF_RF,DTR,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2016,LN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_NF_RF,Stripe_rust,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_NF_RF,Leaf_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_NF_RF,Powdery_mildew,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_NF_RF,Septoria,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_NF_RF,DTR,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_WF_RF,Stripe_rust,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_WF_RF,Leaf_rust,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_WF_RF,Powdery_mildew,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_WF_RF,Septoria,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_WF_RF,DTR,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,HN_WF_RF,Fusarium,I,,220,440,0,438,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,LN_NF_RF,Stripe_rust,I,,220,440,220,439,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,LN_NF_RF,Leaf_rust,I,,220,440,220,439,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,LN_NF_RF,Powdery_mildew,I,,220,440,220,439,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,LN_NF_RF,Septoria,I,,220,440,220,439,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,LN_NF_RF,DTR,I,,220,440,220,439,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2017,LN_NF_RF,Fusarium,I,,220,440,0,439,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_NF_RF,Stripe_rust,II,,52,104,104,103,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_NF_RF,Leaf_rust,II,,52,104,104,103,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_NF_RF,Powdery_mildew,II,,52,104,104,103,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_NF_RF,Septoria,II,,52,104,104,103,103,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_NF_RF,DTR,II,,52,104,103,103,102,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_NF_RF,Fusarium,II,,52,104,0,103,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_WF_RF,Stripe_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_WF_RF,Leaf_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_WF_RF,Powdery_mildew,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_WF_RF,Septoria,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_WF_RF,DTR,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,HN_WF_RF,Fusarium,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_NF_RF,Stripe_rust,II,,52,100,100,100,100,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_NF_RF,Leaf_rust,II,,52,100,99,100,99,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_NF_RF,Powdery_mildew,II,,52,100,100,100,100,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_NF_RF,Septoria,II,,52,100,100,100,100,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_NF_RF,DTR,II,,52,100,100,100,100,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_NF_RF,Fusarium,II,,52,100,0,100,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_WF_RF,Stripe_rust,II,,52,96,96,96,96,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_WF_RF,Leaf_rust,II,,52,96,96,96,96,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_WF_RF,Powdery_mildew,II,,52,96,96,96,96,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_WF_RF,Septoria,II,,52,96,92,96,92,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_WF_RF,DTR,II,,52,96,96,96,96,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2018,LN_WF_RF,Fusarium,II,,52,96,0,96,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_NF_RF,Stripe_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_NF_RF,Leaf_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_NF_RF,Powdery_mildew,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_NF_RF,Septoria,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_NF_RF,DTR,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_NF_RF,Fusarium,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_WF_RF,Stripe_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_WF_RF,Leaf_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_WF_RF,Powdery_mildew,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_WF_RF,Septoria,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_WF_RF,DTR,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,HN_WF_RF,Fusarium,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_NF_RF,Stripe_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_NF_RF,Leaf_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_NF_RF,Powdery_mildew,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_NF_RF,Septoria,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_NF_RF,DTR,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_NF_RF,Fusarium,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_WF_RF,Stripe_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_WF_RF,Leaf_rust,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_WF_RF,Powdery_mildew,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_WF_RF,Septoria,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_WF_RF,DTR,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+HAN,2019,LN_WF_RF,Fusarium,II,,52,104,104,104,104,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_NF_RF,Stripe_rust,I,,220,440,439,440,439,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_NF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_WF_RF,Stripe_rust,I,,220,440,439,439,438,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_WF_RF,Leaf_rust,I,,220,440,0,439,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_WF_RF,Powdery_mildew,I,,220,440,0,439,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_WF_RF,Septoria,I,,220,440,0,439,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_WF_RF,DTR,I,,220,440,0,439,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,HN_WF_RF,Fusarium,I,,220,440,0,439,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,LN_NF_RF,Stripe_rust,I,,220,440,439,440,439,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,LN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,LN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,LN_NF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,LN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2015,LN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_NF_RF,Stripe_rust,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_NF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_WF_RF,Stripe_rust,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_WF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_WF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_WF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_WF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,HN_WF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,LN_NF_RF,Stripe_rust,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,LN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,LN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,LN_NF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,LN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2016,LN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_NF_RF,Stripe_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_NF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_WF_RF,Stripe_rust,I,,220,440,0,437,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_WF_RF,Leaf_rust,I,,220,440,0,437,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_WF_RF,Powdery_mildew,I,,220,440,0,437,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_WF_RF,Septoria,I,,220,440,0,437,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_WF_RF,DTR,I,,220,440,0,437,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,HN_WF_RF,Fusarium,I,,220,440,0,437,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,LN_NF_RF,Stripe_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,LN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,LN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,LN_NF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,LN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2017,LN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,HN_WF_RF,Stripe_rust,II,GGE/KAL/RHH 2018,221,442,0,442,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,HN_WF_RF,Leaf_rust,II,GGE/KAL/RHH 2018,221,442,0,442,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,HN_WF_RF,Powdery_mildew,II,GGE/KAL/RHH 2018,221,442,0,442,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,HN_WF_RF,Septoria,II,GGE/KAL/RHH 2018,221,442,0,442,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,HN_WF_RF,DTR,II,GGE/KAL/RHH 2018,221,442,0,442,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,HN_WF_RF,Fusarium,II,GGE/KAL/RHH 2018,221,442,0,442,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,LN_WF_RF,Stripe_rust,II,GGE/KAL/RHH 2018,221,418,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,LN_WF_RF,Leaf_rust,II,GGE/KAL/RHH 2018,221,418,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,LN_WF_RF,Powdery_mildew,II,GGE/KAL/RHH 2018,221,418,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,LN_WF_RF,Septoria,II,GGE/KAL/RHH 2018,221,418,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,LN_WF_RF,DTR,II,GGE/KAL/RHH 2018,221,418,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2018,LN_WF_RF,Fusarium,II,GGE/KAL/RHH 2018,221,418,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,HN_WF_RF,Stripe_rust,II,,221,410,0,410,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,HN_WF_RF,Leaf_rust,II,,221,410,0,410,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,HN_WF_RF,Powdery_mildew,II,,221,410,0,410,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,HN_WF_RF,Septoria,II,,221,410,0,410,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,HN_WF_RF,DTR,II,,221,410,0,410,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,HN_WF_RF,Fusarium,II,,221,410,0,410,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,LN_WF_RF,Stripe_rust,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,LN_WF_RF,Leaf_rust,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,LN_WF_RF,Powdery_mildew,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,LN_WF_RF,Septoria,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,LN_WF_RF,DTR,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2019,LN_WF_RF,Fusarium,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,HN_WF_RF,Stripe_rust,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,HN_WF_RF,Leaf_rust,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,HN_WF_RF,Powdery_mildew,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,HN_WF_RF,Septoria,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,HN_WF_RF,DTR,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,HN_WF_RF,Fusarium,II,,221,422,0,422,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,LN_WF_RF,Stripe_rust,II,,221,430,0,430,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,LN_WF_RF,Leaf_rust,II,,221,430,0,430,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,LN_WF_RF,Powdery_mildew,II,,221,430,0,430,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,LN_WF_RF,Septoria,II,,221,430,0,430,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,LN_WF_RF,DTR,II,,221,430,0,430,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KAL,2020,LN_WF_RF,Fusarium,II,,221,430,0,430,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_NF_RF,Stripe_rust,I,,220,660,25,656,25,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_NF_RF,Leaf_rust,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_NF_RF,Powdery_mildew,I,,220,660,1,656,1,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_NF_RF,Septoria,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_NF_RF,DTR,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_NF_RF,Fusarium,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_WF_RF,Stripe_rust,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_WF_RF,Leaf_rust,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_WF_RF,Powdery_mildew,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_WF_RF,Septoria,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_WF_RF,DTR,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,HN_WF_RF,Fusarium,I,,220,660,0,656,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,LN_NF_RF,Stripe_rust,I,,220,660,10,658,10,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,LN_NF_RF,Leaf_rust,I,,220,660,0,658,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,LN_NF_RF,Powdery_mildew,I,,220,660,0,658,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,LN_NF_RF,Septoria,I,,220,660,0,658,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,LN_NF_RF,DTR,I,,220,660,0,658,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2015,LN_NF_RF,Fusarium,I,,220,660,0,658,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_NF_RF,Stripe_rust,I,,220,660,90,641,90,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_NF_RF,Leaf_rust,I,,220,660,0,641,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_NF_RF,Powdery_mildew,I,,220,660,149,641,148,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_NF_RF,Septoria,I,,220,660,7,641,7,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_NF_RF,DTR,I,,220,660,0,641,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_NF_RF,Fusarium,I,,220,660,0,641,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RF,Stripe_rust,I,,220,660,0,634,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RF,Leaf_rust,I,,220,660,0,634,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RF,Powdery_mildew,I,,220,660,0,634,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RF,Septoria,I,,220,660,0,634,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RF,DTR,I,,220,660,0,634,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RF,Fusarium,I,,220,660,0,634,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RO,Stripe_rust,I,,220,440,0,436,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RO,Leaf_rust,I,,220,440,0,436,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RO,Powdery_mildew,I,,220,440,0,436,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RO,Septoria,I,,220,440,0,436,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RO,DTR,I,,220,440,0,436,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,HN_WF_RO,Fusarium,I,,220,440,0,436,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,LN_NF_RF,Stripe_rust,I,,220,660,63,629,62,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,LN_NF_RF,Leaf_rust,I,,220,660,0,629,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,LN_NF_RF,Powdery_mildew,I,,220,660,86,629,84,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,LN_NF_RF,Septoria,I,,220,660,0,629,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,LN_NF_RF,DTR,I,,220,660,3,629,3,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2016,LN_NF_RF,Fusarium,I,,220,660,0,629,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_NF_RF,Stripe_rust,I,,220,660,0,607,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_NF_RF,Leaf_rust,I,,220,660,0,607,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_NF_RF,Powdery_mildew,I,,220,660,0,607,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_NF_RF,Septoria,I,,220,660,0,607,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_NF_RF,DTR,I,,220,660,0,607,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_NF_RF,Fusarium,I,,220,660,0,607,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RF,Stripe_rust,I,,220,660,0,618,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RF,Leaf_rust,I,,220,660,0,618,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RF,Powdery_mildew,I,,220,660,0,618,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RF,Septoria,I,,220,660,0,618,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RF,DTR,I,,220,660,0,618,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RF,Fusarium,I,,220,660,0,618,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RO,Stripe_rust,I,,220,440,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RO,Leaf_rust,I,,220,440,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RO,Powdery_mildew,I,,220,440,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RO,Septoria,I,,220,440,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RO,DTR,I,,220,440,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,HN_WF_RO,Fusarium,I,,220,440,0,418,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,LN_NF_RF,Stripe_rust,I,,220,659,0,570,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,LN_NF_RF,Leaf_rust,I,,220,659,0,570,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,LN_NF_RF,Powdery_mildew,I,,220,659,0,570,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,LN_NF_RF,Septoria,I,,220,659,0,570,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,LN_NF_RF,DTR,I,,220,659,0,570,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2017,LN_NF_RF,Fusarium,I,,220,659,0,570,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_NF_RF,Stripe_rust,II,,52,156,52,153,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_NF_RF,Leaf_rust,II,,52,156,52,153,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_NF_RF,Powdery_mildew,II,,52,156,52,153,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_NF_RF,Septoria,II,,52,156,52,153,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_NF_RF,DTR,II,,52,156,0,153,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_NF_RF,Fusarium,II,,52,156,0,153,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_WF_RF,Stripe_rust,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_WF_RF,Leaf_rust,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_WF_RF,Powdery_mildew,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_WF_RF,Septoria,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_WF_RF,DTR,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,HN_WF_RF,Fusarium,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_NF_RF,Stripe_rust,II,,52,156,51,156,51,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_NF_RF,Leaf_rust,II,,52,156,50,156,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_NF_RF,Powdery_mildew,II,,52,156,51,156,51,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_NF_RF,Septoria,II,,52,156,51,156,51,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_NF_RF,DTR,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_NF_RF,Fusarium,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_WF_RF,Stripe_rust,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_WF_RF,Leaf_rust,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_WF_RF,Powdery_mildew,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_WF_RF,Septoria,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_WF_RF,DTR,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2018,LN_WF_RF,Fusarium,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_NF_RF,Stripe_rust,II,,52,156,48,156,48,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_NF_RF,Leaf_rust,II,,52,156,48,156,48,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_NF_RF,Powdery_mildew,II,,52,156,48,156,48,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_NF_RF,Septoria,II,,52,156,48,156,48,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_NF_RF,DTR,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_NF_RF,Fusarium,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RF,Stripe_rust,II,,52,156,52,156,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RF,Leaf_rust,II,,52,156,52,156,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RF,Powdery_mildew,II,,52,156,52,156,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RF,Septoria,II,,52,156,52,156,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RF,DTR,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RF,Fusarium,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RO,Stripe_rust,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RO,Leaf_rust,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RO,Powdery_mildew,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RO,Septoria,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RO,DTR,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,HN_WF_RO,Fusarium,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_NF_RF,Stripe_rust,II,,52,156,52,156,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_NF_RF,Leaf_rust,II,,52,156,52,156,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_NF_RF,Powdery_mildew,II,,52,156,52,156,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_NF_RF,Septoria,II,,52,156,52,156,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_NF_RF,DTR,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_NF_RF,Fusarium,II,,52,156,0,156,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_WF_RF,Stripe_rust,II,,52,156,52,155,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_WF_RF,Leaf_rust,II,,52,156,52,155,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_WF_RF,Powdery_mildew,II,,52,156,52,155,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_WF_RF,Septoria,II,,52,156,52,155,52,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_WF_RF,DTR,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+KIE,2019,LN_WF_RF,Fusarium,II,,52,156,0,155,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_NF_RF,Stripe_rust,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_NF_RF,Leaf_rust,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_NF_RF,Powdery_mildew,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_NF_RF,Septoria,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_NF_RF,Fusarium,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_WF_RF,Stripe_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_WF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_WF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_WF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_WF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,HN_WF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_NF_RF,Stripe_rust,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_NF_RF,Leaf_rust,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_NF_RF,Powdery_mildew,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_NF_RF,Septoria,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_NF_RF,Fusarium,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_WF_RF,Stripe_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_WF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_WF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_WF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_WF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2015,LN_WF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_NF_RF,Stripe_rust,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_NF_RF,Leaf_rust,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_NF_RF,Powdery_mildew,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_NF_RF,Septoria,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_NF_RF,Fusarium,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_WF_RF,Stripe_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_WF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_WF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_WF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_WF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,HN_WF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_NF_RF,Stripe_rust,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_NF_RF,Leaf_rust,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_NF_RF,Powdery_mildew,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_NF_RF,Septoria,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_NF_RF,Fusarium,I,,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_WF_RF,Stripe_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_WF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_WF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_WF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_WF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2016,LN_WF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_NF_RF,Stripe_rust,I,QLB/RHH 2017,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_NF_RF,Leaf_rust,I,QLB/RHH 2017,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_NF_RF,Powdery_mildew,I,QLB/RHH 2017,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_NF_RF,Septoria,I,QLB/RHH 2017,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_NF_RF,DTR,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_NF_RF,Fusarium,I,QLB/RHH 2017,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_WF_RF,Stripe_rust,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_WF_RF,Leaf_rust,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_WF_RF,Powdery_mildew,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_WF_RF,Septoria,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_WF_RF,DTR,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,HN_WF_RF,Fusarium,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_NF_RF,Stripe_rust,I,QLB/RHH 2017,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_NF_RF,Leaf_rust,I,QLB/RHH 2017,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_NF_RF,Powdery_mildew,I,QLB/RHH 2017,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_NF_RF,Septoria,I,QLB/RHH 2017,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_NF_RF,DTR,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_NF_RF,Fusarium,I,QLB/RHH 2017,220,440,440,440,440,ARTIFICIAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_WF_RF,Stripe_rust,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_WF_RF,Leaf_rust,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_WF_RF,Powdery_mildew,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_WF_RF,Septoria,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_WF_RF,DTR,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+QLB,2017,LN_WF_RF,Fusarium,I,QLB/RHH 2017,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_NF_RF,Stripe_rust,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_NF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_WF_RF,Stripe_rust,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_WF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_WF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_WF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_WF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,HN_WF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,LN_NF_RF,Stripe_rust,I,,220,440,440,440,440,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,LN_NF_RF,Leaf_rust,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,LN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,LN_NF_RF,Septoria,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,LN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2015,LN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_NF_RF,Stripe_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_NF_RF,Leaf_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_NF_RF,Septoria,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_WF_RF,Stripe_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_WF_RF,Leaf_rust,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_WF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_WF_RF,Septoria,I,,220,440,219,440,219,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_WF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,HN_WF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,LN_NF_RF,Stripe_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,LN_NF_RF,Leaf_rust,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,LN_NF_RF,Powdery_mildew,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,LN_NF_RF,Septoria,I,,220,440,220,440,220,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,LN_NF_RF,DTR,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2016,LN_NF_RF,Fusarium,I,,220,440,0,440,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_NF_RF,Stripe_rust,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_NF_RF,Leaf_rust,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_NF_RF,Powdery_mildew,I,QLB/RHH 2017,50,100,0,100,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_NF_RF,Septoria,I,QLB/RHH 2017,50,100,0,100,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_NF_RF,DTR,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_NF_RF,Fusarium,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_WF_RF,Stripe_rust,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_WF_RF,Leaf_rust,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_WF_RF,Powdery_mildew,I,QLB/RHH 2017,50,100,0,100,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_WF_RF,Septoria,I,QLB/RHH 2017,50,100,0,100,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_WF_RF,DTR,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,HN_WF_RF,Fusarium,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_NF_RF,Stripe_rust,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_NF_RF,Leaf_rust,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_NF_RF,Powdery_mildew,I,QLB/RHH 2017,50,100,0,100,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_NF_RF,Septoria,I,QLB/RHH 2017,50,100,0,100,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_NF_RF,DTR,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_NF_RF,Fusarium,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_WF_RF,Stripe_rust,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_WF_RF,Leaf_rust,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_WF_RF,Powdery_mildew,I,QLB/RHH 2017,50,100,0,100,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_WF_RF,Septoria,I,QLB/RHH 2017,50,100,0,100,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_WF_RF,DTR,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2017,LN_WF_RF,Fusarium,I,QLB/RHH 2017,50,100,50,100,50,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_NF_RF,Stripe_rust,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_NF_RF,Leaf_rust,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_NF_RF,Powdery_mildew,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_NF_RF,Septoria,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_NF_RF,DTR,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_NF_RF,Fusarium,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_WF_RF,Stripe_rust,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_WF_RF,Leaf_rust,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_WF_RF,Powdery_mildew,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_WF_RF,Septoria,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_WF_RF,DTR,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,HN_WF_RF,Fusarium,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_NF_RF,Stripe_rust,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_NF_RF,Leaf_rust,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_NF_RF,Powdery_mildew,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_NF_RF,Septoria,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_NF_RF,DTR,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_NF_RF,Fusarium,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_WF_RF,Stripe_rust,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_WF_RF,Leaf_rust,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_WF_RF,Powdery_mildew,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_WF_RF,Septoria,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_WF_RF,DTR,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only
+RHH,2019,LN_WF_RF,Fusarium,II,,52,104,0,104,0,NATURAL,Scientific Data 2025 Methods; Scientific Reports 2020 Methods: 2015-2017 T1/T3,season/phenological window only

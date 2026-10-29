@@ -1,0 +1,7 @@
+raw/
+.venv/
+__pycache__/
+*/config/matplotlib*/
+*/logs/
+*/models/
+validation_report.json

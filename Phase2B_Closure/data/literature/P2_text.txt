@@ -1,0 +1,1545 @@
+
+
+
+
+
+ Multi-environment field trials for wheat yield, stability and breeding progress in Germany | Scientific Data
+ 
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ Skip to main content
+
+
+
+
+ 
+ 
+ Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+ the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+ Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+ and JavaScript.
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ Advertisement
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ View all journals
+ 
+ 
+ 
+ 
+ Saved research
+ 
+ 
+ 
+ 
+ Search
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Account
+
+
+ Log in
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Content
+ Explore content
+ 
+ 
+ 
+ 
+ 
+ 
+ About the journal
+ 
+ 
+ 
+ 
+ 
+ Publish with us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign up for alerts
+ 
+ 
+ 
+ 
+ 
+ 
+ RSS feed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ nature
+ 
+ 
+ 
+ scientific data
+ 
+ 
+ 
+ data descriptors
+ 
+ 
+ 
+ 
+ article
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Multi-environment field trials for wheat yield, stability and breeding progress in Germany
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Download PDF
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Download PDF
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Descriptor
+ 
+ 
+ Open access
+ 
+ 
+ 
+
+ Published: 14 January 2025
+ 
+
+ Multi-environment field trials for wheat yield, stability and breeding progress in Germany
+ Tien-Cheng Wang1 na1, Till Rose2 na1, Holger Zetzsche3, Agim Ballvora4, Wolfgang Friedt5, Henning Kage2, Jens Léon4, Carolin Lichthardt6, Frank Ordon3, Rod J Snowdon 
+ ORCID: orcid.org/0000-0001-5577-76165, Andreas Stahl3, Hartmut Stützel7, Benjamin Wittkop5 & …Tsu-Wei Chen 
+ ORCID: orcid.org/0000-0001-6698-563X1 Show authors
+
+ 
+
+ 
+ Scientific Data
+ volume 12, Article number: 64 (2025) Cite this article
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Save article
+ 
+ 
+ 
+ 
+ 
+ View saved research
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9033 Accesses
+
+ 
+ 
+ 
+ 
+ 25 Citations
+
+ 
+ 
+ 
+ 
+ 
+ 2 Altmetric
+
+ 
+ 
+ 
+ 
+ 
+ Metrics details
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ Abstract
+Multi-environmental trials (MET) with temporal and spatial variance are crucial for understanding genotype-environment-management (GxExM) interactions in crops. Here, we present a MET dataset for winter wheat in Germany. The dataset encompasses MET spanning six years (2015–2020), six locations and nine crop management scenarios (consisting of combinations for three treatments, unbalanced in each location and year) comparing 228 cultivars released between 1963 and 2016, amounting to a total of 526,751 data points covering 24 traits. Beside grain yield, ten agronomic traits, four baking quality traits, plant height, heading date, maturity date and six fungal disease infection indices are included. Additionally, we provide management records, including fertilizer use, plant protection measures, irrigation, and weather data. We demonstrate how this dataset can address four agronomic questions related to GxExM interactions. Further potential applications of the dataset include empirical analyses, genomic and enviromic analyses for breeding targets, or development of decision-supporting models for agricultural management and policy decisions.
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Similar content being viewed by others
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linking phenotypic diversity to genomic hotspots using multi-environmental GWAS reveals genetic control of agronomic traits and drought resilience in wheat
+ 
+ 
+
+ 
+ Article
+ Open access
+ 28 August 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exploring the genotype-environment interaction of bread wheat in ambient and high-temperature planting conditions: a rigorous investigation
+ 
+ 
+
+ 
+ Article
+ Open access
+ 29 January 2024
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Large scale wheat data integration improves genomic prediction accuracy with the potential to facilitate international breeding collaborations
+ 
+ 
+
+ 
+ Article
+ Open access
+ 28 April 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Explore related subjects
+
+ Discover the latest articles and news in related subjects.
+ 
+ 
+ 
+ 
+ Agroecology
+ 
+ 
+ 
+ 
+ Plant breeding
+ 
+ 
+ 
+ 
+ Genomic Breeding Strategies for Wheat Improvement
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ Background and summary
+Wheat (Triticum aestivum L.) is a cornerstone of the world’s food supply. Its products cover 19% of the calorie intake and 20% of the protein consumption of the world’s population. In Europe the relevance is even higher, with 25% of calorie intake and 26% of protein consumption by humans accountable to wheat (average of the years 2014-20181). After a rapid and sustained global increase in wheat yields in the second half of the 20th century2, many countries with high wheat yields - including France, the United Kingdom and Germany - have recently experienced little to no yield progress2,3,4,5. Thus, the trajectory of total global food production is currently below the rate of increase needed to adequately feed the world population in 20506. Consequently, significant progress in crop science and breeding is required to achieve the desired yield increases in wheat.
+Improvements of genotypes and cropping systems are needed in the context of recent challenges of climate change and the parallel increase in social demand for reductions in environmental pollution, atmospheric emissions and the use of agrochemical inputs in crop production systems7,8. To study crop performance in terms of variation due to environmental change and genotypic improvement (breeding), multi-environmental trials (MET) are indispensable9,10,11,12,13.
+The unique MET dataset presented here combines 29 environments (unbalanced combinations among six years and six locations), 9 agricultural management scenarios (unbalanced combinations among three treatments, depending on the combination of year and location), and 228 genotypes (released cultivars) with detailed field phenotyping of 24 labour-intensive traits (e.g. total final biomass) of winter wheat (Triticum aestivum L.). The MET were conducted for six years (2015–2020) in Germany at six locations (Fig. 1): Gross Gerau, Hannover, Klein Altendorf, Kiel, Quedlinburg, and Rauischholzhausen. The management scenarios comprised three treatments (Fig. 2): nitrogen treatment with two total fertilizer levels (HN and LN, with 220 and 110 kg N ha−1, respectively), fungicide treatment with (WF) or without fungicides (NF) and a water availability treatment with three levels: irrigated (IR), rain-fed (RF) and rain-out shelter (RO). All MET were conducted with a panel of 228 cultivars released between 1963 and 2016. In total, there are 526,751 data points for 24 traits, including grain and biomass yield, agronomic traits, grain quality traits and fungal disease infection scores (Table 1 and Fig. 3).
+Fig. 1
+Full size imageLocations and soil characteristics of six experimental fields in multi-environmental trials (MET) between 2015 and 2020. (a) Geographic locations. Abbreviations for six locations: Gross Gerau (GGE), Hannover (HAN), Klein Altendorf (KAL), Kiel (KIE), Quedlinburg (QLB), and Rauischholzhausen, (RHH). (b) Soil properties. Colours in (b) indicate different locations, while numbers represent experimental years. Slight variations in soil properties between years at the same location are due to field alternations within the location across experimental years.
+Fig. 2
+Full size imageUnbalanced nine managements in multi-environmental trials (MET) dataset. Nine managements comprise of three treatments: nitrogen fertilizer, fungicide application and water availability. Nitrogen treatments has two levels: high (HN: 220 kg N ha−1) and low (LN: 110 kg N ha−1). Fungicide treatment contains two application levels: with (WF) or without (NF) fungicide application. Water availability treatment has three levels: rain-fed (RF), irrigated (IR) and rainout-shelter (RO). Abbreviations for six locations: Gross Gerau (GGE), Hannover (HAN), Klein Altendorf (KAL), Kiel (KIE), Quedlinburg (QLB), and Rauischholzhausen (RHH).
+Table 1 Names, sampling source, column name range and unit of 24 traits.
+Full size tableFig. 3
+Full size imageAn overview of the multi-environmental trial (MET) dataset containing 24 traits of winter wheat collected across six locations in Germany (GGE, HAN, KAL, KIE, QLB, RHH) with nine managements during six years (2015–2020). (a) Density plot of four agronomic traits (harvest index, grain number, grain yield and straw dry mass at maturity) as examples to demonstrate the effect of managements (M) on traits distributions across 29 combinations of year by location (Y/L). (b) Total number of observations for 24 traits across all combinations of growing conditions (year by location by management; Y/L/M) from sampling sources collected from 50 cm cut and whole plot. Abbreviation of locations: Gross Gerau (GGE), Hannover (HAN), Klein Altendorf (KAL), Kiel (KIE), Quedlinburg (QLB), and Rauischholzhausen (RHH). Un-balanced nine managements comprise of three treatments: nitrogen fertilizer, fungicide application and water availability. Nitrogen treatments has two levels: high (HN: 220 kg N ha−1) and low (LN: 110 kg N ha−1). Fungicide treatment contains two application levels: with (WF) or without (NF) fungicide application. Water availability treatment has three levels: rain-fed (RF), irrigated (IR) and covered with rainout-shelter (RO).
+Parts of this MET dataset have been used to demonstrate that: (1) long-term breeding has improved grain yield in European winter wheat independently of input intensity among management scenarios10; (2) traits for sink and source capacity are co-selected throughout breeding history14; (3) stimuli affect the formation of yield components in a cultivar- and stage-specific manner11; (4) the correlation of determination between traits and year of release13; and (5) breeding progress in fungal disease resistance has contributed to breeding progress in yield12. Here we present the complete MET dataset, including previously unpublished results, and further showcase the value of this dataset for studying GxExM interactions by answering four research questions: (1) How consistent are agronomic traits between years (Y), locations (L) and managements (M) and how does the combination of Y, L and M affect trait consistency? (2) Can a well-calibrated crop model that considers GxExM interactions properly represent the trait-trait correlations observed in the fields? (3) To which extent has breeding progress in agronomic traits contributed to breeding progress for grain yield? (4) How do individual agronomic traits contribute to yield stability?
+Methods
+Overview of MET dataset: 228 genotypes and 100 growing conditions (Y/L/M)
+The MET dataset was collected with the support of the project Breeding Innovations in Wheat for Efficient Cropping Systems (BRIWECS). Experiments were conducted in Germany from 2015 to 2020 in six locations (Fig. 1 and Fig. 2), including Gross Gerau (GGE), Hannover (HAN), Klein Altendorf (KAL), Kiel (KIE), Quedlinburg (QLB) and Rauischholzhausen (RHH).
+Management scenarios comprised three treatments with different levels of nitrogen fertilizer, fungicide application and water availability (Fig. 2). Nitrogen fertilizer treatment includes two application levels: high (HN: 220 kg N ha−1) and low (LN: 110 kg N ha−1), both include soil mineral nitrogen (0–90 cm) measured in early spring. Fungicide treatment contains two application levels: with (WF) or without (NF) fungicide application. Water availability treatment has three levels: rain-fed (RF), irrigated (IR) and rainout-shelter treated (RO). Most of the managements were grown under the rain-fed. Only Gross Gerau and Kiel were additionally tested with irrigated and rainout-shelter treatments, respectively. The aim of the water availability treatments in these two locations was to compare them with the main on-farm practice (HN_WF_RF). In Gross Gerau from a subset of seasons (2015, 2018, and 2019), all managements were irrigated, together with only one rain-fed treatment for high nitrogen with fungicide application. In Kiel, all managements were grown under rain-fed, along with a management HN_WF treated with rainout-shelter in a subset of seasons (2016, 2017, and 2019).
+The MET dataset contains a panel of 228 winter wheat cultivars, with year of release ranging from 1963 to 2016. The BRIWECS project was conducted in two phases. In Phase I10,11,12,13,14, experiments followed a randomized block design (2015–2017) with 220 cultivars (except for Rauischholzhausen in 2017). In Phase II10, experiments followed a full treatment-factorial design (2018-2019) with 52 selected cultivars that were a subset of the 220 cultivars from Phase I. Note that each cultivar has two replicates for each treatment, except for rain-fed treatments (2015–2019) and rainout shelter treatment (2019) in Kiel, which has three replicates.
+Dimensions and phenotypic space of the MET dataset: 24 agronomic and physiological traits
+The MET dataset contains in total 526,751 observations after removing outliers (Fig. 3). There are two sample sources in the dataset: a 50 cm cut and whole plot (Table 1). A 50 cm cut sampling was collected from a non-border row of 50 cm from the whole plot at the time of grain maturity (BBCH87) to determine biomass, grain yield, thousand grain weight (TGW), spike number, plant height, grain per spike, and harvest index. Whole plot was evaluated non-destructively during the growing periods and destructively maturity. Non-destructive measurements include: heading date (BBCH59), grain maturity date (BBCH87) and six fungal diseases infection area throughout the cropping cycle (leaf tan spot, Fusarium head blight, leaf rust, powdery mildew, Septoria, stripe rust). Destructive measurements include dry mass of shoot, dry mass of straw, harvest index, grain yield, TGW, grain protein, grain falling number, grain sedimentation. Harvest index was calculated as the grain yield divided by the above ground dry mass at maturity. For details of trait collections see material and methods from10.
+Fungal disease infection (% area) was recorded in the field for each plot with visual infection score ranging from 0-10012. Disease scores were collected from natural infections in the field, except for the management scenarios HN_NF_RF and LN_NF_RF in Quedlinburg, where manual inoculation was applied with pathogens of stripe rust, leaf rust and Fusarium head blight (for details see12). Total fungal infection area (TFI) is defined as the sum of infected area from all six fungal diseases, assuming that infection scores are additive:
+$${\rm{TFI}}={\rm{stripe\; rust}}+{\rm{Septoria}}+{\rm{powdery\; mildew}}+{\rm{leafrust}}+{\rm{leaftan\; spot}}+{\rm{Fusarium\; head\; blight}}$$
+ (1)
+ Outlier elimination
+After quality control of the raw data, negative values or values with unrealistic ranges (e.g., grain yield > 3000 dt/ ha; TGW > 80 g/1000 grain) were re-called as “not available” (NA). For each growing condition, a cultivar with a trait value (HI and spike number) beyond the range of mean plus and minus four times standard deviation was considered an outlier and excluded from further calculations. After pre-processing, a total of 526,751 data points were available (Fig. 3).
+Calculation of the best linear unbiased estimates (BLUEs) of cultivar means
+To provide an unbiased estimation of trait performance of each genotype under each combination of year, location and management (referred to as growing condition), BLUEs values were used for the further validation (technical validation I, III and IV, see the next sections). The MET dataset contains two experimental phases: randomized block design for phase I (2015–2017; except for Quedlinburg and Rauischholzhausen in 2017) and full treatment-factorial design for phase II (2018–2020; except for Gross Gerau, Klein Altendorf and Rauischholzhausen in 2018). For each combination of year, location and management, we included random effect from both row and column to consider the potential uneven gradient of soil fertility in the field. The calculation of BLUEs was based on the following model:
+$${y}_{{irc}}=\mu +{g}_{i}+{R}_{r}+{C}_{c}$$
+ (2)
+ where yirc is the performance of the ith cultivar of the rth row and the cth column, μ is the general mean, gi is the fixed effect of the ith cultivar, Rr is the random effect of the rth row and Cc is the random effect of the cth column. Fixed effects are denoted by lowercase letters, while random effects are denoted by uppercase letters.
+Data Records
+Data storage
+The data set15 is deposited on Figshare (https://doi.org/10.6084/m9.figshare.27910269). There are six folders in the main directory: data, docs, figure, metadata, output and scripts. The folder data contains the raw data with three subfolders: locations, management and weather. The folder metadata contains the cultivar information on the cultivars investigated (BRIWECS_BRISONr_information.csv) and units used to describe all traits (Unit.xlsx). Folder scripts contains four files as follows: File data_cleaning.R combines files in folder data and remove outliers and store output (BRIWECS_data_publication.csv) in folder output. File extract_management.R combine files in sub-folder management in folder data and store four combined managements files-disease_record.xlsx, fertilizer.xlsx, plant_protection.xlsx and soil.xlsx in folder output. File data_overview.qmd generates visualizations showing the distributions and correlations of trait performance among different growing conditions (Y/L/M), sowing dates, precipitation and global radiation levels in each growing condition, with all relevant files stored in folder docs. Parts of the MET dataset have been published in previous studies (Table S1), including SNP data10,14, climatic data11,16 and adjusted means for pathogen infections12,17.
+Technical Validation
+Subset for technical validation I-IV
+For further validation, a subset from the MET dataset (Table 2) was utilised. The subset included 15 traits in 220 genotypes growing in 45 growing conditions (year by location by management; Y/L/M), comprising three years from phase I (Y: 2015–2017), five locations (L: GGE, HAN, KAL, KIE, QLB), and managements from three rain-fed conditions (M: HN_WF_RF, HN_NF_RF, LN_NF_RF) for the technical validation I-IV. This subset is more balanced in number of genotypes and Y/L/M combinations ensuring comparability.
+Table 2 Trait names and abbreviations for examples analyses I-IV.
+Full size tableGxExM was most prominent in straw dry mass and spike number
+First validation shows the consistency of trait performance (i.e., BLUEs) across growing conditions (Y/L/M). Here, we define trait consistency (R2sma) as R2 derived from standardized major axis (SMA)18,19 regression of BLUEs of a population (220 genotypes) between two growing conditions. SMA regression assumes the source of error coming from both dependent and independent variables, therefore suitable for non-causal relationships20. In this validation, we demonstrate R2sma of nine agronomic traits (Table 2), including grain yield (GY), harvest index (HI), straw dry mass (Straw), above ground dry mass (SDM), grain number (GN), grain protein concentration (GP), grain per spike (GpS), spike number (SN) and thousand grain weight (TGW).
+To further validate the effect of year, location or management on R2sma, trait consistency was analysed by single or double grouping of growing conditions. Single grouping considers only year, location and management individually. For instance, when grouping by management, we calculate R2sma between every pairs of Y/L under the same management level (e.g., HN_WF_RF). We showcased the results of two double groupings: management-location (to examine inter-years’ similarity) and management-year (to examine inter-locations similarity). One-way analysis of variance (ANOVA) was performed to examine the mean difference of R2sma between levels within each group. Fisher’s least significant difference test was used to differentiate the mean of levels within each group once significance of ANOVA (p-value < 0.05) was detected for the group.
+R2 from standardized major axis regression (SMA; R2sma) was used to evaluate the consistency of traits between growing conditions (Y/L/M). R2sma for grain yield range widely, spanning from 0.09 to 0.84, with an average of 0.47 (Fig. 4). In other words, on average, yield in one growing condition explained less than 50% of variation in yield in another growing conditions. Unexpectedly, although grain yield is the most complex trait, it showed the highest R2sma together with grain number. Average R2sma in TGW was at a similar level but significantly lower than that in grain yield. Above ground and straw dry mass at maturity, spike number and grain number per spike had low consistency (average R2sma < 0.22), especially straw dry mass at maturity (R2sma = 0.15) and spike number (R2sma = 0.07), suggesting the strongest GxExM effects on tillering and canopy development.
+Fig. 4
+Full size imageTrait consistency (R2sma) of nine agronomic traits across all combinations of growing conditions (Y/L/M). Each point represents the consistency of a trait between two Y/L/M. There are 9900 combinations in total, resulting from the permutation of two out of 45 Y/L/M. Blue letters above the boxplot denote three statistics of R2sma: M for maximum; A for average and m for minimum. Different dark red lowercase letters below denote statistical significance at level of alpha = 0.05 based on Fisher’s post hoc test following ANOVA. The abbreviation of nine traits are: grain yield (GY); grain number (GN); thousand grain weight (TGW); harvest index (HI); grain protein concentration (GP); above ground dry mass at maturity (SDM); grain per spike (GpS); straw dry mass at maturity (Straw) and spike number (SN).
+Furthermore, the consistency (R2sma) of grain yield differed between years, locations, and managements. Interestingly, R2sma showed the largest variations between locations (Fig. 5). On average, R2sma was the highest in Hannover (60%) and the lowest in Quedlinburg (37%). Notably, grain yield was more consistent under the management HN_NF_RF (high nitrogen without fungicide in rain-fed, average R2sma = 0.53) than HN_WF_RF (high nitrogen and fungicide under rain-fed, average R2sma = 0.47) and LN_NF_RF (low nitrogen without fungicide under rain-fed, average R2sma = 0.47). This indicates that plant protection is a management that increases GxE, due to the fact that, in our panel, the accumulation of genes for diseases resistance is an important results of the breeding history12, and if the contribution of these genes on yield is replaced by the plant protection, the genotypic characteristic is not fully exploited, therefore less consistent results.
+Fig. 5
+Full size imageConsistency (R2sma) of grain yield (GY) with five groupings: (a) year, (b) location, (c) management, (d) management-location and (e) management-year. Each point represents a R2sma of a trait between two Y/L/M. Different lowercase letters denote statistical significance at level of p = 0.05 based on Fisher’s post hoc test following analysis of variance. Abbreviation for locations: Gross Gerau (GGE), Hannover (HAN), Klein Altendorf (KAL), Kiel (KIE), Quedlinburg (QLB), and Rauischholzhausen (RHH). Un-balanced nine managements comprise of three treatments: nitrogen fertilizer, fungicide application and water availability. Nitrogen treatments has two levels: high (HN: 220 kg N ha−1) and low (LN: 110 kg N ha−1). Fungicide treatment contains two application levels: with (WF) or without (NF) fungicide application. Water availability treatment in this analysis has one levels: rain-fed (RF).
+Crop growth models overlook environmental interactions of dry mass allocation in field conditions
+The second validation is the extent to which the results from crop model simulations represent “real world” data. To achieve this, the Pearson correlation coefficient (r) between two agronomic traits (referred to as trait-trait correlation) in the field was compared with the trait-trait correlation simulated by the well-calibrated crop simulation model APSIM-wheat (doi: 10.5281/zenodo.7569104)21,22,23. As examples, we selected two locations (Hannover and Kiel) from one management scenario (high nitrogen and with fungicide under rain-fed condition; HN_WF_RF), where the maximum number of directly comparable traits to APSIM-wheat can be found. Note that each location also has a different number of traits measured. The analysis of trait-trait correlations encompassed eleven traits (Table 2): grain number (GN), grain protein concentration (GP), grain yield (GY), harvest index (HI), thousand grain weight (TGW), radiation use efficiency (rue), leaf area index (LAI), light extinction coefficient (k), flowering time (FT), maturity time (MT), and straw dry mass at maturity (Straw). In APSIM-wheat, radiation use efficient (rue) and light extinction coefficient (k) are input parameters that can be varied between simulations and the rest of the traits are simulated outputs. For each available pair of traits, r was calculated for both the simulation and the MET dataset.
+To validate whether crop models considering GxExM interactions correctly represent field observations, we showed pairwise correlations among traits (trait-trait correlations) between simulations and detailed field observations at two locations (Hannover and Kiel). In general, three relationships aligned well between field observations and simulations (Fig. 6): (1) a positive correlation was observed between grain number and grain yield (both locations r > 0.75; simulations: r = 0.67); (2) a negative correlation was observed between grain yield and grain protein concentration (both locations r < −0.79; simulations: r = −0.74); (3) a negative correlation was observed between grain number and thousand grain weight (both locations r < −0.53; simulations: r = −0.61). Consistency in these well-known trait-trait correlations showcases the ability of the APSIM-wheat model to represent relationships between yield components. However, two trait-trait correlations from field observations are weak or missing in the simulation: (1) a positive correlation was observed between straw dry mass at maturity and maturity time (Hannover: r = 0.71; Kiel: r = 0.45; simulation: r = 0.08), indicating the missing link of phenology and the growth of straw (an indicator of canopy volume) in the APSIM-wheat model. Furthermore, (2) a positive correlation was found between grain number and harvest index (Hannover: r = 0.67; Kiel: r = 0.52; simulation: r = −0.04), indicating that the allocation of dry mass to straw and grains should be re-examined in the crop model.
+Fig. 6
+Full size imageComparison of trait-trait correlations between field experiments and crop model simulations. Field dataset from three consecutive years (2015–2017) under high nitrogen and fungicide application in rain-fed treatment (HN_WF_RF) from (A) Hannover and (B) Kiel was used. Simulation dataset comes from previous publications (doi: 10.5281/zenodo.7569104)21,22. Each point represents the Pearson correlation coefficient (r) between two traits observed in the field experiment (x-axis) and in the simulations of APSIM-wheat (y-axis). The diagonal dashed line represents a one-to-one line and the distance of a point to the one-to-one line represents the similarity of r between field and simulation. Abbreviation of ten traits are: flowering time (FT); harvest index (HI); light extinction coefficient (k); leaf area index (LAI); maturity time (MT); grain number (GN); grain protein concentration (GP); grain yield (GY); radiation use efficiency (rue); straw dry mass at maturity (Straw) and thousand grain weight (TGW). The trait-trait combinations were bolted if their distances to one-to-one line below 0.09 and both absolute value of x and y larger than 0.5.
+Correlations related to straw dry mass showed contrasts between locations and were frequently inconsistent between field and simulation (Fig. 6). For instance, simulated results overestimated the positive correlation between grain yield and straw dry mass at maturity (Hannover: r = 0.37; Kiel: r = −0.12; simulation: r = 0.62). Additionally, simulated results overestimated the negative correlation between grain protein and straw dry mass at maturity (Hannover: r = −0.2; Kiel: r = 0.28; simulation: r = −0.5). Together, these results indicate a potential improvement of crop models by better considering the canopy development and dry mass allocation. Extensive MET trait datasets like the one described here are essential to achieve this.
+Breeding progress in straw dry mass at maturity, TGW and harvest index explain 48% of grain yield improvement
+Since the data were collected to estimate breeding progress of different agronomic traits in winter wheat, the third validation showcased to which extent breeding progress (BP) in agronomic traits contributed to the BP in grain yield. BP was defined as the slope from simple linear regression between BLUEs of cultivars and their year of release. Analysis was conducted on a subset of 191 cultivars representing the breeding history of winter wheat in Germany between 1963 and 201310. The agronomic traits (Table 2) include grain per spike (GpS), harvest index (HI), spike number (SN), thousand grain weight (TGW) and straw dry mass at maturity (Straw). BP analysis was conducted to all combinations (all) of Y/L/M or single grouping of Y/L/M by a multi-linear regression (3):
+$${{\rm{BP}}}_{{\rm{GY}}}={{\rm{BP}}}_{{\rm{TGW}}}+{{\rm{BP}}}_{{\rm{HI}}}+{{\rm{BP}}}_{{\rm{straw}}}+{{\rm{BP}}}_{{\rm{GpS}}}+{{\rm{BP}}}_{{\rm{SN}}}+{\rm{\varepsilon }}$$
+ (3)
+ where all regressors of breeding progress are assumed to have fixed effect, and the error term is ε. With the regression model, we further quantify the relative importance of each regressor from multi-linear regression using R package relaimpo24.
+Breeding progress (BP) of grain yield and six other agronomic traits (Table 2) varied largely between years, locations and managements and showed contrasting distributions across 40 growing condition (Y/L/M) (Fig. 7). Grain number, grain yield and harvest index have all BP values above zero, while the most inconsistent traits, namely spike number and straw dry mass at maturity (Fig. 4), have negative BP values in 13 (33%) and 17 (42%) of the 40 growing conditions, respectively. Breeding progress for grain yield (BPGY) showed three-fold differences between growing conditions, ranging from 0.23 to 0.68 (dt/ha year) with average BPGY = 0.37 (dt/ha year). In general, BP values close to 0 are more likely to show a higher p-value of regression.
+Fig. 7
+Full size imageDistribution of breeding progress (BP) of eight agronomic traits from all combinations of growing conditions (Y/L/M). (a-h) Abbreviation of eight traits: straw dry mass at maturity (Straw), spike number (SN), thousand grain weight (TGW), shoot dry mass at maturity (SDM), grain per spike (GpS), grain number (GN), harvest index (HI), grain yield (GY). Unit abbreviations: Nbr stands for number; year stands for difference in year of release between genotypes. Colours and stars symbols refers to significance level of p-value of each term in (5): * and red refers to significance at 5% level; ** and green refers to significance at 1% level; *** and blue refers to significance at 0.1% level; purple refers to not significant with p-value larger than 5% level. CVBPtrait stands for coefficient of variation; BPtrait over bar stands for mean BPtrait.
+The contribution of BP for five agronomic traits (Table 2) to BP for grain yield can be validated by multi-linear regression (3) with or without grouping of growing conditions. In most cases the regression coefficient (β) was not significant (p-value > 0.05) and showed no pattern across the grouping (Table 3). In cases without grouping (all), BPStraw, BPTGW and BPHI were significant regressors, which collectively explained 48% of the R2 in BPGY (Fig. 8). Note that the result from relative importance should be considered together with the β. Positive β of these three traits suggested that growing conditions stimulating stronger straw growth, higher grain per spike and heavier grain of the modern cultivars led to higher BPGY. Non-significance in β could be related to the low number of observations (number in brackets in 
+Table 3 Coefficient of regressors in multi-linear regression (3) for breeding progress of grain yield with or without grouping (all) of growing conditions.
+Full size tableFig. 8
+Full size imageMulti-linear regression analysis breeding progress (BP) in five traits to the BP of grain yield from no groupings (all) or single grouping of growing condition (Y/L/M). Stacked bar plot represent the relative importance of each trait in (4). Number in bracket refers to the number of observation for each level. Abbreviations of five traits are: grain per spike (GpS); harvest index (HI); spike number (SN); straw dry mass at maturity (Straw); total fungal infection area (TFI); and thousand grain weight (TGW). X-axis: no grouping (all: all growing conditions) and levels from single grouping of growing conditions.
+Figure 8). which could reduce the degree of freedom or the co-linearity among regressors.
+TFI, stability in HI, and GpS contributes to 77% of the yield stability
+The last validation of the dataset involved nine stability indices (SI) and showed the contribution of stability in five agronomic traits plus one pathogen trait to the stability of grain yield (GY). The five agronomic traits (Table 2) were grain protein (GP), grain per spike (GpS), harvest index (HI), spike number (SN), thousand grain weight (TGW), straw dry mass at maturity (Straw). The single pathogen trait considered in this case was the total fungal infection area (TFI). Nine SI including both static and dynamic concepts of stability were chosen: coefficient of determination (r2i), coefficient of regression (bi), deviation mean squares (s2di), ecovalence (Wi), environmental variance (S2xi), genotypic stability (D2i), genotypic superiority measure (Pi), stability variance (σ2i), variance of rank (Si4). Each SI was calculated for each genotypes of a trait. For each SI, a multi-linear regression was implemented (4):
+$${{\rm{SI}}}_{{\rm{GY}}}={{\rm{SI}}}_{{\rm{TGW}}}+{{\rm{SI}}}_{{\rm{HI}}}+{{\rm{SI}}}_{{\rm{straw}}}+{{\rm{SI}}}_{{\rm{GpS}}}+{{\rm{SI}}}_{{\rm{SN}}}+{\rm{TFI}}+{\rm{\varepsilon }}$$
+ (4)
+ where all regressors of stability indices are assumed to have fixed effect, and the error term is ε. Similar to technical validation III, the relative importance of each regressor from multi-linear regression was quantified using R package relaimpo24 and stability index was calculated using R package toolStability25.
+To validate the contribution of stability in seven agronomic traits to the yield stability, stability indices (SI) were calculated and multi-linear regression analyses (4) were conducted. As shown in in Table 4, the regression coefficient (β) showed significant and positive contribution of SITGW and SIHI to SIGY. Among nine SI, genotypic superiority index (Pi) for yield was best explained by the Pi of seven traits and showed significance in β for every trait considered.
+Table 4 Coefficient of seven regressors from multi-linear regression (4) for nine stability of grain yield of 220 genotypes.
+Full size tableThe contribution of regressors to R2 varied between SI (Fig. 9), ranging between 61% (variance of rank; Si4) to 94% (Pi). SITGW and SIHI were of most important traits and contributed collectively at least 36% to R2 across SI. In the case of Pi, 77% of R2 of SIGY could be explained by the three main contributors: total fungi infection area (TFI), SIHI and SIGps. Interestingly, the stability of the least consistent traits - spike number and straw (Fig. 4) - explained together less than 6% of SIGY (Fig. 9). Furthermore, we showed that the relative importance of the stability of a trait depended on SI. For instance, TFI explain from 1.5% (coefficient of regression; bi) to 26% (Pi) of R2 in SI in grain yield.
+Fig. 9
+Full size imageMulti-linear regression analysis of stability in six traits (SItrait) to stability of grain yield using nine stability indices (SI). Stacked bar plot represents relative importance of each trait in (5). Abbreviations of seven traits: grain protein concentration (GP); grain per spike (GpS); harvest index (HI); spike number (SN); straw dry mass at maturity (Straw); total fungal infection area (TFI); and thousand grain weight (TGW). Nine SI: coefficient of determination (r2i), coefficient of regression (bi), deviation mean squares (S 2di), ecovalence (Wi), environmental variance (S2xi), genotypic stability (D2i), genotypic superiority measure (Pi), stability variance (σ2i), variance of rank (Si4).
+
+ 
+ 
+
+ 
+ Code availability
+
+ 
+ The data were processed in R (version 4.3.2). The code to reproduce the results in this publication is publicly available at https://github.com/tillrose/BRIWECS_Data_Publication (pre-processing and visualization) and https://github.com/Illustratien/Scientific_Data_Analyis (technical validation I–IV). Both codes are subject to the MIT license (https://opensource.org/license/mit).
+
+ References
+FAOSTAT. Available at https://www.fao.org/faostat/en/#home (2023).
+Calderini, D. F. & Slafer, G. A. Changes in yield and yield stability in wheat during the 20th century. Field Crops Research 57, 335–347, https://doi.org/10.1016/S0378-4290(98)00080-X (1998).
+Article 
+ MATH 
+ 
+ Google Scholar 
+ 
+Brisson, N. et al. Why are wheat yields stagnating in Europe? A comprehensive data analysis for France. Field Crops Research 119, 201–212, https://doi.org/10.1016/j.fcr.2010.07.012 (2010).
+Article 
+ MATH 
+ 
+ Google Scholar 
+ 
+Lin, M. & Huybers, P. Reckoning wheat yield trends. Environmental Research Letters 7, 24016, https://doi.org/10.1088/1748-9326/7/2/024016 (2012).
+Article 
+ 
+ Google Scholar 
+ 
+Schauberger, B. et al. Yield trends, variability and stagnation analysis of major crops in France over more than a century. Scientific reports 8, 16865, https://doi.org/10.1038/s41598-018-35351-1 (2018).
+Article 
+ ADS 
+ PubMed 
+ PubMed Central 
+ MATH 
+ CAS 
+ 
+ Google Scholar 
+ 
+Steensland, A. 2020 global agricultural productivity report: productivity in a time of pandemics (Thompson, T., Ed., Virginia Tech College of Agriculture and Life Sciences Global Programs, 2020).
+Garnett, T. et al. Agriculture. Sustainable intensification in agriculture: premises and policies. Science 341, 33–34, https://doi.org/10.1126/science.1234485 (2013).
+Article 
+ ADS 
+ PubMed 
+ MATH 
+ CAS 
+ 
+ Google Scholar 
+ 
+Tilman, D., Balzer, C., Hill, J. & Befort, B. L. Global food demand and the sustainable intensification of agriculture. Proceedings of the National Academy of Sciences of the United States of America 108, 20260–20264, https://doi.org/10.1073/pnas.1116437108 (2011).
+Article 
+ ADS 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Cormier, F. et al. A multi-environmental study of recent breeding progress on nitrogen use efficiency in wheat (Triticum aestivum L.). Theoretical and Applied Genetics 126, 3035–3048, https://doi.org/10.1007/s00122-013-2191-9 (2013).
+Article 
+ PubMed 
+ MATH 
+ 
+ Google Scholar 
+ 
+Voss-Fels, K. P. et al. Breeding improves wheat productivity under contrasting agrochemical input levels. Nature Plants 5, 706–714, https://doi.org/10.1038/s41477-019-0445-5 (2019).
+Article 
+ PubMed 
+ MATH 
+ 
+ Google Scholar 
+ 
+Sabir, K. et al. Stage-specific genotype-by-environment interactions determine yield components in wheat. Nature Plants 9, 1688–1696, https://doi.org/10.1038/s41477-023-01516-8 (2023).
+Article 
+ PubMed 
+ MATH 
+ 
+ Google Scholar 
+ 
+Zetzsche, H., Friedt, W. & Ordon, F. Breeding progress for pathogen resistance is a second major driver for yield increase in German winter wheat at contrasting N levels. Scientific reports 10, 20374, https://doi.org/10.1038/s41598-020-77200-0 (2020).
+Article 
+ PubMed 
+ PubMed Central 
+ CAS 
+ 
+ Google Scholar 
+ 
+Rose, T. & Kage, H. The Contribution of Functional Traits to the Breeding Progress of Central-European Winter Wheat Under Differing Crop Management Intensities. Frontiers in Plant Science 10, 1521, https://doi.org/10.3389/fpls.2019.01521 (2019).
+Article 
+ PubMed 
+ PubMed Central 
+ 
+ Google Scholar 
+ 
+Lichthardt, C., Chen, T.-W., Stahl, A. & Stützel, H. Co-Evolution of Sink and Source in the Recent Breeding History of Winter Wheat in Germany. Frontiers in Plant Science 10, 1771, https://doi.org/10.3389/fpls.2019.01771 (2019).
+Article 
+ PubMed 
+ MATH 
+ 
+ Google Scholar 
+ 
+Wang, T.-C., et al. Multi-environment field trials for wheat yield, stability and breeding progress in Germany. Available at https://doi.org/10.6084/m9.figshare.27910269 (Figshare, 2024).
+Sabir, K., et al. Stage-specific genotype-by-environment interactions determine yield components in wheat. Available at https://zenodo.org/records/8248543 (Zenodo, 2023).
+Zetzsche, H., Heinze, J., Friedt, W. & Ordon, F. Data: Breeding progress for pathogen resistance is a second major driver for yield increase in German winter wheat at contrasting N levels. Available at https://zenodo.org/records/3697514 (Zenodo, 2020).
+Sprent, P. & Dolby, G. R. Query: The Geometric Mean Functional Relationship. Biometrics 36, 547–550, https://doi.org/10.2307/2530224 (1980).
+Article 
+ MATH 
+ 
+ Google Scholar 
+ 
+Correndo, A. A., Hefley, T. J., Holzworth, D. P. & Ciampitti, I. A. Revisiting linear regression to test agreement in continuous predicted-observed datasets. Agricultural Systems 192, 103194, https://doi.org/10.1016/j.agsy.2021.103194 (2021).
+Article 
+ 
+ Google Scholar 
+ 
+Warton, D. I., Wright, S. T. & Wang, Y. Distance-based multivariate analyses confound location and dispersion effects. Methods in Ecology and Evolution 3, 89–101, https://doi.org/10.1111/j.2041-210X.2011.00127.x (2012).
+Article 
+ MATH 
+ 
+ Google Scholar 
+ 
+Wang, T.-C., Casadebaig, P. & Chen, T.-W. More than 1000 genotypes are required to derive robust relationships between yield, yield stability and physiological parameters: a computational study on wheat crop. Theoretical and Applied Genetics 136, 34, https://doi.org/10.1007/s00122-023-04264-7 (2023).
+Article 
+ PubMed 
+ CAS 
+ 
+ Google Scholar 
+ 
+Casadebaig, P. et al. Assessment of the Potential Impacts of Wheat Plant Traits across Environments by Combining Crop Modeling and Global Sensitivity Analysis. PLOS ONE 11, e0146385, https://doi.org/10.1371/journal.pone.0146385 (2016).
+Article 
+ PubMed 
+ PubMed Central 
+ CAS 
+ 
+ Google Scholar 
+ 
+Wang, T.-C., Chen, T.-W., Casadebaig, P. & Chenu, K. Data: More than 1000 genotypes are required to derive robust relationships between yield, yield stability and physiological parameters: a computational study on wheat crop. Available at https://zenodo.org/records/7569104 (Zenodo, 2023).
+Groemping, U. Relative Importance for Linear Regression in R: The Package relaimpo. Journal of Statistical Software 17, 1–27, https://doi.org/10.18637/jss.v017.i01 (2006).
+Article 
+ 
+ Google Scholar 
+ 
+Wang, T.-C. & Chen, T.-W. toolStability: Tool for Stability Indices Calculation. R package version 0.1.1. Available at https://cran.r-project.org/package=toolStability (2022).
+Download references
+Acknowledgements
+The collection of the MET dataset was supported by the German Federal Ministry of Education and Research (BMBF) grant no. 031A354 to W.F., H.K., J.L., F.O., R.J.S. and H.S. within the project Breeding Innovations in Wheat for Efficient Cropping Systems (BRIWECS) as part of the funding initiative Innovative Plant Breeding in the Production Systems (IPAS). T.-W.C. was funded by Deutsche Forschungsgemeinschaft (German Research Foundation, DFG) under project number 419973621 and 442020478. T.-W.C., R.J.S. and A.S. were funded by DFG under project numbers 518863370, 518783157 and 518913298, respectively. We acknowledge support by the Open Access Publication Fund of Humboldt-Universität zu Berlin.
+Funding
+Open Access funding enabled and organized by Projekt DEAL.
+Author information
+Author notesThese authors contributed equally: Tien-Cheng Wang, Till Rose.
+Authors and Affiliations
+Section of Intensive Plant Food Systems, Albrecht Daniel Thaer-Institute of Agricultural and Horticultural Sciences, Humboldt Universität zu Berlin, Berlin, Germany
+Tien-Cheng Wang & Tsu-Wei Chen
+Department of Agronomy and Crop Science, Christian Albrechts University of Kiel, Kiel, Germany
+Till Rose & Henning Kage
+Julius Kuehn Institute (JKI), Federal Research Centre for Cultivated Plants, Institute for Resistance Research and Stress Tolerance, Quedlinburg, Germany
+Holger Zetzsche, Frank Ordon & Andreas Stahl
+Institute of Crop Science and Resource Conservation, Chair of Plant Breeding, University of Bonn, Bonn, Germany
+Agim Ballvora & Jens Léon
+Department of Plant Breeding, IFZ Research Centre for Biosystems, Land Use and Nutrition, Justus Liebig University, Giessen, Germany
+Wolfgang Friedt, Rod J Snowdon & Benjamin Wittkop
+Bundessortenamt, Hannover, Germany
+Carolin Lichthardt
+Institute of Horticultural Production Systems, Leibniz University Hannover, Hannover, Germany
+Hartmut Stützel
+AuthorsTien-Cheng WangView author publicationsSearch author on:PubMed Google Scholar
+Till RoseView author publicationsSearch author on:PubMed Google Scholar
+Holger ZetzscheView author publicationsSearch author on:PubMed Google Scholar
+Agim BallvoraView author publicationsSearch author on:PubMed Google Scholar
+Wolfgang FriedtView author publicationsSearch author on:PubMed Google Scholar
+Henning KageView author publicationsSearch author on:PubMed Google Scholar
+Jens LéonView author publicationsSearch author on:PubMed Google Scholar
+Carolin LichthardtView author publicationsSearch author on:PubMed Google Scholar
+Frank OrdonView author publicationsSearch author on:PubMed Google Scholar
+Rod J SnowdonView author publicationsSearch author on:PubMed Google Scholar
+Andreas StahlView author publicationsSearch author on:PubMed Google Scholar
+Hartmut StützelView author publicationsSearch author on:PubMed Google Scholar
+Benjamin WittkopView author publicationsSearch author on:PubMed Google Scholar
+Tsu-Wei ChenView author publicationsSearch author on:PubMed Google Scholar
+Contributions
+T.-W.C. conceived the analyses. H.K., J.L., F.O., W.F., H.S. and A.S. conceived and designed the experiments. B.W. selected the genotypes. T.R., H.Z., A.B., H.K., J.L., C.L., F.O., R.J.S., A.S., H.S., B.W. and T.-W.C. collected the data. T.-C.W. and T.R. pre-processed and maintain the data repository. T.-C.W. and T.-W.C. wrote the manuscript. All authors helped to revise the manuscript.
+Corresponding author
+Correspondence to
+ Tsu-Wei Chen.
+Ethics declarations
+
+ 
+ Competing interests
+
+ The authors declare no competing interests.
+
+ 
+ Additional information
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+supplementary table (download XLSX )
+Rights and permissions
+
+ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+ Reprints and permissions
+About this article
+Cite this article
+Wang, TC., Rose, T., Zetzsche, H. et al. Multi-environment field trials for wheat yield, stability and breeding progress in Germany.
+ Sci Data 12, 64 (2025). https://doi.org/10.1038/s41597-024-04332-7
+Download citation
+Received: 20 August 2024
+Accepted: 18 December 2024
+Published: 14 January 2025
+Version of record: 14 January 2025
+DOI: https://doi.org/10.1038/s41597-024-04332-7
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable linkSorry, a shareable link is not currently available for this article.
+
+Copy shareable link to clipboard
+ Provided by the Springer Nature SharedIt content-sharing initiative
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Download PDF
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+ 
+ 
+ 
+ Explore content
+
+ 
+ 
+ 
+ 
+ 
+ Research articles
+ 
+ 
+ 
+ 
+ 
+ News & Comment
+ 
+ 
+ 
+ 
+ 
+ Collections
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Follow us on X
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign up for alerts
+ 
+ 
+ 
+ 
+ 
+ 
+ RSS feed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About the journal
+
+ 
+ 
+ 
+ 
+ Aims and scope
+ 
+ 
+ 
+ 
+ 
+ Journal Metrics
+ 
+ 
+ 
+ 
+ 
+ Editors
+ 
+ 
+ 
+ 
+ 
+ Policies
+ 
+ 
+ 
+ 
+ 
+ Open Access Fees and Funding
+ 
+ 
+ 
+ 
+ 
+ Calls for Papers
+ 
+ 
+ 
+ 
+ 
+ Contact
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Publish with us
+
+ 
+ 
+ 
+ 
+ Submission Guidelines
+ 
+ 
+ 
+ 
+ 
+ 
+ Language editing services
+ 
+ 
+ 
+ 
+ 
+ Open access funding
+ 
+ 
+ 
+ 
+ Submit manuscript
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ Search
+
+ 
+ Search articles by subject, keyword or author
+ 
+ 
+ 
+ 
+ 
+ 
+ Show results from
+ 
+ 
+ 
+ All journals
+ This journal
+ 
+ 
+ 
+ 
+ 
+ Search
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ Advanced search
+ 
+ 
+
+ Quick links
+
+ 
+ Explore articles by subject
+ Find a job
+ Guide to authors
+ Editorial policies
+ 
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Scientific Data
+ 
+ (Sci Data)
+ 
+
+ 
+ 
+ 
+ ISSN 2052-4463 (online)
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+
+ 
+ 
+ nature.com footer links
+
+ 
+ 
+ 
+ About Nature Portfolio
+
+ 
+ About us
+ Press releases
+ Press office
+ Contact us
+ 
+ 
+
+ 
+ Discover content
+
+ 
+ Journals A-Z
+ Articles by subject
+ protocols.io
+ Nature Index
+ 
+ 
+ 
+
+ 
+ Publishing policies
+
+ 
+ Nature portfolio policies
+ Open access
+ 
+ 
+
+ 
+ Author & Researcher services
+
+ 
+ Reprints & permissions
+ Research data
+ Language editing
+ Scientific editing
+ Nature Masterclasses
+ Research Solutions
+ 
+ 
+
+ 
+ Libraries & institutions
+
+ 
+ Librarian service & tools
+ Librarian portal
+ Open research
+ Recommend to library
+ 
+ 
+
+ 
+ Advertising & partnerships
+
+ 
+ Advertising
+ Partnerships & Services
+ Media kits
+ 
+ Branded
+ content
+ 
+ 
+
+ 
+ Professional development
+
+ 
+ Nature Awards
+ Nature Careers
+ Nature 
+ Conferences
+ 
+ 
+
+ 
+ Regional websites
+
+ 
+ Nature Africa
+ Nature China
+ Nature India
+ Nature Japan
+ Nature Middle East
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Privacy
+ Policy
+ Use
+ of cookies
+ 
+ Your privacy choices/Manage cookies
+ 
+ 
+ Legal
+ notice
+ Accessibility
+ statement
+ Terms & Conditions
+ Your US state privacy rights
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ © 2026 Springer Nature Limited
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+ 
+ Close banner
+ 
+ 
+ 
+ 
+ 
+ 
+ Close
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ Email address
+
+ 
+ 
+ 
+ 
+ Sign up
+ 
+
+ 
+ 
+ I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ Close banner
+ 
+ 
+ 
+ 
+ 
+ 
+ Close
+ 
+
+
+
+ 
+ Get the most important science stories of the day, free in your inbox.
+ Sign up for Nature Briefing
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+

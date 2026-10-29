@@ -1,0 +1,20 @@
+{
+  "stage": "Phase2A",
+  "seed": 42,
+  "source": "Official Figshare 27910269.v1 only",
+  "cohort": {"years": [2015, 2016, 2017], "sites": ["GGE", "HAN", "KAL", "KIE", "QLB"], "target": "Seedyield", "unit": "dt/ha at 100% dry mass", "outlier_policy": "Keep all reliable finite nonnegative published yields; no outcome-based trimming", "missing_coordinates": "Keep only if Phase1 reliable_unit; no coordinates are required as model features"},
+  "F1": {"categorical": ["cultivar_id", "nitrogen", "fungicide", "water"], "numeric": ["release_year"], "water_policy": "GGE 2016/2017 marked UNKNOWN_V1 due documented ambiguity; preserve original treatment for grouping, never import corrected GitHub labels"},
+  "F2": {"type": "RETROSPECTIVE_ENVIRONMENTAL_MODEL", "window_start": "01-01", "window_end": "03-31", "year": "target harvest year", "numeric_additions": ["winter_temperature_mean", "winter_temperature_sd", "winter_precipitation_sum", "winter_radiation_sum"], "legality_gate": "Every site-year has actual recorded heading after cutoff, with earliest heading >=123 DOY; weather end <=90/91 DOY. Never use heading or harvest variables as model inputs; no full-season weather; no sowing-date reconstruction."},
+  "validation": ["LOSYO", "LOYO", "LOLO", "LOEO"],
+  "sensitivity": {"strategy": "LOSYO_NO_QLB", "exclude_entire_site": "QLB", "reason": "Predefined sensitivity to site-specific artificial-inoculation regime; no claim to isolate inoculation causally"},
+  "hyperparameter_selection": "NONE; fixed before training, no early stopping or test eval_set; inner CV NOT APPLICABLE",
+  "models": {
+    "TrainingMean": {},
+    "Ridge": {"alpha": 10.0, "solver": "lsqr", "tol": 0.00001},
+    "MixedLM": {"fixed": "release year + management (+ four weather features for F2); cultivar ID not fixed effect", "random": "site-year intercept and nested Block intercept", "prediction": "fixed effects only for all test strategies; no test random effect estimation", "method": "lbfgs", "maxiter": 100, "reml": true},
+    "CatBoost": {"iterations": 250, "depth": 6, "learning_rate": 0.05, "l2_leaf_reg": 5.0, "loss_function": "RMSE", "random_seed": 42, "thread_count": 4, "allow_writing_files": false, "verbose": false, "task_type": "CPU"},
+    "XGBoost": {"n_estimators": 250, "max_depth": 4, "learning_rate": 0.05, "min_child_weight": 10, "subsample": 0.8, "colsample_bytree": 0.8, "reg_lambda": 10.0, "objective": "reg:squarederror", "tree_method": "hist", "random_state": 42, "n_jobs": 4, "device": "cpu"}
+  },
+  "bootstrap": {"unit": "site-year", "replicates": 2000, "seed": 42, "interval": "percentile 95%; descriptive conditional uncertainty, only 5 sites and 3 years"},
+  "frozen_before_model_results": true
+}

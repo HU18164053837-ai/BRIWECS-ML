@@ -1,0 +1,45 @@
+﻿operation,state,evidence
+Frozen cohort/fold/prediction replay,VERIFIED,qa/Reproducibility_Checks.csv
+Guarded import scripts/run_phase1,VERIFIED,qa/Reproducibility_Checks.csv
+Guarded import Phase2A/scripts/prepare_data,VERIFIED,qa/Reproducibility_Checks.csv
+Guarded import Phase2A/scripts/train_models,VERIFIED,qa/Reproducibility_Checks.csv
+Guarded import Phase2B_Pilot/scripts/prepare,VERIFIED,qa/Reproducibility_Checks.csv
+Guarded import Phase2B_Pilot/scripts/train,VERIFIED,qa/Reproducibility_Checks.csv
+Guarded import Phase2B_Closure/scripts/prediction_analysis,VERIFIED,qa/Reproducibility_Checks.csv
+Guarded import Phase2B_Closure/scripts/adjusted_association,VERIFIED,qa/Reproducibility_Checks.csv
+Ridge parameter correspondence,VERIFIED,qa/Reproducibility_Checks.csv
+CatBoost parameter correspondence,VERIFIED,qa/Reproducibility_Checks.csv
+Seed correspondence,VERIFIED,qa/Reproducibility_Checks.csv
+Source config hash,VERIFIED,qa/Reproducibility_Checks.csv
+Dependency declaration coverage,VERIFIED,qa/Reproducibility_Checks.csv
+Executable Python source has no machine specific absolute paths,VERIFIED,qa/Reproducibility_Checks.csv
+Figure loader canonical path,VERIFIED,qa/Reproducibility_Checks.csv
+R real figure accounting code executed without drawing,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure1_A_Cohort_Counts.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure1_A_Label_QC.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure1_B_Environment_Coverage.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure1_C_Actual_Folds.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure1_C_Fold_Matrix.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure1_C_Matched_Training_Ranges.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure2_A_Environment_Increments.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure2_B_Aggregates_And_Intervals.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure2_C_QLB2015_Sensitivity.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure3_A_Absolute_Components.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure3_A_Environment_Components.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure3_B_Weighted_Components.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure3_C_Original_Rankings.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure3_C_Ranking_Changes.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure4_A_Matched_Environment_Increments.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure4_B_Absolute_MAE.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure4_C_Macro_Increments_And_Contrasts.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Figure numeric panel Figure4_Matched_Test_Fingerprints.csv,VERIFIED,qa/Reproducibility_Checks.csv
+Different working directory replay,VERIFIED,qa/Reproducibility_Checks.csv
+Version-locked raw data download and pinned repository acquisition,AVAILABLE_NOT_RERUN,Genuine scripts/configs and frozen inputs or fixed acquisition targets retained; not executed in this stage
+Raw-source cohort and disease-label reconstruction,AVAILABLE_NOT_RERUN,Genuine scripts/configs and frozen inputs or fixed acquisition targets retained; not executed in this stage
+Ridge and CatBoost training,AVAILABLE_NOT_RERUN,Genuine scripts/configs and frozen inputs or fixed acquisition targets retained; not executed in this stage
+Historical bootstrap intervals and adjusted association fitting,AVAILABLE_NOT_RERUN,Genuine scripts/configs and frozen inputs or fixed acquisition targets retained; not executed in this stage
+Full Figure 1–4 rendering and export,AVAILABLE_NOT_RERUN,Genuine scripts/configs and frozen inputs or fixed acquisition targets retained; not executed in this stage
+Fresh sequential end-to-end source-to-model reproduction,AVAILABLE_NOT_RERUN,Genuine scripts/configs and frozen inputs or fixed acquisition targets retained; not executed in this stage
+New clean environment installation and cross-platform certification,AVAILABLE_NOT_RERUN,Requirements and source supplied; no fresh installation or other-platform execution attempted
+Author rights-holder decision on original-code licence,BLOCKED,Not certified or requires author confirmation/explicit release authority; no blocker affects frozen numerical replay
+Public code release and journal submission,BLOCKED,Not certified or requires author confirmation/explicit release authority; no blocker affects frozen numerical replay

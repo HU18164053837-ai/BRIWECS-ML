@@ -1,0 +1,6 @@
+﻿key,rows,distinct_keys,duplicate_rows,missing_key_rows,join_policy
+Location|Year|Treatment|BRISONr,34683,15673,34681,0,Only unique full key to unique raw key; no many-to-many joins
+Location|Year|Treatment|BRISONr|Block,34683,33791,1784,0,Only unique full key to unique raw key; no many-to-many joins
+Year|Location|Treatment|Block|Row|Column|BRISONr,34683,34672,22,521,Only unique full key to unique raw key; no many-to-many joins
+Year|Location|Treatment|Block|Row|Column,34683,34113,640,521,Only unique full key to unique raw key; no many-to-many joins
+Year|Location|Treatment|Row|Column,34683,33484,1888,521,Only unique full key to unique raw key; no many-to-many joins

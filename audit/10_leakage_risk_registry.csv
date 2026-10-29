@@ -1,0 +1,14 @@
+﻿id,scope,severity,evidence,mitigation
+R01,disease labels,HIGH,author replaces NA/negative disease values by zero within Y/L/M,mask with original raw source; strict tables exclude unsupported zeros
+R02,early disease forecast,CRITICAL,plot table lacks disease assessment dates; workbook dates incomplete,NO-GO for proven leakage-free early forecast until dates and outcome definition resolved
+R03,whole-season weather,HIGH,weather extends after target and through 2024,truncate by prespecified cutoff; retrospective weather only for association
+R04,yield derived traits,CRITICAL,Grain=Seedyield*1000/TKW; Protein_yield=Seedyield*Crude_protein/100; Biomass/Straw derived via HI,exclude all yield descendants from yield predictors
+R05,50 cm vs whole plot,HIGH,"Seedyield_bio is mature 50 cm sample, different unit and sample source",do not substitute or count as independent plot
+R06,random record split,HIGH,"cultivar, blocks, year and site recur",split complete environments; fit preprocessing within training folds
+R07,artificial inoculation,HIGH,QLB NF artificially inoculated; WF non-inoculated,disease-specific flag; QLB stratification or exclusion for fungicide comparison
+R08,ambiguous identity,HIGH,duplicate or unmatched source keys,"exclude ambiguous rows; row numbers are lineage only, not biological plot IDs"
+R09,summary outcome semantics,HIGH,QLB antecedent study reports AO from repeated scores; cleaning casts to integer,avoid pooled instantaneous severity claims; raw precision and temporal definition require Phase 2 review
+R10,management actual versus planned,HIGH,observed fertilizer/fungicide events occur after sowing,pre-season model uses planned treatment only; actual events only before cutoff
+R11,phase and year,HIGH,2020 only KAL; II panel/site composition differs,report composition shift; 2020 not representative future-year evidence
+R12,date conversion,MEDIUM,Excel origin 1900-01-01 in author script may offset true workbook dates,use native workbook datetime; no automatic inherited-date legality
+R13,prior BLUEs,HIGH,fitting adjusted means across full data could share test information,use plot outcomes or calculate summaries entirely within each fold

@@ -1,0 +1,23 @@
+[
+  {
+    "repository": "BRIWECS_Data_Publication",
+    "commit": "48ed394e2a67a7dc1ac57221a9de8db8725200cf",
+    "branch": "main",
+    "remote": "https://github.com/tillrose/BRIWECS_Data_Publication.git",
+    "status": ""
+  },
+  {
+    "repository": "BRIWECS_Data_Publication_shallow",
+    "commit": "48ed394e2a67a7dc1ac57221a9de8db8725200cf",
+    "branch": "main",
+    "remote": "https://github.com/tillrose/BRIWECS_Data_Publication.git",
+    "status": ""
+  },
+  {
+    "repository": "Scientific_Data_Analyis",
+    "commit": "280635eb34614a2e75713375209e292aa0126072",
+    "branch": "master",
+    "remote": "https://github.com/Illustratien/Scientific_Data_Analyis.git",
+    "status": ""
+  }
+]
