@@ -1,4 +1,4 @@
-﻿path,ownership_class,licence_status
+path,ownership_class,licence_status
 .gitignore,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 audit/01_record_grain_audit.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 audit/02_join_key_integrity.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
@@ -107,15 +107,15 @@ Phase2A/results/metrics/model_fit_status.csv,BRIWECS-derived reanalysis scientif
 Phase2A/results/metrics/model_performance_summary.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 Phase2A/results/metrics/weather_extrapolation_flags.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 Phase2A/results/predictions/out_of_fold_predictions.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
-Phase2A/scripts/common.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2A/scripts/evaluate_models.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2A/scripts/finalize.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2A/scripts/inspect_inputs.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2A/scripts/make_reports.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2A/scripts/prepare_data.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2A/scripts/run_phase2a.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2A/scripts/train_models.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2A/scripts/verify_results.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2A/scripts/common.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2A/scripts/evaluate_models.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2A/scripts/finalize.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2A/scripts/inspect_inputs.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2A/scripts/make_reports.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2A/scripts/prepare_data.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2A/scripts/run_phase2a.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2A/scripts/train_models.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2A/scripts/verify_results.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
 Phase2B_Closure/config/analysis.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 Phase2B_Closure/config/inherited_disease_unit_evidence.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 Phase2B_Closure/config/inherited_pilot_cohort_freeze.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
@@ -159,13 +159,13 @@ Phase2B_Closure/results/tables/matched_domain_delete_environment.csv,BRIWECS-der
 Phase2B_Closure/results/tables/matched_strategy_environment_metrics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 Phase2B_Closure/results/tables/paired_ranking_changes.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 Phase2B_Closure/results/tables/QLB_comparable_AO_association.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
-Phase2B_Closure/scripts/adjusted_association.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Closure/scripts/closure_delivery.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Closure/scripts/common.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Closure/scripts/literature_sources.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Closure/scripts/prediction_analysis.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Closure/scripts/run_closure.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Closure/scripts/verify_delivery.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Closure/scripts/adjusted_association.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Closure/scripts/closure_delivery.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Closure/scripts/common.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Closure/scripts/literature_sources.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Closure/scripts/prediction_analysis.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Closure/scripts/run_closure.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Closure/scripts/verify_delivery.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
 Phase2B_Pilot/config/cohort_freeze.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 Phase2B_Pilot/config/disease_unit_evidence.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 Phase2B_Pilot/config/environment.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
@@ -202,18 +202,18 @@ Phase2B_Pilot/results/metrics/paired_uncertainty_analysis.csv,BRIWECS-derived re
 Phase2B_Pilot/results/metrics/R2_denominator_diagnostics.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 Phase2B_Pilot/results/metrics/within_environment_association.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 Phase2B_Pilot/results/predictions/disease_pilot_oof_predictions.parquet,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
-Phase2B_Pilot/scripts/associations.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/common.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/evaluate.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/figures.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/finalize.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/make_reports.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/measurement_evidence.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/posthoc_diagnostics.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/prepare.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/run_pilot.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/train.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-Phase2B_Pilot/scripts/verify.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+Phase2B_Pilot/scripts/associations.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/common.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/evaluate.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/figures.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/finalize.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/make_reports.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/measurement_evidence.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/posthoc_diagnostics.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/prepare.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/run_pilot.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/train.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+Phase2B_Pilot/scripts/verify.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
 Phase2B_Pilot/splits/disease_outer_fold_manifest.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 Phase2B_Pilot/splits/disease_test_sample_assignments.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 provenance/cc_by_4.html,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
@@ -223,10 +223,10 @@ provenance/Lean_Input_Receipt.csv,Configuration/documentation/provenance; rights
 provenance/Third_Party_Repositories.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 provenance/Zenodo_external_audit_only.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 publication_figures/reports/R_Session_And_Fonts.txt,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
-publication_figures/scripts/01_load_frozen_data.R,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-publication_figures/scripts/02_panel_data_and_checks.R,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-publication_figures/scripts/03_draw_figures.R,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-publication_figures/scripts/04_export_all.R,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+publication_figures/scripts/01_load_frozen_data.R,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+publication_figures/scripts/02_panel_data_and_checks.R,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+publication_figures/scripts/03_draw_figures.R,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+publication_figures/scripts/04_export_all.R,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
 publication_figures/source_data/panels/Figure1_A_Cohort_Counts.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 publication_figures/source_data/panels/Figure1_A_Label_QC.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
 publication_figures/source_data/panels/Figure1_B_Environment_Coverage.csv,BRIWECS-derived reanalysis scientific data,Retain CC BY 4.0 source attribution and identify changes; authors confirm any additional rights
@@ -249,20 +249,20 @@ README.md,Configuration/documentation/provenance; rights according to originatin
 Reproducibility_Status.csv,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 REPRODUCIBILITY_STATUS.md,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 requirements.txt,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
-scripts/acquire_sources.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-scripts/inspect_raw.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-scripts/make_reports.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-scripts/run_phase1.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-scripts/verify_phase1.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+scripts/acquire_sources.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+scripts/inspect_raw.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+scripts/make_reports.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+scripts/run_phase1.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+scripts/verify_phase1.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
 sources/basf-wheat-diseases.txt,Holst external feasibility data,CC BY 4.0; Zenodo attribution
 sources/figshare_article.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 sources/git_versions.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 third_party_licences/BRIWECS_Data_Publication/LICENSE.txt,Original third-party repository notice,"Original MIT notice retained, scoped to that repository"
 third_party_licences/Scientific_Data_Analyis/LICENSE.txt,Original third-party repository notice,"Original MIT notice retained, scoped to that repository"
 THIRD_PARTY_NOTICES.md,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
-tools/acquire_figshare_v1.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-tools/create_output_directories.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-tools/prepare_sources.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
-tools/validate_frozen.py,Original reanalysis/plotting/closure code; exact rights holders await confirmation,PENDING_AUTHOR_DECISION
+tools/acquire_figshare_v1.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+tools/create_output_directories.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+tools/prepare_sources.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
+tools/validate_frozen.py,Original reanalysis code; copyright 2026 Yi Hu,MIT; explicitly listed in MIT_CODE_SCOPE.csv
 validation_report.json,Configuration/documentation/provenance; rights according to originating file,Source notices retained; original contributions pending author decision
 FILE_OWNERSHIP.csv,Repository ownership classification,Original documentation; author decision pending

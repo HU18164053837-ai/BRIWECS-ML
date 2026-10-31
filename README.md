@@ -2,7 +2,7 @@
 
 This public repository accompanies the manuscript "Context-dependent incremental value of stripe-rust scores for winter wheat yield estimation: a multi-environment reanalysis". It contains historical analysis scripts, fixed model configurations, reconstructed disease-label records, cohort and validation assignments, frozen out-of-fold predictions, numerical results and publication-figure generation code.
 
-The repository supports inspection and verification of reported analyses. Frozen-result verification has been completed; a complete clean-environment, raw-data-to-model retraining exercise has not been independently demonstrated. Public accessibility does not confer an open-source licence for original code. No version-archive DOI is claimed.
+The repository supports inspection and verification of reported analyses. Frozen-result verification has been completed; a complete clean-environment, raw-data-to-model retraining exercise has not been independently demonstrated. The original code explicitly listed in MIT_CODE_SCOPE.csv is released under the MIT License (copyright 2026 Yi Hu); other materials retain their separate rights. No version-archive DOI is claimed.
 
 ## Quick verification without fitting
 
@@ -52,4 +52,9 @@ For a focused future refit from supplied frozen cohorts, the genuine train_model
 
 LOSYO holds out complete site-years within a previously observed cultivar network; it is not independent external or new-genotype validation. Natural and artificial-inoculation-related records are explicitly distinguished. Disease scores have heterogeneous endpoints and are not unconditionally harmonised percentage points. Error variance uses ddof=0. Equal-site-year and sample-weighted within-environment components are different summaries; the latter are not the global pooled bias–variance decomposition. Cultivar-mean rankings are descriptive, with unequal management composition. Fixed seeds and model parameters remain in the historical JSON configurations; no hyperparameter search was added.
 
-Original Figshare data and data-derived results require CC BY 4.0 attribution to Wang and colleagues and indication of reanalysis changes. The small Holst feasibility-audit dataset is separately attributed and did not enter model cohorts. Third-party repository source trees are downloaded on demand and their original licence notices remain under third_party_licences. No MIT/GPL licence is granted to original reanalysis code: see LICENSE_PENDING.md and FILE_OWNERSHIP.csv. Original-code rights/licensing and any future DOI remain pending. The public URL is stated above. Author and funding statements belong to the manuscript.
+Original Figshare data and data-derived results require CC BY 4.0 attribution to Wang and colleagues and indication of reanalysis changes. The small Holst feasibility-audit dataset is separately attributed and did not enter model cohorts. Third-party repository source trees are downloaded on demand and their original licence notices remain under third_party_licences. The 41 authorised original code files are MIT-licensed: see LICENSE, LICENSING.md and MIT_CODE_SCOPE.csv. Data and third-party rights remain separately scoped; any future DOI is not yet established. The public URL is stated above. Author and funding statements belong to the manuscript.
+
+
+## License
+
+[MIT License](LICENSE) applies only to original code in [MIT_CODE_SCOPE.csv](MIT_CODE_SCOPE.csv), copyright (c) 2026 Yi Hu. See [LICENSING.md](LICENSING.md) for exclusions. Data, derived products and third-party materials retain their respective licences and attribution requirements. Licensing does not establish a complete independent retraining exercise.
