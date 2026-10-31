@@ -1,6 +1,8 @@
-# BRIWECS disease information reanalysis
+# BRIWECS-ML: Stripe-rust information and winter wheat yield estimation
 
-Local public-repository candidate supporting the frozen manuscript. Real historical analysis sources, configurations, cohorts, fold assignments, combined out-of-fold predictions, numerical results and accepted plotting code are retained. This stage did not train models, run bootstraps, re-estimate associations or redraw figures. No public repository or DOI is claimed. Author approval and a licence for original reanalysis code remain required before release.
+This public repository accompanies the manuscript "Context-dependent incremental value of stripe-rust scores for winter wheat yield estimation: a multi-environment reanalysis". It contains historical analysis scripts, fixed model configurations, reconstructed disease-label records, cohort and validation assignments, frozen out-of-fold predictions, numerical results and publication-figure generation code.
+
+The repository supports inspection and verification of reported analyses. Frozen-result verification has been completed; a complete clean-environment, raw-data-to-model retraining exercise has not been independently demonstrated. Public accessibility does not confer an open-source licence for original code. No version-archive DOI is claimed.
 
 ## Quick verification without fitting
 
@@ -50,4 +52,4 @@ For a focused future refit from supplied frozen cohorts, the genuine train_model
 
 LOSYO holds out complete site-years within a previously observed cultivar network; it is not independent external or new-genotype validation. Natural and artificial-inoculation-related records are explicitly distinguished. Disease scores have heterogeneous endpoints and are not unconditionally harmonised percentage points. Error variance uses ddof=0. Equal-site-year and sample-weighted within-environment components are different summaries; the latter are not the global pooled bias–variance decomposition. Cultivar-mean rankings are descriptive, with unequal management composition. Fixed seeds and model parameters remain in the historical JSON configurations; no hyperparameter search was added.
 
-Original Figshare data and data-derived results require CC BY 4.0 attribution to Wang and colleagues and indication of reanalysis changes. The small Holst feasibility-audit dataset is separately attributed and did not enter model cohorts. Third-party repository source trees are downloaded on demand and their original licence notices remain under third_party_licences. No MIT/GPL licence is granted to original reanalysis code: see LICENSE_PENDING.md and FILE_OWNERSHIP.csv. Authors, funding, code rights and eventual release URL/DOI await confirmation.
+Original Figshare data and data-derived results require CC BY 4.0 attribution to Wang and colleagues and indication of reanalysis changes. The small Holst feasibility-audit dataset is separately attributed and did not enter model cohorts. Third-party repository source trees are downloaded on demand and their original licence notices remain under third_party_licences. No MIT/GPL licence is granted to original reanalysis code: see LICENSE_PENDING.md and FILE_OWNERSHIP.csv. Original-code rights/licensing and any future DOI remain pending. The public URL is stated above. Author and funding statements belong to the manuscript.

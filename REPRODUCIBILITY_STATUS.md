@@ -1,7 +1,14 @@
-# Reproducibility state definitions
+# Reproducibility status
 
-VERIFIED means an operation actually executed and passed in this closure stage: syntax/guarded imports, dependency/config checks, frozen cohort/fold/OOF verification, deterministic metric replay and reconstruction of figure numerical panels in a disposable scratch copy. It does not mean full training reproduction.
+Public access, code licensing and computational reproducibility are separate.
 
-AVAILABLE_NOT_RERUN means genuine sources/configs and frozen inputs or fixed publicly archived acquisition targets are supplied, but the historical operation was not rerun: raw acquisition, cohort and label re-creation, all fits, bootstrap intervals, adjusted association estimation and figure rendering. Raw-data reconstruction first requires the documented version-locked download. Output-manifest regeneration requires a fresh sequential working run. Do not invoke full runners for verification.
+## VERIFIED
+Previously executed checks covered syntax/guarded imports, recorded dependency/configuration checks, frozen file SHA256 receipts, cohort and LOSYO assignments/test identities, deterministic metrics from frozen OOF predictions and figure numerical-panel reconstruction. VERIFIED describes these recorded operations, not a fresh end-to-end retraining exercise. Evidence: validation logs/results, Reproducibility_Status.csv and tools/validate_frozen.py.
 
-BLOCKED applies to author/licence confirmation and public release where approval is absent. Clean-environment installation and cross-platform certification are AVAILABLE_NOT_RERUN, not demonstrated failures. No missing-input blocker affects the tested frozen replay path. No public-release licence has been selected, no repository has been published and no DOI has been obtained. Detailed stage states are in Reproducibility_Status.csv.
+## AVAILABLE_NOT_RERUN
+Genuine historical code/configurations are supplied for original-data acquisition and cohort/label reconstruction, all Ridge/CatBoost fitting, bootstrap intervals and adjusted association estimation. These were not fully rerun in the frozen-output verification. A fresh installation, cross-platform certification and full raw-data-to-model reproduction remain undemonstrated. Run full pipelines only in a separate working copy; they overwrite outputs and perform fitting/inference. See README for fixed acquisition and sequential manifest reconstruction.
+
+## PENDING
+Original reanalysis-code rights/licence require rights-holder authorisation. A version-archive DOI has not been established; no DOI is invented. Third-party materials remain under their respective notices; any unresolved redistribution authority needs author review. Public access has already been authorised and the repository is public.
+
+Reproducibility_Status.csv and historical verification reports describe the earlier local verification snapshot. Historical publication-approval status in those records must not be read as the current repository visibility. No historical scientific evidence has been rewritten.
